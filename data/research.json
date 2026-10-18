@@ -537,6 +537,56 @@
       "url": "https://www.reuters.com/world/asia-pacific/india-charges-pakistan-based-militant-groups-six-men-over-kashmir-tourist-attack-2025-12-15/",
       "review": "Full Reuters agency dispatch available and read",
       "note": "Confirms formal prosecution announcement against six individuals plus group(s), including three deceased during Operation Mahadev and two detained. Chargesheet contents beyond released excerpts not independently reviewed."
+    },
+    {
+      "id": "S54",
+      "title": "India Downed Five Pakistani Fighter Jets During Operation Sindoor: Air Chief Marshal A.P. Singh",
+      "publisher": "Akashvani News / Prasar Bharati",
+      "date": "2025-08-09",
+      "type": "primary",
+      "url": "https://newsonair.gov.in/india-downed-five-pakistani-fighter-jets-during-operation-sindoor-air-chief-marshal-a-p-singh/",
+      "review": "State broadcaster original public account of Air Chief's lecture read; raw video/tracking data not independently inspected",
+      "note": "Air Chief stated five PAF fighters and one larger ELINT/AEW&C aircraft downed; referred to S-400 and claimed electronic tracking. These are dated Indian military assertions."
+    },
+    {
+      "id": "S55",
+      "title": "India shot down six Pakistani military aircraft in May, air force chief says",
+      "publisher": "Reuters",
+      "date": "2025-08-09",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/asia-pacific/india-shot-down-six-pakistani-military-aircraft-may-air-force-chief-says-2025-08-09/",
+      "review": "Original Reuters report and syndication reviewed",
+      "note": "Reports A.P. Singh claim of five fighters plus one larger aircraft; Pakistan defence minister expressly rejected and said no Pakistani aircraft was destroyed."
+    },
+    {
+      "id": "S56",
+      "title": "IAF chief details Pakistani losses: aircraft taken out on ground, in air",
+      "publisher": "The Indian Express",
+      "date": "2025-10-03",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/india/pakistani-fighter-jets-f-16s-destroyed-operation-sindoor-air-force-chief-10285337/",
+      "review": "Detailed original press-briefing account read",
+      "note": "Reports October IAF estimate includes aircraft allegedly destroyed on ground and additional shootdowns, not identical category to August six airborne kills; underlying imagery, serial records and electronic tracking have not been independently validated."
+    },
+    {
+      "id": "S57",
+      "title": "MEA clarification on Pakistan warning timeline, 17 May 2025",
+      "publisher": "The Economic Times reporting India's Ministry of External Affairs",
+      "date": "2025-05-17",
+      "type": "independent",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/mea-rejects-claims-that-india-informed-pakistan-before-launching-operation-sindoor-clarifies-on-jaishankars-statement/articleshow/121238111.cms",
+      "review": "Published paraphrase of MEA clarification reviewed; full original official release not separately fetched",
+      "note": "MEA says communication occurred after operation began, not before. French air chief later spoke of prior warning; exact event reference and first minutes still require reconciliation."
+    },
+    {
+      "id": "S58",
+      "title": "Prime Minister addressing Lok Sabha special discussion on Operation Sindoor, 29 July 2025",
+      "publisher": "Prime Minister of India official website",
+      "date": "2025-07-29",
+      "type": "primary",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pm-addressing-lok-sabha-during-special-discussion-on-operation-sindoor/",
+      "review": "Official Prime Minister transcript indexed; relevant portion directly read",
+      "note": "PM said India's military informed Pakistan within minutes after objectives had been achieved, distinct from French chief's secondhand characterization of advance warning."
     }
   ],
   "timeline": [
@@ -782,6 +832,18 @@
       "class": "official"
     },
     {
+      "id": "T36",
+      "date": "2025-05-17",
+      "time": "official clarification reported",
+      "headline": "India denies forewarning Pakistan before strikes",
+      "detail": "MEA says Jaishankar remarks were misrepresented and communication was after launch rather than before; later French military testimony describes advance notification.",
+      "sources": [
+        "S57",
+        "S40"
+      ],
+      "class": "contested"
+    },
+    {
       "id": "T12",
       "date": "2025-05-31",
       "time": "interview date",
@@ -869,6 +931,41 @@
         "S34"
       ],
       "class": "official"
+    },
+    {
+      "id": "T37",
+      "date": "2025-07-29",
+      "time": "Lok Sabha discussion",
+      "headline": "Modi says Pakistan notified shortly after objectives were achieved",
+      "detail": "Prime Minister describes military-to-military notice within minutes of the opening goals being achieved, in contrast to French air chief's account of planned prior warning.",
+      "sources": [
+        "S58",
+        "S40"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T38",
+      "date": "2025-08-09",
+      "time": "military chief lecture",
+      "headline": "Indian air chief alleges six Pakistani aircraft downed",
+      "detail": "A.P. Singh asserts five fighter and one larger aircraft losses; Pakistan Defence Minister denies all Pakistani aircraft destruction.",
+      "sources": [
+        "S54",
+        "S55"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T39",
+      "date": "2025-10-03",
+      "time": "IAF Day press briefing",
+      "headline": "Indian Air Chief adds ground-strike Pakistani aircraft-loss claims",
+      "detail": "A.P. Singh says more aircraft were damaged/destroyed on the ground, a category different from the earlier six airborne losses. Public hull-by-hull independent verification remains absent.",
+      "sources": [
+        "S56"
+      ],
+      "class": "contested"
     },
     {
       "id": "T15",
@@ -1514,6 +1611,67 @@
       "sources": [
         "S40"
       ]
+    },
+    {
+      "id": "C49",
+      "topic": "Pakistan aircraft",
+      "claim": "The Indian Air Force chief claimed five Pakistani fighters and one larger military aircraft shot down in May.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Authenticated as a statement delivered by Air Chief Marshal A.P. Singh and reported on 9 August by state broadcaster and Reuters. Underlying electronic tracking and unique aircraft losses were not made public in these sources.",
+      "sources": [
+        "S54",
+        "S55"
+      ]
+    },
+    {
+      "id": "C50",
+      "topic": "Pakistan aircraft",
+      "claim": "India independently proved six Pakistani aircraft were destroyed in flight.",
+      "finding": "Unverifiable from available public evidence",
+      "confidence": "Low",
+      "assessment": "Indian air chief cited electronic tracking but this project has not inspected it, a serial-specific inventory, crash imagery or Pakistani admission. Pakistan defence minister denied losses.",
+      "sources": [
+        "S54",
+        "S55"
+      ]
+    },
+    {
+      "id": "C51",
+      "topic": "Pakistan aircraft",
+      "claim": "The Indian Air Force chief later asserted additional Pakistani aircraft damage/destruction on the ground.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "October 3 press reporting documents broader claims including aircraft alleged destroyed in hangars; it verifies claims, not actual hull damage. Count categories differ from August airborne-interception assertions.",
+      "sources": [
+        "S56",
+        "S55"
+      ]
+    },
+    {
+      "id": "C52",
+      "topic": "Warning chronology",
+      "claim": "India provided an unambiguous pre-strike warning to Pakistan before launching its opening 7 May action.",
+      "finding": "Under investigation",
+      "confidence": "Medium",
+      "assessment": "French chief reported an Indian counterpart's pre-raid warning explanation. MEA denied that Pakistan was warned before launch and PM later said notification came within minutes after objectives were achieved. Full DGMO call logs and exact definition of 'launch' are absent.",
+      "sources": [
+        "S40",
+        "S57",
+        "S58"
+      ]
+    },
+    {
+      "id": "C53",
+      "topic": "Warning chronology",
+      "claim": "India's government publicly said it informed Pakistan after the operation started/initial objectives were achieved.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Official PM statement and reported MEA clarification document Indian position; whether exact chronology matches French official's account is unresolved.",
+      "sources": [
+        "S58",
+        "S57"
+      ]
     }
   ],
   "targets": [
@@ -1813,6 +1971,33 @@
         "S42",
         "S15"
       ]
+    },
+    {
+      "id": "X16",
+      "title": "Pakistani aircraft losses: Indian August and October claims versus denial",
+      "sideA": "India's IAF chief in August asserted five Pakistani fighters plus one larger aircraft downed; October briefing described additional aircraft losses on the ground.",
+      "sideB": "Pakistan's defence minister rejected the August losses entirely and invited independent verification.",
+      "status": "Unresolved",
+      "required": "Seek aircraft-unique wreckage or service records, historical ground impact imagery and independent fatality/hull evidence. Reconcile airborne kills separately from hangar ground losses.",
+      "sources": [
+        "S54",
+        "S55",
+        "S56",
+        "S39"
+      ]
+    },
+    {
+      "id": "X17",
+      "title": "Did India give Pakistan advance warning before 7 May strikes?",
+      "sideA": "France's air chief testified that his Indian counterpart said India had warned Pakistan of an imminent raid to manage escalation.",
+      "sideB": "India's MEA denied advance notice prior to launch; Prime Minister described notice within minutes after first objectives achieved.",
+      "status": "Open",
+      "required": "Locate original French officer-contact time, Indian/Pakistani DGMO time-stamped call records and actual distinction between before movement, before impact and after first impact. Do not infer negligence from contradiction alone.",
+      "sources": [
+        "S40",
+        "S57",
+        "S58"
+      ]
     }
   ],
   "openQuestions": [
@@ -1947,6 +2132,18 @@
       "priority": "medium",
       "question": "Which anti-Rafale viral stories were fabricated, and which foreign diplomatic influence allegations are reproducibly established?",
       "next": "Preserve original and fact-checked posts, differentiate online meme trends from intelligence-source allegations and authenticated diplomatic contacts."
+    },
+    {
+      "id": "Q23",
+      "priority": "critical",
+      "question": "Did any of the Indian Air Force chief's alleged six Pakistani airborne kills or October claimed ground aircraft losses correspond to unique independently identifiable aircraft?",
+      "next": "Separate in-air and on-ground losses, identify overlap, review raw source briefings, independent public hull records, and Pakistani evidence; don't infer a loss from only a damaged hangar."
+    },
+    {
+      "id": "Q24",
+      "priority": "high",
+      "question": "Was Pakistan notified before the 7 May strikes, before their impact, during them, or immediately afterward?",
+      "next": "Reconcile India's public May and July statements with French parliamentary testimony; obtain original timestamped DGMO and diplomatic records."
     }
   ],
   "casualties": [
