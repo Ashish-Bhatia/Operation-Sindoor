@@ -482,11 +482,11 @@
       "id": "S48",
       "title": "Le Rafale face à la désinformation: lecture stratégique d’un ciblage informationnel",
       "publisher": "French Ministry of Armed Forces",
-      "date": "2025-07-01",
+      "date": null,
       "type": "primary",
       "url": "https://www.defense.gouv.fr/desinformation/nos-analyses-froid/rafale-face-desinformation-lecture-strategique-dun-ciblage-informationnel",
       "review": "Official source located via indexed text; direct full page failed",
-      "note": "French official analysis of false/manipulated Rafale-loss narratives. Date approximation pending verification: publication month used, not an asserted exact day."
+      "note": "French official analysis of false/manipulated Rafale-loss narratives. Precise publication date not established in this review."
     },
     {
       "id": "S49",
@@ -1337,9 +1337,11 @@
       "claim": "India's Defence Minister stated that no Indian soldiers were killed during the operation.",
       "finding": "Verified",
       "confidence": "High",
-      "assessment": "The minister made the statement on 28 July. This classification verifies the declaration, not a complete independently compiled Indian military casualty count.",
+      "assessment": "The minister's July 28 wording was that none of India's soldiers suffered casualties 'during the operation'. This verifies the statement, not a complete loss census. An Indian military briefing on May 11 reported five military deaths; definitions of the initial operation versus wider fighting require reconciliation.",
       "sources": [
-        "S33"
+        "S33",
+        "S52",
+        "S43"
       ]
     },
     {
@@ -1672,6 +1674,19 @@
         "S58",
         "S57"
       ]
+    },
+    {
+      "id": "C54",
+      "topic": "Military casualties",
+      "claim": "There is an unresolved scope tension between the Defence Minister's July no-soldier-casualties wording and the Indian military's reported five dead in May.",
+      "finding": "Under investigation",
+      "confidence": "High",
+      "assessment": "India's July retrospective wording and May 11 military briefing are independently documented public statements. They may refer to different phases of the crisis; evidence does not show that the minister denied all casualties in the broader 7–10 May fighting. The project must reconstruct what was included under 'Operation Sindoor' in each statement.",
+      "sources": [
+        "S33",
+        "S52",
+        "S43"
+      ]
     }
   ],
   "targets": [
@@ -1998,6 +2013,19 @@
         "S57",
         "S58"
       ]
+    },
+    {
+      "id": "X18",
+      "title": "No soldier casualties during Operation Sindoor versus five Indian soldiers killed in May fighting",
+      "sideA": "Defence Minister Rajnath Singh's 28 July parliamentary account said no Indian soldiers suffered casualties 'during the operation'.",
+      "sideB": "Indian DGMO's 11 May joint briefing, reported by AP, said five Indian soldiers were killed during the recent India–Pakistan hostilities.",
+      "status": "Scope and chronology unresolved",
+      "required": "Check full original video and literal wording of July minister's speech, May 11 military briefing, and date/event assignment of five fatalities. Do not equate the opening strike mission with the whole confrontation without evidence.",
+      "sources": [
+        "S33",
+        "S52",
+        "S43"
+      ]
     }
   ],
   "openQuestions": [
@@ -2144,6 +2172,12 @@
       "priority": "high",
       "question": "Was Pakistan notified before the 7 May strikes, before their impact, during them, or immediately afterward?",
       "next": "Reconcile India's public May and July statements with French parliamentary testimony; obtain original timestamped DGMO and diplomatic records."
+    },
+    {
+      "id": "Q25",
+      "priority": "high",
+      "question": "How can India's parliamentary statement of no soldier casualties 'during the operation' be reconciled with India's own reporting of five military deaths during the wider hostilities?",
+      "next": "Read complete unedited parliamentary and military briefings; determine the dates, branch, circumstances and operation-scope treatment of each fatality."
     }
   ],
   "casualties": [
