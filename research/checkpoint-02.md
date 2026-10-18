@@ -39,17 +39,23 @@ The original 1,597-page prosecution chargesheet and full supplementary filing ha
 
 These official figures describe at least 72 deaths in the two countries if combined without population/time overlap, but **72 is not a verified deduplicated final toll**. No comprehensive individual record or full injury count has been obtained. A contradiction exists because Pakistan's 13 May military statement lists **five** Air Force fatalities while a [Washington Post report, 14 May](https://www.washingtonpost.com/world/2025/05/14/india-pakistan-strikes-conflict-damage/) attributes **six** to the military. Source versions require reconciliation.
 
-### 6. Cessation and its immediate aftermath
+### 6. India’s parliamentary no-casualty wording versus the May military figure
+
+[PIB's account of Rajnath Singh's 28 July Lok Sabha remarks](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149356&lang=2&reg=48) says that no Indian soldiers suffered casualties **during the operation**. Yet [AP's account of India's 11 May joint military briefing](https://apnews.com/article/6fa80010fa8ffee1da1f28e7b593aa2d) records **five Indian soldiers killed** in the fighting.
+
+**Status:** This is a real documentary wording tension, not a demonstrated deliberate falsehood. The phrase “during the operation” may mean India's initial counterterrorism strikes or a narrower phase, whereas the five deaths may concern broader 7–10 May fighting. Resolving the issue requires full unedited official statements and date/incident classification for the five reported fatalities. Both statements are kept in the contradiction register, X18.
+
+### 7. Cessation and its immediate aftermath
 
 A documented cessation took effect at 17:00 IST (11:30 UTC) on 10 May. [Reuters](https://www.reuters.com/world/india/pakistan-says-three-air-bases-targeted-by-indian-missiles-2025-05-10/) recorded post-cessation fire and explosions, with both governments accusing the other of violations. This falsifies any description of the first implementation hours as incident-free but does **not** independently assign responsibility.
 
-### 7. Forewarning chronology unresolved
+### 8. Forewarning chronology unresolved
 
 In [official French parliamentary testimony](https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2025PO59046N082.html), Bellanger said his Indian counterpart explained having warned Pakistan of an imminent raid, reflecting escalation management. India's [17 May MEA clarification](https://economictimes.indiatimes.com/news/politics-and-nation/mea-rejects-claims-that-india-informed-pakistan-before-launching-operation-sindoor-clarifies-on-jaishankars-statement/articleshow/121238111.cms) rejects notice **before launch**, while the [Prime Minister's 29 July parliamentary account](https://www.pmindia.gov.in/en/news_updates/pm-addressing-lok-sabha-during-special-discussion-on-operation-sindoor/) said notification followed the initial objectives.
 
 These statements differ and need exact, authenticated DGMO timeline. No inference about deliberate compromise, advance Pakistani targeting advantage or misconduct is currently supported.
 
-### 8. Foreign influence and misinformation
+### 9. Foreign influence and misinformation
 
 [Associated Press, 6 July 2025](https://apnews.com/article/64eec86b6e89718d6a49d8fdedf565f4) described French intelligence findings alleging Chinese diplomatic efforts to damage Rafale sales. The report should be credited as a sourced French intelligence account, not an independently reproducible state-influence finding.
 
