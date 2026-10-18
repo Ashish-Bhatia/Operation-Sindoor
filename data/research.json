@@ -347,6 +347,36 @@
       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149793&lang=1&reg=3",
       "review": "Original official PIB parliamentary-remarks account directly read",
       "note": "Reaffirms India describes operation as halted, not ended, and restates deterrence and counterterrorism goals. Government statement, not evidence of effects."
+    },
+    {
+      "id": "S35",
+      "title": "Pakistan's bid to escalate negated: proportionate response by India",
+      "publisher": "India Ministry of Defence / Press Information Bureau",
+      "date": "2025-05-08",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127670",
+      "review": "Complete original PIB HTML release directly read",
+      "note": "At 14:34 IST India said its defence targets faced drones/missiles during 7–8 May, claimed retaliation against Pakistani air-defence radars and 16 civilian deaths from Pakistani shelling. Operational and casualty effects not independently corroborated here."
+    },
+    {
+      "id": "S36",
+      "title": "Press briefing on Operation Sindoor, 7 May",
+      "publisher": "Akashvani News / Prasar Bharati",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://newsonair.gov.in/press-briefing-on-operation-sindoor/",
+      "review": "State broadcaster HTML report directly read; original briefing footage not transcribed",
+      "note": "Reports Indian briefing's stated strike window of 01:05 to 01:30 IST on 7 May; this is the officially stated window, not independent weapons-track verification."
+    },
+    {
+      "id": "S37",
+      "title": "PIB public photograph album: Operation Sindoor press briefing",
+      "publisher": "India Press Information Bureau",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://pib.gov.in/ShowAlbum.aspx?albumid=194195&lang=1&reg=3",
+      "review": "Official photo-album result located by image search; full license and original image metadata not checked",
+      "note": "Official historical briefing imagery reference. Do not reproduce in site until publication rights confirmed."
     }
   ],
   "timeline": [
@@ -422,9 +452,10 @@
       "date": "2025-05-07",
       "time": "01:44 IST release",
       "headline": "Operation Sindoor publicly announced",
-      "detail": "India states nine sites targeted and says Pakistani military facilities were not targeted in the opening action.",
+      "detail": "India states nine sites targeted and says Pakistani military facilities were not targeted in the opening action. A government broadcaster subsequently reported the stated strike window as 01:05–01:30 IST; this remains an official timing assertion.",
       "sources": [
-        "S03"
+        "S03",
+        "S36"
       ],
       "class": "official"
     },
@@ -463,6 +494,17 @@
         "S11"
       ],
       "class": "reported"
+    },
+    {
+      "id": "T24",
+      "date": "2025-05-08",
+      "time": "14:34 IST PIB statement",
+      "headline": "India announces subsequent air-defence strikes and civilian shelling losses",
+      "detail": "India says Pakistani drones/missiles targeted its military sites overnight and India struck Pakistani air-defence radars, claiming a Lahore system was neutralized. It reports 16 civilians killed by Pakistani firing by that statement. Each effect/casualty requires independent checking.",
+      "sources": [
+        "S35"
+      ],
+      "class": "official"
     },
     {
       "id": "T09",
@@ -944,6 +986,40 @@
       "sources": [
         "S33",
         "S34"
+      ]
+    },
+    {
+      "id": "C28",
+      "topic": "Opening strikes",
+      "claim": "India's 7 May briefing placed the initial strike window between 01:05 and 01:30 IST.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "The time range is directly recorded by state broadcaster Akashvani as reported at the official briefing. Precise real-world impact times were not independently reconstructed.",
+      "sources": [
+        "S36",
+        "S03"
+      ]
+    },
+    {
+      "id": "C29",
+      "topic": "Civilian casualties",
+      "claim": "India's 8 May official release reported sixteen civilian deaths from Pakistani fire.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "The official release makes the dated claim, including three women and five children. The individuals and duplicate-free casualty tally were not verified independently.",
+      "sources": [
+        "S35"
+      ]
+    },
+    {
+      "id": "C30",
+      "topic": "Air-defence effects",
+      "claim": "An air-defence system at Lahore was neutralized by India's 8 May strikes.",
+      "finding": "Under investigation",
+      "confidence": "Low",
+      "assessment": "Indian official May 8 release asserted the effect; this first pass has no independently authenticated imagery or post-strike technical report on the system's functional state.",
+      "sources": [
+        "S35"
       ]
     }
   ],
