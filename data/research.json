@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 01",
+    "edition": "Research checkpoint 01, revised 19 October 2026",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
@@ -247,6 +247,86 @@
       "url": "https://mofa.gov.pk/press-releases/recent-developments-and-ceasefire-between-india-and-pakistan",
       "review": "Same underlying record as S08; retained as cross-reference not counted as independent corroboration",
       "note": "DO NOT DOUBLE COUNT with S08."
+    },
+    {
+      "id": "S25",
+      "title": "Pakistan National Security Committee statement on Indian measures",
+      "publisher": "Pakistan National Security Division",
+      "date": "2025-04-24",
+      "type": "primary",
+      "url": "https://nsd.gov.pk/NewsDetail/ZDdhYjc3ZjktODZmYS00NGVlLTg3YmYtMTVkMjc4ZjJiYzBh",
+      "review": "Public official HTML record directly reviewed",
+      "note": "Documents rejection of treaty abeyance, reciprocal airspace closure, diplomatic restrictions and trade measures. Statements on legality and attribution are positions, not verified adjudications."
+    },
+    {
+      "id": "S26",
+      "title": "Pakistan Foreign Ministry briefing repeating 24 April NSC decisions",
+      "publisher": "Pakistan Ministry of Foreign Affairs",
+      "date": "2025-04-25",
+      "type": "primary",
+      "url": "https://mofa.gov.pk/press-releases/transcript-of-the-weekly-press-briefing-by-the-spokesperson-friday-april-25-2025",
+      "review": "Public statement reviewed",
+      "note": "Repeats unilateral-suspension argument; same underlying Pakistan policy, not independent corroboration of S25."
+    },
+    {
+      "id": "S27",
+      "title": "PCA press release, award on status of Indus Waters Treaty and interim measures, 31 August 2026",
+      "publisher": "Permanent Court of Arbitration",
+      "date": "2026-08-31",
+      "type": "primary",
+      "url": "https://pca-cpa.org/en/news/pca-press-release-pca-case-no-2023-01-the-indus-waters-western-rivers-arbitration-islamic-republic-of-pakistan-v-republic-of-india-6/",
+      "review": "Official case notice indexed; host returned HTTP 403 when directly opened, attached decision PDF not independently analyzed",
+      "note": "Official PCA notice confirms an award on treaty status and an interim-measures order concerning Ratle hydroelectric plant. No assertion of accepted jurisdiction by India."
+    },
+    {
+      "id": "S28",
+      "title": "Matters pertaining to the illegally-constituted so-called Court of Arbitration",
+      "publisher": "India Ministry of External Affairs, Embassy of India Belgrade",
+      "date": "2026-08-31",
+      "type": "primary",
+      "url": "https://eoibelgrade.gov.in/index.php/listview/NzE2",
+      "review": "Original government statement directly read",
+      "note": "India rejects tribunal's constitution and jurisdiction and says Indus Waters Treaty abeyance remains in force."
+    },
+    {
+      "id": "S29",
+      "title": "Air India sees Pakistan airspace ban costing it $600 million over 12 months, seeks aid",
+      "publisher": "Reuters",
+      "date": "2025-05-01",
+      "type": "independent",
+      "url": "https://www.reuters.com/business/aerospace-defense/air-india-sees-pakistan-airspace-ban-costing-it-600-million-over-12-months-seeks-2025-05-01/",
+      "review": "Reuters full article directly read; reported estimate based on Air India letter, original complete letter not acquired",
+      "note": "Conditional company estimate for twelve months, not an observed audited 12-month cost. Reuters page displays May 2 UTC update."
+    },
+    {
+      "id": "S30",
+      "title": "Air India forms team to drive cost savings, memo shows",
+      "publisher": "Reuters",
+      "date": "2026-10-15",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/india/air-india-forms-team-drive-cost-savings-memo-shows-2026-10-15/",
+      "review": "Contemporaneous current reporting indexed; details independently verified only at news-excerpt level",
+      "note": "Airline experiencing multiple crises; reported company losses must not be attributed entirely to Indo-Pakistan restrictions."
+    },
+    {
+      "id": "S31",
+      "title": "Pakistan official statement of concern about Indus Waters Treaty",
+      "publisher": "Pakistan Radio",
+      "date": "2025-04-24",
+      "type": "primary",
+      "url": "https://www.radio.gov.pk/24-04-2025/pakistan-rejects-indian-announcement-to-hold-indus-waters-treaty-in-abeyance",
+      "review": "Original state broadcaster HTML article directly read",
+      "note": "State broadcaster repeats NSC measures and airspace/trade restrictions. Same governmental source as S25, not independent evidence of substantive claims."
+    },
+    {
+      "id": "S32",
+      "title": "PCA case docket, Indus Waters Western Rivers Arbitration",
+      "publisher": "Permanent Court of Arbitration",
+      "date": "2026-08-31",
+      "type": "primary",
+      "url": "https://pca-cpa.org/en/cases/284/",
+      "review": "Search-index case docket reviewed; direct site may block requests; original 31 August award PDFs not downloaded or fully examined",
+      "note": "Lists June 2025 competence, August 2025 general interpretation, and August 2026 treaty-status/interim-measures awards."
     }
   ],
   "timeline": [
@@ -273,6 +353,18 @@
       "class": "official"
     },
     {
+      "id": "T17",
+      "date": "2025-04-24",
+      "time": "official NSC announcement",
+      "headline": "Pakistan responds with trade and aviation restrictions",
+      "detail": "Pakistan's National Security Committee challenges India's treaty-abeyance declaration, restricts Indian aviation and trade, and reduces diplomatic representation.",
+      "sources": [
+        "S25",
+        "S31"
+      ],
+      "class": "official"
+    },
+    {
       "id": "T03",
       "date": "2025-04-25",
       "time": "unspecified",
@@ -293,6 +385,17 @@
         "S23"
       ],
       "class": "established"
+    },
+    {
+      "id": "T18",
+      "date": "2025-05-01",
+      "time": "report publication",
+      "headline": "Air India cost estimate enters public record",
+      "detail": "Reuters reports a company forecast of roughly US$600 million in extra costs if the airspace restriction persists for one year. It is not a realized loss figure.",
+      "sources": [
+        "S29"
+      ],
+      "class": "reported"
     },
     {
       "id": "T05",
@@ -390,6 +493,17 @@
       "class": "established"
     },
     {
+      "id": "T19",
+      "date": "2025-06-27",
+      "time": "PCA docket publication",
+      "headline": "Court of Arbitration issues supplemental competence award",
+      "detail": "PCA case docket lists a supplemental competence award, amid India's continuing objections to the tribunal. Original award not independently examined in this edition.",
+      "sources": [
+        "S32"
+      ],
+      "class": "official"
+    },
+    {
       "id": "T13",
       "date": "2025-07-28",
       "time": "day",
@@ -433,6 +547,30 @@
         "S16"
       ],
       "class": "official"
+    },
+    {
+      "id": "T20",
+      "date": "2026-08-31",
+      "time": "official public statements",
+      "headline": "Indus Waters Treaty tribunal award and Indian rejection",
+      "detail": "PCA announces an award on treaty status and Ratle interim measures. India rejects the tribunal's jurisdiction and maintains treaty abeyance.",
+      "sources": [
+        "S27",
+        "S28",
+        "S32"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T21",
+      "date": "2026-10-15",
+      "time": "Reuters report",
+      "headline": "Aviation restrictions remain an economic concern",
+      "detail": "Reuters describes Pakistan airspace restrictions among several pressures on Air India; aggregate airline losses cannot be attributed to the conflict alone.",
+      "sources": [
+        "S30"
+      ],
+      "class": "reported"
     }
   ],
   "claims": [
@@ -641,6 +779,69 @@
         "S11",
         "S12"
       ]
+    },
+    {
+      "id": "C18",
+      "topic": "Indus Waters Treaty",
+      "claim": "A PCA-administered tribunal issued an award on treaty status and interim measures on 31 August 2026.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "PCA official case docket and 31 August press notice document the award and order. The legal effect and parties' obligations are a separate and contested question.",
+      "sources": [
+        "S27",
+        "S28",
+        "S32"
+      ]
+    },
+    {
+      "id": "C19",
+      "topic": "Indus Waters Treaty",
+      "claim": "India accepted the tribunal's 31 August 2026 jurisdiction and award.",
+      "finding": "Contradicted by evidence",
+      "confidence": "High",
+      "assessment": "India's dated official statement expressly rejected the award and the tribunal's jurisdiction. This verifies India's position, without deciding whether that legal position is correct.",
+      "sources": [
+        "S28",
+        "S27"
+      ]
+    },
+    {
+      "id": "C20",
+      "topic": "Indus Waters Treaty",
+      "claim": "India's treaty-abeyance announcement conclusively and legally suspended every treaty obligation.",
+      "finding": "Under investigation",
+      "confidence": "Medium",
+      "assessment": "The disputants' treaty and arbitration-law positions conflict. The tribunal issued an award regarding status; India rejects its jurisdiction. Definitive legal assessment requires full award and treaty analysis.",
+      "sources": [
+        "S25",
+        "S27",
+        "S28",
+        "S32"
+      ]
+    },
+    {
+      "id": "C21",
+      "topic": "Economics",
+      "claim": "Air India's US$600 million projected cost was a measured, audited loss already incurred.",
+      "finding": "Misleading",
+      "confidence": "High",
+      "assessment": "Reuters described a conditional prospective estimate for a 12-month airspace closure, citing Air India's letter. The estimate is not an audited realization and other airline losses have multiple causes.",
+      "sources": [
+        "S29",
+        "S30"
+      ]
+    },
+    {
+      "id": "C22",
+      "topic": "Bilateral measures",
+      "claim": "Pakistan announced airspace, trade and diplomatic restrictions after India's 23 April 2025 measures.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Pakistan's National Security Committee publicly enumerated these measures on 24 April. Implementation and end dates need separate verification.",
+      "sources": [
+        "S25",
+        "S31"
+      ]
     }
   ],
   "targets": [
@@ -835,6 +1036,20 @@
         "S04",
         "S08"
       ]
+    },
+    {
+      "id": "X08",
+      "title": "Indus Waters Treaty status and arbitration jurisdiction",
+      "sideA": "The Court of Arbitration issued an award about treaty status and interim measures on 31 August 2026.",
+      "sideB": "India expressly rejected the tribunal's constitution, jurisdiction and award, maintaining its decision to hold the treaty in abeyance.",
+      "status": "Legal assessment pending",
+      "required": "Read full 1960 treaty, the tribunal's competence awards and August 2026 status award, then test India's objections against relevant treaty and international law.",
+      "sources": [
+        "S25",
+        "S27",
+        "S28",
+        "S32"
+      ]
     }
   ],
   "openQuestions": [
@@ -909,6 +1124,18 @@
       "priority": "medium",
       "question": "What 2026 judicial and institutional developments supersede earlier claims?",
       "next": "Find signed orders and NIA releases dated after 6 July 2026; verify not merely case announcements."
+    },
+    {
+      "id": "Q13",
+      "priority": "high",
+      "question": "What is the precise legal significance of the 31 August 2026 Indus Waters arbitration award, given India's express jurisdictional objection?",
+      "next": "Read full primary award and original treaty, examine constitution/jurisdiction decisions and relevant legal commentary without assuming binding enforcement."
+    },
+    {
+      "id": "Q14",
+      "priority": "medium",
+      "question": "What share of Air India's and other airlines' documented 2025-26 costs resulted from the Pakistan airspace restriction?",
+      "next": "Acquire realized financial data, route-distance changes and airline disclosures; separate conflict-linked costs from other disruptions."
     }
   ]
 }
