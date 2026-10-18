@@ -2,7 +2,7 @@
 
 **Evidence cutoff:** 19 October 2026  
 **Status:** Documentary first pass, not a completed investigation  
-**Scope completed:** Core 22 April–10 May chronology; official statement comparisons; Pahalgam prosecution milestones; first aircraft-loss evaluation; preliminary satellite-damage leads; cessation contradiction.  
+**Scope completed:** Core 22 April–10 May chronology; official statement comparisons; Pahalgam prosecution milestones; first aircraft-loss evaluation; preliminary satellite-damage leads; cessation contradiction; 2026 Indus Waters arbitration and an attributable aviation-cost forecast.  
 **Scope not completed:** Forensic reconstruction, original chargesheet exhibits, individual loss roster, casualty deduplication, full airbase image analysis, comprehensive legal and economic assessment, and full late-2026 document sweep.
 
 ## Executive assessment
@@ -81,6 +81,23 @@ News outlets reported Maxar and other commercial satellite imagery showing physi
 
 **Finding:** Existence of the understanding is verified. The diplomatic process and causal role of foreign intervention remain contested. Direct military communication and US diplomatic outreach could coexist.
 
+## Case 06: Indus Waters Treaty arbitration (through 31 August 2026)
+
+The treaty dispute did not conclude when military firing ceased.
+
+- **23–24 April 2025:** India announced that it would hold the Indus Waters Treaty in abeyance after the Pahalgam attack. Pakistan's National Security Committee rejected the legal validity of unilateral suspension and imposed reciprocal aviation, trade and diplomatic measures. [Pakistan NSC original statement](https://nsd.gov.pk/NewsDetail/ZDdhYjc3ZjktODZmYS00NGVlLTg3YmYtMTVkMjc4ZjJiYzBh).
+- **27 June 2025:** The PCA case docket lists a supplemental award on competence, relevant to the jurisdiction dispute. Its complete PDF has not been reviewed in this edition.
+- **31 August 2026:** The PCA published a formal notice that a Court of Arbitration had issued an [award on the status of the Indus Waters Treaty and order on interim measures concerning Ratle](https://pca-cpa.org/en/news/pca-press-release-pca-case-no-2023-01-the-indus-waters-western-rivers-arbitration-islamic-republic-of-pakistan-v-republic-of-india-6/). The [PCA case docket](https://pca-cpa.org/en/cases/284/) lists relevant decisions. The official PCA website blocks direct access for this investigation, and full underlying awards have **not** been independently examined.
+- **31 August 2026:** India's [Ministry of External Affairs statement, via Embassy of India](https://eoibelgrade.gov.in/index.php/listview/NzE2), rejects the constitution and jurisdiction of the tribunal and says India's treaty-abeyance position remains in force. This original statement was directly reviewed.
+
+**Finding:** The tribunal's award, India's rejection and the continuation of the dispute are established public events. No definitive independent holding on the legal effect is adopted without reading the full award and considering India's jurisdiction objection. The PCA administers arbitral proceedings; it should not be conflated automatically with the particular tribunal or described as a merits-deciding party.
+
+## Case 07: Aviation and economic spillovers
+
+Reuters [reported on 1 May 2025](https://www.reuters.com/business/aerospace-defense/air-india-sees-pakistan-airspace-ban-costing-it-600-million-over-12-months-seeks-2025-05-01/) that Air India's letter to the Civil Aviation Ministry estimated about **US$600 million of additional costs if Pakistan's airspace closure lasted 12 months**. The primary company letter was read by Reuters but has not been independently retrieved here.
+
+This is a **conditional, forward-looking forecast**, not an audited actual expenditure. Longer routes, fuel and crew costs are identified mechanisms. The number is not an all-India cost estimate and should not be included as realized expenditure without later company and aviation records. [Reuters, 15 October 2026](https://www.reuters.com/world/india/air-india-forms-team-drive-cost-savings-memo-shows-2026-10-15/) describes multiple pressures on the airline, making causal attribution of aggregate financial losses to the 2025 crisis invalid without further analysis.
+
 ## Evidence integrity and limitations
 
 - The source register records the acquisition/review state of each item. It does **not** pretend that a linked PDF, satellite image or video has been fully read merely because its URL was located.
@@ -102,3 +119,4 @@ News outlets reported Maxar and other commercial satellite imagery showing physi
 ## Revision record
 
 - **19 October 2026, checkpoint 01:** Initial independent documentary review, claim classification and first interactive evidence database. No assertion of comprehensive completion.
+- **19 October 2026, checkpoint 01 revision B:** Added 2026 Indus Waters tribunal notice and Indian rejection; added conditional 2025 airline-cost forecast, bilateral restriction chronology, and updated claims/contradiction log.
