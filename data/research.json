@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 01, revised 19 October 2026",
+    "edition": "Research checkpoint 02",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate."
   },
   "sources": [
     {
@@ -377,6 +377,166 @@
       "url": "https://pib.gov.in/ShowAlbum.aspx?albumid=194195&lang=1&reg=3",
       "review": "Official photo-album result located by image search; full license and original image metadata not checked",
       "note": "Official historical briefing imagery reference. Do not reproduce in site until publication rights confirmed."
+    },
+    {
+      "id": "S38",
+      "title": "At least two Indian jets appear to have crashed during Pakistan strikes, visuals show",
+      "publisher": "The Washington Post",
+      "date": "2025-05-09",
+      "type": "independent",
+      "url": "https://www.washingtonpost.com/world/2025/05/09/fighter-jets-india-pakistan-attack/",
+      "review": "Original investigation text read; publisher's licensed imagery and original video files not downloaded or separately authenticated in this project",
+      "note": "Three specialists interpreted wreckage as a Rafale and Mirage 2000; at least two apparent jet losses, with third possible crash site. Report expressly leaves cause and pilot fate unresolved. Rafale markings visible in published analysis; photograph not independently geolocated by authors."
+    },
+    {
+      "id": "S39",
+      "title": "Indian strikes on Pakistan damaged six airfields, Post analysis finds",
+      "publisher": "The Washington Post",
+      "date": "2025-05-14",
+      "type": "independent",
+      "url": "https://www.washingtonpost.com/world/2025/05/14/india-pakistan-strikes-conflict-damage/",
+      "review": "Original investigation text read, including method, expert caveats and site summary; licensed underlying imagery not acquired",
+      "note": "More than two dozen satellite images and videos used; reports damage to three hangars, two runways and two mobile buildings across at least six airfields. Expert cautions facilities not disabled. Pakistani spokesperson acknowledged five base hits and one civilian airport; article reports six PAF deaths, conflicting with prior May 13 five-PAF official count."
+    },
+    {
+      "id": "S40",
+      "title": "Audition of French Air and Space Force Chief of Staff General Jérôme Bellanger, 9 July 2025",
+      "publisher": "French National Assembly, Defence Committee",
+      "date": "2025-07-09",
+      "type": "primary",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2025PO59046N082.html",
+      "review": "Original publicly published French-language parliamentary transcript directly read, including two relevant passages",
+      "note": "Bellanger refers expressly to an Indian Rafale having been shot down (un Rafale indien a été abattu); comments that 60–70 Indian and 40–50 Pakistani fighters faced off are his assessment; stated that Indian counterpart informed him India warned Pakistan of imminent raid. These are his statements, not independently examined flight telemetry."
+    },
+    {
+      "id": "S41",
+      "title": "Plan to target tourists in Pahalgam was in motion week before attack, NIA chargesheet reporting",
+      "publisher": "The Indian Express",
+      "date": "2026-06-25",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/india/pahalgam-terror-attack-nia-chargesheet-pakistan-based-handler-10756041/",
+      "review": "Original article directly read; attributed chargesheet excerpts and investigative files not independently acquired",
+      "note": "Describes police/prosecutorial allegations of April 15–16 maps, phones, handler messages and a reported witness. Media on filed prosecution evidence, not separate authentication or conviction."
+    },
+    {
+      "id": "S42",
+      "title": "NIA says GoPro related to Pahalgam activated in China, seeks judicial assistance",
+      "publisher": "The Indian Express",
+      "date": "2026-03-04",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/india/nia-says-gopro-connected-to-pahalgam-attack-was-activated-in-china-court-seeks-assistance-from-chinese-authorities-10563786/",
+      "review": "Original media report and court-filing description examined; original signed Letter Rogatory/order not independently acquired",
+      "note": "Reports Jammu court authorized request for device sales/activation chain in China. Device distribution is no evidence by itself of Chinese state or person complicity."
+    },
+    {
+      "id": "S43",
+      "title": "Pakistan says clashes with neighbour India killed more than 50, Reuters 13 May",
+      "publisher": "Reuters",
+      "date": "2025-05-13",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-clashes-with-neighbour-india-killed-more-than-50-2025-05-13/",
+      "review": "Full Reuters report directly read",
+      "note": "Reports Pakistan 40 civilians/11 military killed and India at least 16 civilians/5 military killed. These are contemporaneous official numbers as relayed by Reuters, not independently audited identities."
+    },
+    {
+      "id": "S44",
+      "title": "40 civilians, 11 troops martyred in Indian aggression: ISPR",
+      "publisher": "Associated Press of Pakistan (state news agency)",
+      "date": "2025-05-13",
+      "type": "primary",
+      "url": "https://www.app.com.pk/national/40-civilians-11-troops-martyred-in-indian-aggression-ispr/",
+      "review": "Direct official-state report with attributed military announcement read",
+      "note": "Pakistan military May 13 statement reports 40 civilians killed/121 injured; 11 military killed/78 injured, including five PAF members. State source not independent verification."
+    },
+    {
+      "id": "S45",
+      "title": "Pakistan Foreign Ministry weekly media briefing, 16 May 2025",
+      "publisher": "Pakistan Ministry of Foreign Affairs",
+      "date": "2025-05-16",
+      "type": "primary",
+      "url": "https://mofa.gov.pk/press-releases/transcript-of-the-weekly-media-briefing-by-the-spokesperson-on-friday-16th-may-2025",
+      "review": "Official transcript indexed and relevant passage read",
+      "note": "Pakistani spokesperson claims six IAF fighters shot down, showing evolution from May 7 five-aircraft accounts. Substantive tally not established."
+    },
+    {
+      "id": "S46",
+      "title": "Reuters did not report Pakistan downed 42 Indian Rafale jets",
+      "publisher": "Soch Fact Check",
+      "date": "2025-05-31",
+      "type": "independent",
+      "url": "https://www.sochfactcheck.com/reuters-did-not-report-pakistan-downed-42-indian-iaf-dassault-aviation-rafale-jets/",
+      "review": "Fact-check original article directly read, including claimed Reuters spoof",
+      "note": "Identifies fabricated purported Reuters social media screenshot claiming 42 downed Rafales. Provides clear disinformation case; do not conflate with actual Reuters loss reports."
+    },
+    {
+      "id": "S47",
+      "title": "French intelligence says Chinese defence attaches spread doubts about Rafale",
+      "publisher": "Associated Press",
+      "date": "2025-07-06",
+      "type": "independent",
+      "url": "https://apnews.com/article/64eec86b6e89718d6a49d8fdedf565f4",
+      "review": "AP reporting and outlet editorial summary read; underlying intelligence report not available publicly for independent replication",
+      "note": "French intelligence findings described to AP alleging diplomatic influence activity. Distinguish reported intelligence allegation from independently established orchestration."
+    },
+    {
+      "id": "S48",
+      "title": "Le Rafale face à la désinformation: lecture stratégique d’un ciblage informationnel",
+      "publisher": "French Ministry of Armed Forces",
+      "date": "2025-07-01",
+      "type": "primary",
+      "url": "https://www.defense.gouv.fr/desinformation/nos-analyses-froid/rafale-face-desinformation-lecture-strategique-dun-ciblage-informationnel",
+      "review": "Official source located via indexed text; direct full page failed",
+      "note": "French official analysis of false/manipulated Rafale-loss narratives. Date approximation pending verification: publication month used, not an asserted exact day."
+    },
+    {
+      "id": "S49",
+      "title": "Explosions reported after India and Pakistan agree to ceasefire",
+      "publisher": "Reuters",
+      "date": "2025-05-10",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/india/pakistan-says-three-air-bases-targeted-by-indian-missiles-2025-05-10/",
+      "review": "Original Reuters detailed report read",
+      "note": "Reports firing and explosions observed after 17:00 IST cessation, mutual accusations of violations, and diplomatic/telephone contacts. Observer evidence proves incidents, not responsible party."
+    },
+    {
+      "id": "S50",
+      "title": "Armed Forces fulfilled promise, DG ISPR briefing on Pakistan Operation Bunyan-ul-Marsoos",
+      "publisher": "Radio Pakistan",
+      "date": "2025-05-12",
+      "type": "primary",
+      "url": "https://www.radio.gov.pk/12-05-2025/armed-forces-honour-pledge-to-nation-against-indian-aggression-dg-ispr",
+      "review": "Original state-broadcaster summary of military briefing read",
+      "note": "Pakistan claimed engaging 26 Indian military targets and effect from cyber operations; not independently proven hit, outage, cyber attribution or casualty damage."
+    },
+    {
+      "id": "S51",
+      "title": "Four Days in May: The India-Pakistan Crisis of 2025",
+      "publisher": "Stimson Center",
+      "date": "2025-05-28",
+      "type": "independent",
+      "url": "https://www.stimson.org/2025/four-days-in-may-the-india-pakistan-crisis-of-2025/",
+      "review": "Specialist analytical study and imagery-evidence caution read",
+      "note": "Independent synthesis notes imagery confirmation at most claimed Pakistan bases but gaps at several listed locations. Do not count its citations of identical satellite materials as independent original image acquisitions."
+    },
+    {
+      "id": "S52",
+      "title": "India claims its strikes inside Pakistan killed over 100 militants",
+      "publisher": "Associated Press",
+      "date": "2025-05-11",
+      "type": "independent",
+      "url": "https://apnews.com/article/6fa80010fa8ffee1da1f28e7b593aa2d",
+      "review": "Contemporaneous AP account of both sides' military briefings read",
+      "note": "Indian DGMO says at least 35–40 Pakistan troops killed at LOC and five Indian soldiers killed; Pakistan claimed 40–50 Indian troops killed. Do not treat conflicting claims as verified."
+    },
+    {
+      "id": "S53",
+      "title": "India charges Pakistan-based militant groups, six men over Kashmir tourist attack",
+      "publisher": "Reuters",
+      "date": "2025-12-15",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/asia-pacific/india-charges-pakistan-based-militant-groups-six-men-over-kashmir-tourist-attack-2025-12-15/",
+      "review": "Full Reuters agency dispatch available and read",
+      "note": "Confirms formal prosecution announcement against six individuals plus group(s), including three deceased during Operation Mahadev and two detained. Chargesheet contents beyond released excerpts not independently reviewed."
     }
   ],
   "timeline": [
@@ -519,6 +679,17 @@
       "class": "contested"
     },
     {
+      "id": "T25",
+      "date": "2025-05-09",
+      "time": "publication",
+      "headline": "Independent visual crash evidence released",
+      "detail": "Washington Post identifies Rafale- and Mirage 2000-consistent wreckage and an additional unidentified apparent crash site; cause of loss not established from images.",
+      "sources": [
+        "S38"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T10",
       "date": "2025-05-10",
       "time": "early hours",
@@ -544,6 +715,73 @@
       "class": "established"
     },
     {
+      "id": "T26",
+      "date": "2025-05-10",
+      "time": "after 17:00 IST",
+      "headline": "Ceasefire followed by reported firing and explosions",
+      "detail": "Reuters witnesses describe resumed fire and explosions, and both states alleged breaches. Responsibility for individual incidents remains disputed.",
+      "sources": [
+        "S49"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T27",
+      "date": "2025-05-11",
+      "time": "Indian joint briefing",
+      "headline": "Indian DGMO reports military casualty figures and operational aims",
+      "detail": "India says five Indian soldiers died, estimates 35–40 Pakistani soldiers killed at LOC; military assessments remain claims.",
+      "sources": [
+        "S52"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T28",
+      "date": "2025-05-12",
+      "time": "Pakistani military briefing",
+      "headline": "Pakistan describes Operation Bunyan-ul-Marsoos strikes",
+      "detail": "Pakistan's DG ISPR says 26 Indian military targets engaged and claims cyber effects, without independent individual-hit documentation in the release.",
+      "sources": [
+        "S50"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T29",
+      "date": "2025-05-13",
+      "time": "official announcements",
+      "headline": "Pakistan issues 40 civilian and 11 military fatalities",
+      "detail": "ISPR reports 40 civilians killed/121 injured and 11 service members killed/78 injured. Reuters cites Indian totals of at least 16 civilians and five military personnel killed.",
+      "sources": [
+        "S44",
+        "S43"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T30",
+      "date": "2025-05-14",
+      "time": "Washington Post publication",
+      "headline": "Satellite review identifies damage at six Pakistani airfields",
+      "detail": "Post reports three hangars, two runways and two mobile buildings damaged; Pakistani military spokesperson acknowledges five military bases and one civilian airport struck.",
+      "sources": [
+        "S39"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T31",
+      "date": "2025-05-16",
+      "time": "Pakistan MOFA briefing",
+      "headline": "Pakistan publicly states six Indian fighters were downed",
+      "detail": "May 16 number differs from initial Pakistani public reporting of five; not a verified tally.",
+      "sources": [
+        "S45"
+      ],
+      "class": "official"
+    },
+    {
       "id": "T12",
       "date": "2025-05-31",
       "time": "interview date",
@@ -562,6 +800,28 @@
       "detail": "PCA case docket lists a supplemental competence award, amid India's continuing objections to the tribunal. Original award not independently examined in this edition.",
       "sources": [
         "S32"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T32",
+      "date": "2025-07-06",
+      "time": "AP report",
+      "headline": "French intelligence assessment of anti-Rafale influence reported",
+      "detail": "AP describes French officials' findings alleging Chinese defence-attache efforts to influence overseas fighter sales.",
+      "sources": [
+        "S47"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T33",
+      "date": "2025-07-09",
+      "time": "French parliamentary hearing",
+      "headline": "French air chief refers to Indian Rafale shot down",
+      "detail": "General Jérôme Bellanger acknowledges Indian Rafale loss in French National Assembly testimony and discusses intensive air engagement. Does not identify responsible weapon or release flight telemetry.",
+      "sources": [
+        "S40"
       ],
       "class": "official"
     },
@@ -620,6 +880,28 @@
         "S15"
       ],
       "class": "official"
+    },
+    {
+      "id": "T34",
+      "date": "2026-03-04",
+      "time": "press report of prior court request",
+      "headline": "Judicial assistance sought over Pahalgam GoPro supply chain",
+      "detail": "Indian Express reports special court authorized Letter Rogatory seeking information from China about a recovered camera; no conclusion of Chinese state involvement.",
+      "sources": [
+        "S42"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T35",
+      "date": "2026-06-25",
+      "time": "press publication",
+      "headline": "NIA digital-evidence allegations reported",
+      "detail": "Indian Express describes April 15–16 location screenshots, alleged phone messages and handler coordination cited in the chargesheet; original digital forensic records remain unavailable here.",
+      "sources": [
+        "S41"
+      ],
+      "class": "reported"
     },
     {
       "id": "T16",
@@ -1021,6 +1303,217 @@
       "sources": [
         "S35"
       ]
+    },
+    {
+      "id": "C31",
+      "topic": "Aircraft",
+      "claim": "At least one Indian Rafale was lost during the May 2025 confrontation.",
+      "finding": "Supported but not fully established",
+      "confidence": "High",
+      "assessment": "The Washington Post authenticated visual evidence consistent with a Rafale airframe and French air force Chief Bellanger expressly referred to a shot-down Indian Rafale in parliamentary testimony. India's CDS acknowledged initial air losses, but no IAF type-by-type report or independent combat telemetry was reviewed.",
+      "sources": [
+        "S38",
+        "S40",
+        "S12",
+        "S11"
+      ]
+    },
+    {
+      "id": "C32",
+      "topic": "Aircraft",
+      "claim": "A Mirage 2000 appears among the initial Indian aircraft losses.",
+      "finding": "Supported but not fully established",
+      "confidence": "Medium",
+      "assessment": "Washington Post independently identified Mirage-2000-specific external tank and nearby crash imagery; external tank alone not proof of downing. Original visuals and manufacturer records remain unexamined in this project.",
+      "sources": [
+        "S38"
+      ]
+    },
+    {
+      "id": "C33",
+      "topic": "Aircraft",
+      "claim": "Two Indian fighters had visual crash evidence in early May 2025.",
+      "finding": "Supported but not fully established",
+      "confidence": "High",
+      "assessment": "Washington Post original visual investigation with three experts supported two apparent crashes, while leaving causes unproven. Source analysis not independently repeated by project.",
+      "sources": [
+        "S38",
+        "S12"
+      ]
+    },
+    {
+      "id": "C34",
+      "topic": "Aircraft",
+      "claim": "A Pakistani J-10 specifically shot down every reported Indian fighter.",
+      "finding": "Unverifiable from available public evidence",
+      "confidence": "Low",
+      "assessment": "Reuters cites two US officials for some J-10 involvement, but no independently validated weapon-by-weapon cause attribution exists here for every claimed loss.",
+      "sources": [
+        "S11",
+        "S38"
+      ]
+    },
+    {
+      "id": "C35",
+      "topic": "Military sites",
+      "claim": "Indian strikes physically damaged at least six Pakistani airfields on 10 May.",
+      "finding": "Supported but not fully established",
+      "confidence": "High",
+      "assessment": "Washington Post analyzed more than two dozen satellite frames and aftermath videos and Pakistan's military spokesperson acknowledged hits on five bases and one civilian airport. Original commercial pixels not licensed/inspected by this project.",
+      "sources": [
+        "S39",
+        "S51"
+      ]
+    },
+    {
+      "id": "C36",
+      "topic": "Military sites",
+      "claim": "The damage at the six airfields disabled the Pakistan Air Force.",
+      "finding": "Unsupported",
+      "confidence": "Medium",
+      "assessment": "Washington Post expert described meaningful but non-devastating damage, and multiple facilities were repairing runway craters by next-day imagery. Physical damage is not equivalent to fleet-level incapacitation.",
+      "sources": [
+        "S39"
+      ]
+    },
+    {
+      "id": "C37",
+      "topic": "Military sites",
+      "claim": "A Pakistani Saab 2000 airborne early warning aircraft was destroyed in a hangar at Bholari.",
+      "finding": "Unverifiable from available public evidence",
+      "confidence": "Low",
+      "assessment": "Satellite imagery confirms damage to Bholari hangar, not whether an aircraft was present or destroyed. Washington Post explicitly notes uncertainty.",
+      "sources": [
+        "S39"
+      ]
+    },
+    {
+      "id": "C38",
+      "topic": "Casualties",
+      "claim": "Pakistan said on 13 May that 40 civilians died and 121 were wounded.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Verified that Pakistan's military issued these dated figures. Identity-by-identity verification is pending.",
+      "sources": [
+        "S44",
+        "S43"
+      ]
+    },
+    {
+      "id": "C39",
+      "topic": "Casualties",
+      "claim": "Pakistan said on 13 May that 11 service members died and 78 were wounded.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "ISPR figures through APP and Reuters. Five identified PAF deaths cannot establish five aircraft destroyed.",
+      "sources": [
+        "S44",
+        "S43"
+      ]
+    },
+    {
+      "id": "C40",
+      "topic": "Casualties",
+      "claim": "India reported at least five military deaths and sixteen civilian deaths by 13 May 2025.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Contemporaneous Reuters report attributes figures to India. It does not independently validate names, separate all incidents or prove figures remained final.",
+      "sources": [
+        "S43",
+        "S52",
+        "S35"
+      ]
+    },
+    {
+      "id": "C41",
+      "topic": "Foreign actors",
+      "claim": "A GoPro camera reportedly first activated in China proves Chinese government involvement in Pahalgam.",
+      "finding": "Unsupported",
+      "confidence": "High",
+      "assessment": "A March 2026 judicial assistance request reportedly sought a sales/activation trail, which can reflect ordinary consumer resale. It provides no demonstrated state agency or operational involvement.",
+      "sources": [
+        "S42"
+      ]
+    },
+    {
+      "id": "C42",
+      "topic": "Attribution",
+      "claim": "NIA says recovered phones contained map records dated 15 and 16 April and communications with an alleged handler.",
+      "finding": "Supported but not fully established",
+      "confidence": "Medium",
+      "assessment": "Indian Express quotes/profiles NIA chargesheet details and alleged digital traces. Original device extraction and filed exhibits not independently inspected; exact attribution to accused requires proof at trial.",
+      "sources": [
+        "S41",
+        "S53"
+      ]
+    },
+    {
+      "id": "C43",
+      "topic": "Media",
+      "claim": "Reuters reported that Pakistan destroyed 42 Rafales.",
+      "finding": "Contradicted by evidence",
+      "confidence": "High",
+      "assessment": "Soch Fact Check traced a manipulated purported Reuters screenshot. Real Reuters reporting concerned at least two Indian jets per US sources, not 42 Rafales.",
+      "sources": [
+        "S46",
+        "S11"
+      ]
+    },
+    {
+      "id": "C44",
+      "topic": "Ceasefire",
+      "claim": "Both sides maintained a complete and uninterrupted cessation immediately after 17:00 IST on 10 May.",
+      "finding": "Contradicted by evidence",
+      "confidence": "High",
+      "assessment": "Reuters witnesses reported subsequent artillery/drone/fire incidents and both governments complained of breaches. Incident responsibility remains disputed.",
+      "sources": [
+        "S49"
+      ]
+    },
+    {
+      "id": "C45",
+      "topic": "Pakistan response",
+      "claim": "Pakistan publicly said it engaged 26 Indian military targets on 10 May.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "State broadcaster reported the DG ISPR briefing and number; physical effects on 26 targets not independently established.",
+      "sources": [
+        "S50"
+      ]
+    },
+    {
+      "id": "C46",
+      "topic": "Pakistan response",
+      "claim": "Pakistan's cyber attacks temporarily disabled critical Indian defence infrastructure.",
+      "finding": "Under investigation",
+      "confidence": "Low",
+      "assessment": "Pakistani military spokesperson made a specific cyber-effects claim. Attribution, timestamps, outages and independently authenticated technical indicators not available in this pass.",
+      "sources": [
+        "S50"
+      ]
+    },
+    {
+      "id": "C47",
+      "topic": "Foreign actors",
+      "claim": "French officials assessed that Chinese diplomats campaigned against Rafale sales after May 2025.",
+      "finding": "Supported but not fully established",
+      "confidence": "Medium",
+      "assessment": "AP reviewed French intelligence findings as reported by officials. Authenticity and details of the underlying intelligence cannot be independently replicated here; general coordinated online claims are a distinct question.",
+      "sources": [
+        "S47",
+        "S40"
+      ]
+    },
+    {
+      "id": "C48",
+      "topic": "Air warfare",
+      "claim": "French Air Force chief publicly referred to an Indian Rafale having been shot down.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Original French National Assembly official transcript contains Bellanger's 9 July 2025 words. It proves his stated assessment, not the identity of the specific opponent or missile.",
+      "sources": [
+        "S40"
+      ]
     }
   ],
   "targets": [
@@ -1242,6 +1735,84 @@
         "S04",
         "S33"
       ]
+    },
+    {
+      "id": "X10",
+      "title": "Airframe evidence versus claimed cause of Indian fighter losses",
+      "sideA": "Washington Post photographic analysis supports at least two Indian aircraft crashes but expressly cannot determine whether hostile aircraft or other causes brought them down.",
+      "sideB": "French Air Force chief's public record calls one Indian Rafale shot down; Reuters cites US officials attributing at least two jet losses to Pakistani aircraft.",
+      "status": "Partially resolved",
+      "required": "Separate existence/type of airframe loss from shootdown mechanism; seek authenticated manufacturer/IAF records and full incident chain, avoiding unsupported weapon attribution.",
+      "sources": [
+        "S38",
+        "S40",
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "id": "X11",
+      "title": "Five versus six claimed Indian fighter shootdowns",
+      "sideA": "Pakistani officials initially publicly claimed five Indian aircraft.",
+      "sideB": "Pakistan Foreign Ministry spokesperson asserted six in official 16 May statement.",
+      "status": "Unresolved count and revision",
+      "required": "Source chronology of individual type-by-type claims and imagery; explain whether the sixth claim represented later incident, reassessment or rhetoric.",
+      "sources": [
+        "S11",
+        "S45",
+        "S38"
+      ]
+    },
+    {
+      "id": "X12",
+      "title": "Pakistan Air Force deaths reported as five versus six",
+      "sideA": "ISPR May 13 account disseminated by APP listed five PAF dead within 11 armed forces dead.",
+      "sideB": "Washington Post May 14 report attributed six PAF deaths, five at Bholari and one at Mushaf, to Pakistani military.",
+      "status": "Conflicting dated figures",
+      "required": "Check full May 14 ISPR original transcript, correction records and location-specific official casualty lists. Do not merge the reported six with the May 13 overall eleven without reconciliation.",
+      "sources": [
+        "S44",
+        "S39"
+      ]
+    },
+    {
+      "id": "X13",
+      "title": "Pakistan base damage versus sustained loss of air capability",
+      "sideA": "India's retrospective account describes successful major degradation of Pakistan airfields and military capability.",
+      "sideB": "Washington Post visual evidence establishes physical damage at six fields, but a cited independent expert regarded effects as meaningful but not disabling.",
+      "status": "Partially resolved",
+      "required": "Separate structural damage, repair timelines, aircraft losses, sortie generation and long-term sustainment. Do not infer current actionable vulnerabilities.",
+      "sources": [
+        "S09",
+        "S39",
+        "S51"
+      ]
+    },
+    {
+      "id": "X14",
+      "title": "Cessation announced versus fire observed afterward",
+      "sideA": "Both governments described a cessation taking effect on 10 May.",
+      "sideB": "Reuters witnesses documented subsequent fire and both governments accused each other of violations.",
+      "status": "Partially resolved",
+      "required": "Build incident-specific 17:00–midnight time register with independent reports, official allegations and directions to troops, avoiding attribution by assumption.",
+      "sources": [
+        "S09",
+        "S08",
+        "S49"
+      ]
+    },
+    {
+      "id": "X15",
+      "title": "Pahalgam phone and camera traces versus foreign-state attribution",
+      "sideA": "Indian prosecution material as reported describes handler messaging and device records pointing to cross-border contacts.",
+      "sideB": "A camera sales/activation link to China does not independently connect any Chinese government body to the attack.",
+      "status": "Analytical distinction established",
+      "required": "Obtain court-request return and chain-of-custody documents; distinguish sales geography, device end-user and actual coordination roles.",
+      "sources": [
+        "S41",
+        "S42",
+        "S15"
+      ]
     }
   ],
   "openQuestions": [
@@ -1334,6 +1905,110 @@
       "priority": "high",
       "question": "Did India's original publicly declared objectives materially change during and after the conflict?",
       "next": "Compare 7 May briefings, 10–12 May operational summaries and 28–29 July parliamentary statements; evaluate each goal against independently demonstrated effects."
+    },
+    {
+      "id": "Q16",
+      "priority": "critical",
+      "question": "Can a Rafale and Mirage 2000 loss be tied to unique aircraft serials, location and cause without confusing wreckage photos with shootdown proof?",
+      "next": "Request lawful original imagery, ascertain dates/custody, obtain aircraft-type loss statements; test alternative crash causes."
+    },
+    {
+      "id": "Q17",
+      "priority": "high",
+      "question": "Why do May 13 and May 14 Pakistan records differ between five and six Air Force fatalities?",
+      "next": "Review dated ISPR revisions, service branch casualty announcements and independent corroboration."
+    },
+    {
+      "id": "Q18",
+      "priority": "high",
+      "question": "What is each of the six Pakistani airfields' historically observable damage and recovery chronology?",
+      "next": "Retrieve licensed pre-event/post-event dated imagery for site-level historical damage only, record independent findings and uncertainties without current defensive detail."
+    },
+    {
+      "id": "Q19",
+      "priority": "high",
+      "question": "What did Pakistan mean when claiming 26 Indian military targets were engaged and temporary cyber degradation?",
+      "next": "Build target-indexed historical result ledger, require independent visual or technical traces, and exclude present-day sensitive vulnerability mapping."
+    },
+    {
+      "id": "Q20",
+      "priority": "high",
+      "question": "What is the best deduplicated civilian and military death/injury register across both states?",
+      "next": "Acquire original service and government casualty lists, hospital/shelter records and incident dates, then reconcile revisions; preserve vulnerable persons' privacy."
+    },
+    {
+      "id": "Q21",
+      "priority": "high",
+      "question": "What did a 2026 Chinese court-assistance request regarding a camera establish, and did China respond?",
+      "next": "Obtain signed letter of request or court extract and any return; don't infer complicity merely from distribution records."
+    },
+    {
+      "id": "Q22",
+      "priority": "medium",
+      "question": "Which anti-Rafale viral stories were fabricated, and which foreign diplomatic influence allegations are reproducibly established?",
+      "next": "Preserve original and fact-checked posts, differentiate online meme trends from intelligence-source allegations and authenticated diplomatic contacts."
+    }
+  ],
+  "casualties": [
+    {
+      "id": "CAS-PK-CIV-20250513",
+      "asOf": "2025-05-13",
+      "side": "Pakistan",
+      "population": "civilian",
+      "killed": 40,
+      "injured": 121,
+      "sourceIDs": [
+        "S44",
+        "S43"
+      ],
+      "status": "Official reported cumulative deaths/injuries; independent deduplication pending",
+      "duplicateRisk": "Cannot combine with earlier Pakistani daily reports, presumed cumulative for active conflict period",
+      "confidence": "High that authority stated figures; low for final complete accuracy"
+    },
+    {
+      "id": "CAS-PK-MIL-20250513",
+      "asOf": "2025-05-13",
+      "side": "Pakistan",
+      "population": "military",
+      "killed": 11,
+      "injured": 78,
+      "sourceIDs": [
+        "S44",
+        "S43"
+      ],
+      "status": "Official reported cumulative figure; 6 Army and 5 Air Force fatalities in this version",
+      "duplicateRisk": "May 14 later press account mentions 6 PAF dead; revision inconsistent, do not sum",
+      "confidence": "High that authority stated figures; final completeness unverified"
+    },
+    {
+      "id": "CAS-IN-CIV-20250513",
+      "asOf": "2025-05-13",
+      "side": "India",
+      "population": "civilian",
+      "killed": 16,
+      "injured": null,
+      "sourceIDs": [
+        "S43",
+        "S35"
+      ],
+      "status": "At least 16 killed per Reuters reporting of Indian statement; May 8 India had reported 59 injured, not necessarily latest May 13 total",
+      "duplicateRisk": "Earlier daily India figures overlap, not additive",
+      "confidence": "High that authority stated figure; incomplete injury record"
+    },
+    {
+      "id": "CAS-IN-MIL-20250511",
+      "asOf": "2025-05-11",
+      "side": "India",
+      "population": "military",
+      "killed": 5,
+      "injured": null,
+      "sourceIDs": [
+        "S52",
+        "S43"
+      ],
+      "status": "Indian military briefing cited 5 military deaths, reiterated in Reuters May 13",
+      "duplicateRisk": "Separate from civilian 16; aircraft crew status not derivable",
+      "confidence": "High that authority stated figure; exact victim list pending"
     }
   ]
 }
