@@ -27,6 +27,12 @@ These totals, as reported by the governments, give a **minimum provisional aggre
 - Incident-specific reports of deaths near a crash site may involve post-crash hazards, rather than intentional strikes, and require a distinct causal category.
 - Fatalities in the 22 April Pahalgam attack are **separate** from May 7–10 conflict casualties and must not be appended to war-fighting casualties without an explicitly defined broader time scope.
 
+## Wording and scope contradiction in India's own official record
+
+India's [Defence Minister's 28 July parliamentary statement](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149356&lang=2&reg=48) described no Indian military casualties **during Operation Sindoor**. However, India’s [11 May joint military briefing as reported by AP](https://apnews.com/article/6fa80010fa8ffee1da1f28e7b593aa2d) publicly reported **five Indian soldiers killed** in the broader hostilities. Without the original unedited wording and date/incident details, the statements may reflect different definitions of the operation and wider fighting. They should not be reconciled by silently changing five to zero or assumed to prove deliberate misinformation.
+
+The project's cumulative casualty table therefore retains the five **reported** Indian military deaths and separately records the minister's limited phrase as a contradiction requiring scope clarification.
+
 ## Demonstrable physical impact versus reported death
 
 Evidence of damage to school structures, religious buildings, civilian dwellings and infrastructure exists in independent and local reportage. Each damage event must be linked to date, safe-location granularity and public photos. None should be used to infer an uncounted death without a reliable person- or hospital-level record.
