@@ -1,0 +1,914 @@
+{
+  "metadata": {
+    "title": "Operation Sindoor: Independent public-record investigation",
+    "edition": "Research checkpoint 01",
+    "cutoff": "2026-10-19",
+    "lastVerified": "2026-10-19",
+    "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured."
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Security Council Press Statement on Terrorist Attack in Jammu and Kashmir",
+      "publisher": "United Nations",
+      "date": "2025-04-25",
+      "type": "primary",
+      "url": "https://press.un.org/en/2025/sc16050.doc.htm",
+      "review": "Text directly read",
+      "note": "Confirms at least 26 deaths; condemns attack; calls for accountability; does not identify perpetrators."
+    },
+    {
+      "id": "S02",
+      "title": "Statement by Foreign Secretary on decision of Cabinet Committee on Security",
+      "publisher": "India MEA",
+      "date": "2025-04-23",
+      "type": "primary",
+      "url": "https://www.mea.gov.in/SpeechesStatements.htm?dtl/39442/Statement_by_Foreign_Secretary_on_the_decision_of_the_Cabinet_Committee_on_Security_CCS",
+      "review": "Official record located via index; source page inaccessible in this research pass",
+      "note": "Reference anchor for 23 April measures. Detailed legal effects require original-document review."
+    },
+    {
+      "id": "S03",
+      "title": "Operation Sindoor: Indian armed forces carried out precision strike at terrorist camps",
+      "publisher": "India PIB / Ministry of Defence",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2127370",
+      "review": "Full release directly read",
+      "note": "Posted 01:44 IST. Says nine sites targeted, no Pakistani military facilities targeted in opening action."
+    },
+    {
+      "id": "S04",
+      "title": "Transcript of Special Briefing on Operation Sindoor, 7 May",
+      "publisher": "India MEA, published by Consulate General of India Istanbul",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://www.cgiistanbul.gov.in/section/news/transcript-of-special-briefing-on-operation-sindoor-may-07-2025/",
+      "review": "Full English Foreign Secretary statement directly read",
+      "note": "Documents Indian attribution, asserted pre-emption and stated objectives. Embedded military-target presentation not reviewed."
+    },
+    {
+      "id": "S05",
+      "title": "PIB video recording of 7 May Operation Sindoor press briefing",
+      "publisher": "India PIB",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/Webcast/WebcastDetail.aspx?MinID=33&d=0&lang=2&m=5&reg=48&webcast_tempID=1079&y=2025",
+      "review": "Official video landing page located; video not transcribed frame by frame",
+      "note": "Firsthand archival video; pending transcription and slide-by-slide verification."
+    },
+    {
+      "id": "S06",
+      "title": "Transcript of 7 May diplomatic briefing to ambassadors",
+      "publisher": "Pakistan Ministry of Foreign Affairs",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://mofa.gov.pk/press-releases/transcript-of-the-deputy-prime-ministerforeign-ministers-briefing-to-the-islamabad-based-ambassadors-held-on-7th-may-2025-on-indian-aggression-against-pakistan",
+      "review": "Web-index full-text excerpt reviewed",
+      "note": "Pakistan characterizes attacks as violations of sovereignty and asserts civilian harm; independent accounting pending."
+    },
+    {
+      "id": "S07",
+      "title": "Demarche to the Indian Chargé d’Affaires",
+      "publisher": "Pakistan Ministry of Foreign Affairs",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://mofa.gov.pk/press-releases/demarche-to-the-indian-charge-daffaires",
+      "review": "Full page indexed",
+      "note": "Official Pakistan protest concerning 7 May strikes."
+    },
+    {
+      "id": "S08",
+      "title": "Recent developments and ceasefire between India and Pakistan",
+      "publisher": "Pakistan Ministry of Foreign Affairs",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://mofa.gov.pk/press-releases/recent-developments-and-ceasefire-between-india-and-pakistan",
+      "review": "Indexed full-text excerpt; source open timed out",
+      "note": "Pakistan invokes Article 51 and describes Operation Bunyan-ul-Marsoos."
+    },
+    {
+      "id": "S09",
+      "title": "Operation SINDOOR: India's strategic clarity and calculated force",
+      "publisher": "India PIB",
+      "date": "2025-05-14",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748",
+      "review": "Full indexed summary reviewed",
+      "note": "Retrospective Indian account of strike phases and 10 May DGMO communication; government interpretation of military effects, not independent proof."
+    },
+    {
+      "id": "S10",
+      "title": "White House press release compiling 10 May Trump, Vance and Rubio posts",
+      "publisher": "White House, preserved by American Presidency Project",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://www.presidency.ucsb.edu/documents/white-house-press-release-icymi-truth-social-x-posts-from-president-donald-j-trump-vice",
+      "review": "Full release read",
+      "note": "Confirms US publicly asserted mediation and official contacts; claim of causation still contested."
+    },
+    {
+      "id": "S11",
+      "title": "Pakistan's Chinese-made jet brought down two Indian fighter aircraft, US officials say",
+      "publisher": "Reuters",
+      "date": "2025-05-08",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/pakistans-chinese-made-jet-brought-down-two-indian-fighter-aircraft-us-officials-2025-05-08/",
+      "review": "Reuters report and syndication reviewed",
+      "note": "Two US officials reported; one named Rafale. Anonymous-official reporting is significant evidence, not publicly available wreckage authentication."
+    },
+    {
+      "id": "S12",
+      "title": "India says changed tactics worked well in conflict with Pakistan",
+      "publisher": "Reuters",
+      "date": "2025-05-31",
+      "type": "independent",
+      "url": "https://www.reuters.com/business/aerospace-defense/india-says-changed-tactics-worked-well-conflict-with-pakistan-2025-05-31/",
+      "review": "Full Reuters interview coverage directly read",
+      "note": "CDS Gen. Anil Chauhan acknowledged initial air losses; did not disclose precise count/type. India claimed later tactical adjustment."
+    },
+    {
+      "id": "S13",
+      "title": "The Latest: India fires missiles into Pakistani-controlled territory",
+      "publisher": "Associated Press",
+      "date": "2025-05-07",
+      "type": "independent",
+      "url": "https://apnews.com/article/edfcae2faec8da2dd66df50ccf9467f9",
+      "review": "Reporting excerpt reviewed",
+      "note": "Contemporaneous civilian casualty allegations and aircraft incident reports."
+    },
+    {
+      "id": "S14",
+      "title": "How India and Pakistan pulled back from the brink with US-brokered ceasefire",
+      "publisher": "Reuters",
+      "date": "2025-05-13",
+      "type": "independent",
+      "url": "https://www.investing.com/news/world-news/how-india-and-pakistan-pulled-back-from-the-brink-with-usbrokered-ceasefire-4041984",
+      "review": "Syndicated Reuters investigation read in part",
+      "note": "Multiple-source reconstruction; includes accounts of foreign contacts and Nur Khan imagery."
+    },
+    {
+      "id": "S15",
+      "title": "NIA chargesheets Pakistan-based LeT/TRF and six other accused",
+      "publisher": "National Investigation Agency",
+      "date": "2025-12-15",
+      "type": "primary",
+      "url": "https://nia.gov.in/nia-chargesheets-pak-based-lettrf-6-other-accused-pahalgam-terror-attack-case",
+      "review": "Official listing and PDF text search preview; full PDF and filed chargesheet not obtained",
+      "note": "Chargesheet announcement; allegations are not adjudicated findings."
+    },
+    {
+      "id": "S16",
+      "title": "NIA supplementary chargesheet names Hafiz Saeed",
+      "publisher": "National Investigation Agency",
+      "date": "2026-07-06",
+      "type": "primary",
+      "url": "https://nia.gov.in/pak-based-lettrf-chief-hafiz-saeed-named-nia-supplementary-chargesheet-pahalgam-terror-attack",
+      "review": "Official listing located; PDF not obtained",
+      "note": "Announcement refers to alleged individual and leadership responsibility; outcome of court proceedings not established."
+    },
+    {
+      "id": "S17",
+      "title": "Operation Sindoor nine reported target sites",
+      "publisher": "Reuters",
+      "date": "2025-05-07",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/asia-pacific/what-were-targets-india-destroyed-its-strikes-pakistan-2025-05-07/",
+      "review": "Original report indexed",
+      "note": "Details India-given historical camp associations, not independent proof of active military function in May 2025."
+    },
+    {
+      "id": "S18",
+      "title": "New satellite images show damage caused to Pakistani bases",
+      "publisher": "Hindustan Times / Maxar imagery reporting",
+      "date": "2025-05-28",
+      "type": "independent",
+      "url": "https://www.hindustantimes.com/india-news/new-satellite-images-show-damage-caused-to-pakistan-nur-khan-and-murid-air-bases-under-operation-sindoor-101748420304677.html",
+      "review": "Report indexed; licensed source imagery not obtained",
+      "note": "Secondary report of commercial satellite imagery showing physical damage, not aircraft destruction or strategic effects."
+    },
+    {
+      "id": "S19",
+      "title": "Clear satellite pictures show damage to Pakistan air bases",
+      "publisher": "India Today / Maxar imagery reporting",
+      "date": "2025-05-13",
+      "type": "independent",
+      "url": "https://www.indiatoday.in/amp/india/story/satellite-images-pakistan-air-bases-nur-khan-india-operation-sindoor-2723934-2025-05-13",
+      "review": "Report indexed; original image pixels not independently authenticated",
+      "note": "Describes damage at multiple airbases; follow-up independent image review required."
+    },
+    {
+      "id": "S20",
+      "title": "Parliament Digital Library: July 2025 Operation Sindoor proceedings",
+      "publisher": "Lok Sabha Secretariat",
+      "date": "2025-07-29",
+      "type": "primary",
+      "url": "https://eparlib.sansad.in/handle/123456789/800962",
+      "review": "Parliamentary record index located; full debate transcript not read",
+      "note": "Covers July government accounts; evidence comparison pending."
+    },
+    {
+      "id": "S21",
+      "title": "Official account of Operation Mahadev",
+      "publisher": "Bureau of Police Research and Development (Government of India)",
+      "date": "2025-07-31",
+      "type": "primary",
+      "url": "https://bprd.nic.in/uploads/pdf/Vigilant%20Indiat_Operation%20Mahadev__%28%2016-31%20July%2C%202025%29%20Year-3%2C%20Volume%20No-08-1.pdf",
+      "review": "Document indexed/excerpts seen; complete PDF not analyzed",
+      "note": "Government describes forensic ballistics and witness identifications after 28 July encounter."
+    },
+    {
+      "id": "S22",
+      "title": "Defence minister denies India bowed to pressure to end Pakistan fighting",
+      "publisher": "Reuters",
+      "date": "2025-07-28",
+      "type": "independent",
+      "url": "https://www.reuters.com/business/aerospace-defense/defence-minister-denies-india-bowed-pressure-end-fighting-pakistan-2025-07-28/",
+      "review": "Reuters report indexed",
+      "note": "Indian government rejects external pressure as cause of ending operations."
+    },
+    {
+      "id": "S23",
+      "title": "UN Secretary-General good offices and de-escalation appeals",
+      "publisher": "United Nations",
+      "date": "2025-04-29",
+      "type": "primary",
+      "url": "https://press.un.org/en/2025/db250429.doc.htm",
+      "review": "Full text indexed",
+      "note": "Secretary-General independently contacted India and Pakistan and offered good offices."
+    },
+    {
+      "id": "S24",
+      "title": "Pakistan military response and defensive rationale",
+      "publisher": "Pakistan Ministry of Foreign Affairs",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://mofa.gov.pk/press-releases/recent-developments-and-ceasefire-between-india-and-pakistan",
+      "review": "Same underlying record as S08; retained as cross-reference not counted as independent corroboration",
+      "note": "DO NOT DOUBLE COUNT with S08."
+    }
+  ],
+  "timeline": [
+    {
+      "id": "T01",
+      "date": "2025-04-22",
+      "time": "time not established",
+      "headline": "Pahalgam killings",
+      "detail": "An armed attack at Pahalgam killed 26 civilians. The UN condemned it three days later.",
+      "sources": [
+        "S01"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T02",
+      "date": "2025-04-23",
+      "time": "evening",
+      "headline": "India announces punitive bilateral measures",
+      "detail": "CCS decisions addressing relations with Pakistan; exact legal implementation of each measure remains a separate line of inquiry.",
+      "sources": [
+        "S02"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T03",
+      "date": "2025-04-25",
+      "time": "unspecified",
+      "headline": "Security Council condemns attack",
+      "detail": "Council calls for accountability, without publicly assigning responsibility in this press statement.",
+      "sources": [
+        "S01"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T04",
+      "date": "2025-04-29",
+      "time": "UN briefing",
+      "headline": "UN offers de-escalation assistance",
+      "detail": "Secretary-General held separate calls and offered good offices.",
+      "sources": [
+        "S23"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T05",
+      "date": "2025-05-07",
+      "time": "01:44 IST release",
+      "headline": "Operation Sindoor publicly announced",
+      "detail": "India states nine sites targeted and says Pakistani military facilities were not targeted in the opening action.",
+      "sources": [
+        "S03"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T06",
+      "date": "2025-05-07",
+      "time": "daytime",
+      "headline": "Competing state briefings",
+      "detail": "India asserts cross-border terror infrastructure and a preventive rationale. Pakistan rejects the justification and alleges civilian strikes.",
+      "sources": [
+        "S04",
+        "S06",
+        "S07"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T07",
+      "date": "2025-05-07",
+      "time": "time disputed",
+      "headline": "First air-engagement loss reports",
+      "detail": "Pakistan reports Indian aircraft losses; Reuters subsequently cites US officials. Exact aircraft inventory remains disputed.",
+      "sources": [
+        "S11",
+        "S13"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T08",
+      "date": "2025-05-08",
+      "time": "unspecified",
+      "headline": "Reuters reports US assessment of fighter losses",
+      "detail": "Two US officials tell Reuters Pakistan downed at least two Indian military aircraft; one identifies a Rafale.",
+      "sources": [
+        "S11"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T09",
+      "date": "2025-05-09",
+      "time": "through day",
+      "headline": "Crisis and strike claims escalate",
+      "detail": "Indian and Pakistani official accounts diverge on attacks, interception and damage.",
+      "sources": [
+        "S09",
+        "S08"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T10",
+      "date": "2025-05-10",
+      "time": "early hours",
+      "headline": "Further cross-border military attacks",
+      "detail": "India describes retaliatory hits on Pakistan military facilities. Pakistan announces Operation Bunyan-ul-Marsoos and claims self-defence.",
+      "sources": [
+        "S08",
+        "S09"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T11",
+      "date": "2025-05-10",
+      "time": "17:00 IST (announced effective time)",
+      "headline": "Understanding to cease military action",
+      "detail": "India cites DGMO communication. US publicly attributes agreement to diplomatic mediation. The understandings' exact scope and causation are disputed.",
+      "sources": [
+        "S09",
+        "S10",
+        "S08"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T12",
+      "date": "2025-05-31",
+      "time": "interview date",
+      "headline": "Indian CDS acknowledges initial air losses",
+      "detail": "Chauhan tells Reuters there were initial Indian losses, without confirming a number or aircraft types.",
+      "sources": [
+        "S12"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T13",
+      "date": "2025-07-28",
+      "time": "day",
+      "headline": "Operation Mahadev announced",
+      "detail": "Three alleged attackers killed in an operation; later Indian accounts cite forensic linkage. Underlying ballistic file has not been inspected.",
+      "sources": [
+        "S21"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T14",
+      "date": "2025-07-28",
+      "time": "parliamentary session",
+      "headline": "India's parliamentary debate",
+      "detail": "Formal legislative discussion raises operational, security and diplomatic questions.",
+      "sources": [
+        "S20",
+        "S22"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T15",
+      "date": "2025-12-15",
+      "time": "announcement date",
+      "headline": "NIA files principal chargesheet",
+      "detail": "LeT/TRF and other accused named; filing does not itself establish guilt.",
+      "sources": [
+        "S15"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T16",
+      "date": "2026-07-06",
+      "time": "announcement date",
+      "headline": "NIA files supplementary chargesheet",
+      "detail": "NIA names Hafiz Saeed; independent judicial disposition remains to be checked.",
+      "sources": [
+        "S16"
+      ],
+      "class": "official"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "topic": "Pahalgam",
+      "claim": "Twenty-six people were killed in the 22 April Pahalgam attack.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "UN Security Council statement independently records at least 26 dead; NIA states 25 tourists and one local civilian.",
+      "sources": [
+        "S01",
+        "S15"
+      ]
+    },
+    {
+      "id": "C02",
+      "topic": "Attribution",
+      "claim": "TRF/LeT organized the Pahalgam attack.",
+      "finding": "Supported but not fully established",
+      "confidence": "Medium",
+      "assessment": "The Indian government states this and NIA chargesheets the organization; a filed charge and official attribution do not substitute for publicly reviewed underlying evidence or judicial findings.",
+      "sources": [
+        "S04",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "C03",
+      "topic": "Opening strikes",
+      "claim": "India initially announced nine targeted sites and no Pakistani military targets.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "The verified fact is the public announcement. Actual site identities and damage require separate independent verification.",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "id": "C04",
+      "topic": "Opening strikes",
+      "claim": "All nine targets were operational militant facilities destroyed with no civilian harm.",
+      "finding": "Unverifiable from available public evidence",
+      "confidence": "Low",
+      "assessment": "India's characterizations and Pakistan's contrary civilian-harm accounts remain materially contested; this review has not authenticated all target site imagery.",
+      "sources": [
+        "S03",
+        "S04",
+        "S06",
+        "S17"
+      ]
+    },
+    {
+      "id": "C05",
+      "topic": "Aircraft",
+      "claim": "India suffered some initial air losses.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "India's Chief of Defence Staff subsequently acknowledged initial losses in an on-record interview. Exact number and aircraft models were not given.",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C06",
+      "topic": "Aircraft",
+      "claim": "Pakistan shot down at least one Indian Rafale.",
+      "finding": "Supported but not fully established",
+      "confidence": "Medium",
+      "assessment": "Reuters cites a US official specifically identifying a Rafale; this is material evidence, but the underlying battle evidence and serial-specific public authentication remain pending.",
+      "sources": [
+        "S11"
+      ]
+    },
+    {
+      "id": "C07",
+      "topic": "Aircraft",
+      "claim": "Pakistan destroyed five or six Indian fighters as claimed in different statements.",
+      "finding": "Unsupported",
+      "confidence": "Low",
+      "assessment": "This research pass found no independently authenticated five- or six-aircraft loss roster. The classification reflects the available evidence, not definitive disproof.",
+      "sources": [
+        "S11",
+        "S12",
+        "S13"
+      ]
+    },
+    {
+      "id": "C08",
+      "topic": "Military sites",
+      "claim": "Some Pakistani military facilities sustained observable physical damage.",
+      "finding": "Supported but not fully established",
+      "confidence": "Medium",
+      "assessment": "Commercial satellite-imagery reporting describes structural and runway damage. The original pixels have not yet been independently reviewed or licensed.",
+      "sources": [
+        "S18",
+        "S19",
+        "S14"
+      ]
+    },
+    {
+      "id": "C09",
+      "topic": "Ceasefire",
+      "claim": "India and Pakistan agreed to stop hostilities on 10 May 2025.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Both governments and US public communication acknowledge an agreement.",
+      "sources": [
+        "S08",
+        "S09",
+        "S10"
+      ]
+    },
+    {
+      "id": "C10",
+      "topic": "Ceasefire",
+      "claim": "The United States mediated the agreement.",
+      "finding": "Under investigation",
+      "confidence": "Medium",
+      "assessment": "The US publicly states it mediated. India publicly rejects outside-pressure and mediation narratives. The distinction between diplomatic facilitation and decisive mediation is unresolved.",
+      "sources": [
+        "S10",
+        "S22",
+        "S14"
+      ]
+    },
+    {
+      "id": "C11",
+      "topic": "Pakistan response",
+      "claim": "Pakistan launched Operation Bunyan-ul-Marsoos in response to Indian strikes.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Pakistan officially announced and described the operation. The announced results of its strikes are not independently verified here.",
+      "sources": [
+        "S08"
+      ]
+    },
+    {
+      "id": "C12",
+      "topic": "Investigations",
+      "claim": "NIA chargesheeted LeT/TRF and other defendants in December 2025.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Official case announcement is documented. No finding of criminal guilt is inferred.",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "id": "C13",
+      "topic": "Investigations",
+      "claim": "The three people killed in Operation Mahadev were established perpetrators through forensics.",
+      "finding": "Under investigation",
+      "confidence": "Medium",
+      "assessment": "The Indian government's forensic account is documented; the independently inspected chain of custody and forensic reports are not part of this first pass.",
+      "sources": [
+        "S21"
+      ]
+    },
+    {
+      "id": "C14",
+      "topic": "Security",
+      "claim": "The Pahalgam attack proves a specific advance intelligence warning was ignored.",
+      "finding": "Unsupported",
+      "confidence": "Low",
+      "assessment": "A precise pre-attack warning and its handling have not been established in the public documents reviewed. Absence of proof is not proof no warning existed.",
+      "sources": [
+        "S04",
+        "S15"
+      ]
+    },
+    {
+      "id": "C15",
+      "topic": "Diplomacy",
+      "claim": "The US announced international mediation while India cited DGMO-to-DGMO agreement.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Both descriptions were publicly made. Their factual accounts of private diplomacy cannot be fully reconciled from announcements alone.",
+      "sources": [
+        "S09",
+        "S10"
+      ]
+    },
+    {
+      "id": "C16",
+      "topic": "Outcome",
+      "claim": "Either side won a total and decisive military victory.",
+      "finding": "Unsupported",
+      "confidence": "Low",
+      "assessment": "The record contains both demonstrated activity and important unresolved loss/effect claims, and lacks a single agreed benchmark of military victory.",
+      "sources": [
+        "S08",
+        "S09",
+        "S12"
+      ]
+    },
+    {
+      "id": "C17",
+      "topic": "Technology",
+      "claim": "The use of J-10 aircraft proves Chinese aircraft are generally superior to Rafales.",
+      "finding": "Unsupported",
+      "confidence": "High",
+      "assessment": "Even a validated aircraft loss cannot by itself isolate the causal impact of platforms, tactics, situational awareness, weapons, training, or rules of engagement.",
+      "sources": [
+        "S11",
+        "S12"
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "id": "TG01",
+      "name": "Sawai Nala",
+      "area": "Muzaffarabad",
+      "allegation": "Indian briefing attributed militant training function",
+      "verification": "Independent on-site functionality and individual strike effect not yet verified",
+      "sources": [
+        "S17",
+        "S04"
+      ]
+    },
+    {
+      "id": "TG02",
+      "name": "Syedna Bilal",
+      "area": "Muzaffarabad",
+      "allegation": "Indian briefing associated site with JeM",
+      "verification": "Independent facility-use and damage verification pending",
+      "sources": [
+        "S17",
+        "S04"
+      ]
+    },
+    {
+      "id": "TG03",
+      "name": "Gulpur",
+      "area": "Kotli",
+      "allegation": "Indian briefing associated site with LeT",
+      "verification": "Independent facility-use and damage verification pending",
+      "sources": [
+        "S17",
+        "S04"
+      ]
+    },
+    {
+      "id": "TG04",
+      "name": "Barnala",
+      "area": "Bhimber",
+      "allegation": "Indian briefing described alleged training site",
+      "verification": "Independent function and damage verification pending",
+      "sources": [
+        "S17",
+        "S04"
+      ]
+    },
+    {
+      "id": "TG05",
+      "name": "Abbas",
+      "area": "Kotli",
+      "allegation": "Indian briefing described alleged LeT-linked camp",
+      "verification": "Independent function and damage verification pending",
+      "sources": [
+        "S17",
+        "S04"
+      ]
+    },
+    {
+      "id": "TG06",
+      "name": "Sarjal",
+      "area": "Sialkot / Narowal region",
+      "allegation": "Indian briefing described alleged militant site",
+      "verification": "Location nomenclature and strike-effect corroboration pending",
+      "sources": [
+        "S17",
+        "S04"
+      ]
+    },
+    {
+      "id": "TG07",
+      "name": "Mehmoona Joya",
+      "area": "Sialkot region",
+      "allegation": "Indian briefing attributed Hizbul Mujahideen association",
+      "verification": "Independent site identity and damage verification pending",
+      "sources": [
+        "S17",
+        "S04"
+      ]
+    },
+    {
+      "id": "TG08",
+      "name": "Markaz Taiba",
+      "area": "Muridke",
+      "allegation": "India linked complex to LeT",
+      "verification": "Physical damage reported; precise functional attribution and human impacts require assessment",
+      "sources": [
+        "S17",
+        "S13"
+      ]
+    },
+    {
+      "id": "TG09",
+      "name": "Markaz Subhanallah",
+      "area": "Bahawalpur",
+      "allegation": "India linked complex to JeM",
+      "verification": "Physical damage reported; function and civilian losses remain disputed",
+      "sources": [
+        "S17",
+        "S13"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "id": "X01",
+      "title": "Aircraft numbers and identities",
+      "sideA": "Pakistan reported multiple Indian fighter losses, initially five and later six in some accounts.",
+      "sideB": "Indian CDS acknowledged initial air losses but offered no count; independent US-official reports support a smaller minimum.",
+      "status": "Open",
+      "required": "Individually authenticated wreckage, type and serial evidence, official loss ledgers.",
+      "sources": [
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "id": "X02",
+      "title": "Nature of the nine targets",
+      "sideA": "India describes all as terrorist facilities.",
+      "sideB": "Pakistan states strikes involved civilian sites, including places of worship.",
+      "status": "Open",
+      "required": "Facility histories, lawful baseline imagery, source-linked casualty/civilian-use documentation.",
+      "sources": [
+        "S04",
+        "S06",
+        "S13"
+      ]
+    },
+    {
+      "id": "X03",
+      "title": "Who caused the cessation?",
+      "sideA": "United States states it mediated through intensive senior-level talks.",
+      "sideB": "India stresses bilateral DGMO communications and denies external pressure as the determining cause.",
+      "status": "Open",
+      "required": "Timestamped official call records, consistent contemporaneous accounts, complete negotiator statements.",
+      "sources": [
+        "S09",
+        "S10",
+        "S22"
+      ]
+    },
+    {
+      "id": "X04",
+      "title": "Military strike effects",
+      "sideA": "India claimed significant damage to Pakistani military infrastructure.",
+      "sideB": "Pakistan acknowledged limited hits and contested broad damage and loss claims.",
+      "status": "Open",
+      "required": "Independent historical imagery change detection with non-combat hypotheses tested.",
+      "sources": [
+        "S09",
+        "S12",
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "id": "X05",
+      "title": "Perpetrator attribution",
+      "sideA": "India publicly attributed Pahalgam to TRF/LeT on 7 May.",
+      "sideB": "Pakistan disputed India's accusations and requested an independent investigation.",
+      "status": "Partially documented",
+      "required": "Review filed chargesheet exhibits and any later reasoned judicial rulings.",
+      "sources": [
+        "S04",
+        "S06",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "X06",
+      "title": "Civilian casualty accounting",
+      "sideA": "Pakistan reported civilian deaths from opening Indian strikes.",
+      "sideB": "India asserted precision and restraint and reported civilian deaths due to Pakistani fire.",
+      "status": "Open",
+      "required": "Incident-level date, place, person and medical-record reconciliation without duplication.",
+      "sources": [
+        "S03",
+        "S06",
+        "S13"
+      ]
+    },
+    {
+      "id": "X07",
+      "title": "Responsibility for escalation",
+      "sideA": "India framed the opening action as pre-emption and deterrence.",
+      "sideB": "Pakistan called it unlawful aggression and its own response self-defence.",
+      "status": "Legal assessment pending",
+      "required": "Review attack attribution, necessity, proportionality, individual targeting facts, UN Charter standards.",
+      "sources": [
+        "S04",
+        "S08"
+      ]
+    }
+  ],
+  "openQuestions": [
+    {
+      "id": "Q01",
+      "priority": "critical",
+      "question": "What exhibits in NIA's filed chargesheets corroborate organizational attribution and the Operation Mahadev forensic linkage?",
+      "next": "Obtain full public filings and written court orders; separate claims from findings."
+    },
+    {
+      "id": "Q02",
+      "priority": "critical",
+      "question": "Which Indian aircraft were lost on 7 May, with type, number and independently authenticated evidence?",
+      "next": "Inventory original geolocated wreckage reporting and official admissions."
+    },
+    {
+      "id": "Q03",
+      "priority": "critical",
+      "question": "How many civilians died or were injured in strikes and shelling on each side, without double counting?",
+      "next": "Create event-level casualty dataset from hospital, government and independent incident records."
+    },
+    {
+      "id": "Q04",
+      "priority": "high",
+      "question": "What before/after satellite evidence supports each of the nine initial target claims?",
+      "next": "Obtain licensed historical imagery and annotate only non-sensitive site-level change."
+    },
+    {
+      "id": "Q05",
+      "priority": "high",
+      "question": "What physical changes occurred at Nur Khan, Murid, Rahim Yar Khan and other publicly named military facilities?",
+      "next": "Verify original image acquisition dates, registration and alternative causes."
+    },
+    {
+      "id": "Q06",
+      "priority": "high",
+      "question": "What did Operation Bunyan-ul-Marsoos strike, and what independent physical evidence supports Pakistan's claimed effects?",
+      "next": "Apply symmetrical incident and image-verification method."
+    },
+    {
+      "id": "Q07",
+      "priority": "high",
+      "question": "What role did US diplomacy play, and what formally documented DGMO exchange preceded 17:00 IST cessation?",
+      "next": "Compare original time-stamped statements and public diplomatic records."
+    },
+    {
+      "id": "Q08",
+      "priority": "high",
+      "question": "Which security warnings and vulnerability findings about Pahalgam existed before 22 April?",
+      "next": "Review dated public security advisories and accountability proceedings, avoiding present-day vulnerabilities."
+    },
+    {
+      "id": "Q09",
+      "priority": "medium",
+      "question": "What quantifiable economic loss can be attributed to airspace and aviation restrictions?",
+      "next": "Compile airline reports, airspace notices, and audited financial statements."
+    },
+    {
+      "id": "Q10",
+      "priority": "medium",
+      "question": "What is the legal effect and contemporary status of the Indus Waters Treaty measures?",
+      "next": "Compare treaty clauses, official notifications and institutional dispute records through October 2026."
+    },
+    {
+      "id": "Q11",
+      "priority": "medium",
+      "question": "Which viral photos and videos were recycled, doctored or miscaptioned during 7–10 May?",
+      "next": "Build original-post provenance and correction log rather than copying fact-check headlines."
+    },
+    {
+      "id": "Q12",
+      "priority": "medium",
+      "question": "What 2026 judicial and institutional developments supersede earlier claims?",
+      "next": "Find signed orders and NIA releases dated after 6 July 2026; verify not merely case announcements."
+    }
+  ]
+}
