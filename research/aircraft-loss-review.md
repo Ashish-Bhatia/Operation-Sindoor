@@ -1,6 +1,6 @@
 # Aircraft-loss investigation: documentary and visual evidence review
 
-**Edition:** Checkpoint 02 · **Cutoff:** 19 October 2026  
+**Edition:** Checkpoint 02, revision A · **Cutoff:** 19 October 2026  
 **Status:** Substantive independent review of published visual investigation and publicly recorded third-country military testimony. **Not** original image-forensic authentication or a complete loss roster.
 
 ## Scope and standard
@@ -71,6 +71,35 @@ Early Pakistani briefings reportedly stated **five** Indian aircraft shot down. 
 - Multiple photographs of the same object are not multiple losses.
 - A combat loss does not independently prove a specific air-to-air missile model, radar technique, rules of engagement or airspace violation.
 - Pakistan's initial claims and India's later acknowledgment do not independently establish every detail each claimed.
+
+## Indian claims concerning Pakistani aircraft: symmetric audit
+
+### 9 August 2025
+
+At the 16th Air Chief L. M. Katre lecture, India's Air Chief Marshal A.P. Singh publicly said India had downed **five Pakistani fighter aircraft and one larger aircraft** that could be an ELINT or airborne early warning platform. He attributed most of the reported kills to Indian air defences and referred to electronic tracking as confirmation. [Akashvani original coverage](https://newsonair.gov.in/india-downed-five-pakistani-fighter-jets-during-operation-sindoor-air-chief-marshal-a-p-singh/) and [Reuters original report](https://www.reuters.com/world/asia-pacific/india-shot-down-six-pakistani-military-aircraft-may-air-force-chief-says-2025-08-09/).
+
+Pakistan's Defence Minister Khawaja Muhammad Asif rejected the account and said no Pakistani aircraft had been shot down or destroyed. Neither the original air-defence tracking nor a serial-specific Pakistani airframe ledger has been independently reviewed in this project.
+
+**Finding:** The assertion and denial are both verified public positions. **Six Pakistani aircraft losses are not independently established** by sources examined.
+
+### 3 October 2025
+
+[Indian Express coverage](https://indianexpress.com/article/india/pakistani-fighter-jets-f-16s-destroyed-operation-sindoor-air-force-chief-10285337/) reports that A.P. Singh described additional aircraft allegedly damaged or destroyed on the ground at Pakistani airfields. Media summaries vary in aggregated counts partly because they combine the earlier claimed **airborne shootdowns** and later claimed **on-ground effects**.
+
+This creates a significant counting risk:
+
+- An aircraft hit in a hangar cannot be assumed from the existence of hangar damage.
+- An aircraft claimed destroyed on the ground must not be added twice to an airborne-loss claim if identities are unproven.
+- Counting damaged, destroyed and shot-down platforms together without clear units inflates uncertainty into a false precision.
+- Pakistani Air Force deaths at damaged bases are not proof that the reported six airborne kills occurred.
+
+**Current status of Pakistani aircraft losses:** Under investigation. This is the same independent-evidence requirement applied to all Indian aircraft claims.
+
+## Warnings before the opening action: related air-war contradiction
+
+[French parliamentary testimony](https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2025PO59046N082.html) attributes to General Bellanger's Indian counterpart an explanation that India chose to warn Pakistan of an imminent raid because of escalation concerns. By contrast, [India's MEA reported clarification](https://economictimes.indiatimes.com/news/politics-and-nation/mea-rejects-claims-that-india-informed-pakistan-before-launching-operation-sindoor-clarifies-on-jaishankars-statement/articleshow/121238111.cms) rejected assertions that Pakistan had been informed *before* the operation commenced, and the [Prime Minister's 29 July Lok Sabha address](https://www.pmindia.gov.in/en/news_updates/pm-addressing-lok-sabha-during-special-discussion-on-operation-sindoor/) described notice being sent within minutes after the initial aims were achieved.
+
+These accounts are materially difficult to reconcile as publicly worded. The French testimony is a second-hand report of what the Indian counterpart told Bellanger. There could also be differences in what “before,” “imminent,” “launch,” “impact” and “after the objectives” refer to. Call records are needed. No definitive finding of betrayal, negligence or advance Pakistani knowledge is justified by these statements alone.
 
 ## Evidence still required
 
