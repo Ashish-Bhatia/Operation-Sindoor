@@ -98,6 +98,16 @@ Reuters [reported on 1 May 2025](https://www.reuters.com/business/aerospace-defe
 
 This is a **conditional, forward-looking forecast**, not an audited actual expenditure. Longer routes, fuel and crew costs are identified mechanisms. The number is not an all-India cost estimate and should not be included as realized expenditure without later company and aviation records. [Reuters, 15 October 2026](https://www.reuters.com/world/india/air-india-forms-team-drive-cost-savings-memo-shows-2026-10-15/) describes multiple pressures on the airline, making causal attribution of aggregate financial losses to the 2025 crisis invalid without further analysis.
 
+## Case 08: Stated objectives, revised official accounts and phase boundaries
+
+The first [7 May 01:44 IST PIB announcement](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2127370) limited India's opening targets to nine described terror sites and explicitly excluded Pakistani military facilities in the opening phase. The government broadcaster's [contemporaneous briefing summary](https://newsonair.gov.in/press-briefing-on-operation-sindoor/) reported **01:05–01:30 IST** as the opening strike window; precise individual impact times remain unverified.
+
+The [8 May 14:34 IST Ministry of Defence briefing](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127670) asserted Pakistani drone and missile attacks overnight, Indian counterstrikes on Pakistani air-defence radars, a neutralized Lahore system and **16 civilians killed by Pakistani shelling** by that date. These are verified statements by India, not independently audited military effects or deduplicated casualty entries.
+
+On **28 July 2025**, Defence Minister Rajnath Singh [described in Lok Sabha](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149356&lang=2&reg=48) the overall politico-military goal as punishing what India described as Pakistan's proxy war, avoiding capture of Pakistani territory, and destroying terrorist infrastructure. He said India estimated **more than 100 alleged militants killed** and that the campaign had been **paused rather than ended**. His further [29 July Rajya Sabha remarks](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149793&lang=1&reg=3) reiterated that the operation was halted but not ended.
+
+**Evidence rule:** The 28–29 July accounts are valuable for the government's public rationale but are *retrospective*. They cannot silently replace the narrower aims stated before or during the opening 7 May phase. Claimed militant deaths and the alleged destruction of air-defence systems remain subject to incident-level verification. The 16 civilian fatalities reported by India on 8 May are a dated provisional claim, not the final civilian toll.
+
 ## Evidence integrity and limitations
 
 - The source register records the acquisition/review state of each item. It does **not** pretend that a linked PDF, satellite image or video has been fully read merely because its URL was located.
@@ -120,3 +130,4 @@ This is a **conditional, forward-looking forecast**, not an audited actual expen
 
 - **19 October 2026, checkpoint 01:** Initial independent documentary review, claim classification and first interactive evidence database. No assertion of comprehensive completion.
 - **19 October 2026, checkpoint 01 revision B:** Added 2026 Indus Waters tribunal notice and Indian rejection; added conditional 2025 airline-cost forecast, bilateral restriction chronology, and updated claims/contradiction log.
+- **19 October 2026, checkpoint 01 revision C:** Compared 7 May objectives and strike times with 8 May escalation statement and July parliamentary accounts. Recorded dated casualty and militant-loss claims without accepting them as independently established.
