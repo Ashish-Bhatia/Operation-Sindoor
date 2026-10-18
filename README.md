@@ -31,7 +31,7 @@ If GitHub Pages is not enabled, go to **Settings → Pages → Build and deploym
 
 ## Data standard
 
-Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains a 21-event chronology, 22 assessed claims, nine initial target-site records, eight contradictions and 14 open questions. It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
+Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains a 24-event chronology, 30 assessed claims, nine initial target-site records, nine contradictions, 15 open questions and 37 source records (36 distinct URLs). It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
 
 Do not equate:
 - an official statement with independent confirmation of its substance,
@@ -50,6 +50,6 @@ Every substantive change should cite original evidence, identify the prior state
 
 This edition has **not** retrieved and independently reviewed complete NIA filed exhibits, confidential intelligence, original licensed imagery, comprehensive medical/casualty records, every military-briefing recording or the latest signed court orders. Long-form history, detailed treaty/legal analysis and economic accounting remain future workstreams.
 
-The October 2026 revision also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
+The October 2026 revision additionally compares the 7 May opening objectives and 8 May escalation claims with the July parliamentary account. It also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
 
 The repository is independent and not affiliated with either government, armed forces, any media organization or OpenAI.
