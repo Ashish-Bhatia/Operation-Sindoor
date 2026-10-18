@@ -327,6 +327,26 @@
       "url": "https://pca-cpa.org/en/cases/284/",
       "review": "Search-index case docket reviewed; direct site may block requests; original 31 August award PDFs not downloaded or fully examined",
       "note": "Lists June 2025 competence, August 2025 general interpretation, and August 2026 treaty-status/interim-measures awards."
+    },
+    {
+      "id": "S33",
+      "title": "Rajnath Singh Lok Sabha address: politico-military objectives of Operation Sindoor",
+      "publisher": "India Ministry of Defence / Press Information Bureau",
+      "date": "2025-07-28",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149356&lang=2&reg=48",
+      "review": "Full original PIB parliamentary-remarks report directly read",
+      "note": "Retrospective account of objectives, claimed more than 100 militant deaths, claimed no important Indian military damage, says operation paused and denies outside pressure. Assertions of outcomes not automatically verified."
+    },
+    {
+      "id": "S34",
+      "title": "Rajnath Singh Rajya Sabha address on Operation Sindoor continuation",
+      "publisher": "India Ministry of Defence / Press Information Bureau",
+      "date": "2025-07-29",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149793&lang=1&reg=3",
+      "review": "Original official PIB parliamentary-remarks account directly read",
+      "note": "Reaffirms India describes operation as halted, not ended, and restates deterrence and counterterrorism goals. Government statement, not evidence of effects."
     }
   ],
   "timeline": [
@@ -525,6 +545,28 @@
         "S22"
       ],
       "class": "established"
+    },
+    {
+      "id": "T22",
+      "date": "2025-07-28",
+      "time": "17:30 IST PIB release",
+      "headline": "Rajnath Singh describes objectives in Lok Sabha",
+      "detail": "Minister characterizes overall goal as punishing proxy war, estimates over 100 militants killed, and describes campaign as paused rather than ended. Each outcome claim requires independent audit.",
+      "sources": [
+        "S33"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T23",
+      "date": "2025-07-29",
+      "time": "17:15 IST PIB release",
+      "headline": "Defence minister reiterates continued posture in Rajya Sabha",
+      "detail": "Government describes the operation as halted, not concluded; declarations about military readiness do not demonstrate further operations.",
+      "sources": [
+        "S34"
+      ],
+      "class": "official"
     },
     {
       "id": "T15",
@@ -842,6 +884,67 @@
         "S25",
         "S31"
       ]
+    },
+    {
+      "id": "C23",
+      "topic": "Objectives",
+      "claim": "India publicly described the initial strikes as limited to nine terrorist locations and not Pakistani military installations.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Direct May 7 release states scope. Subsequent military-site attacks were described as later responses; this is a statement about announced initial objectives, not verified target characterization.",
+      "sources": [
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "id": "C24",
+      "topic": "Objectives",
+      "claim": "India's defence minister described broader politico-military goals in Parliament on 28 July 2025.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Original PIB record attributes to the defence minister a goal of punishing what India called Pakistan's proxy war, rather than occupying territory. This is retrospective language; assessing whether original objectives changed requires comparing contemporaneous documentation.",
+      "sources": [
+        "S33",
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "id": "C25",
+      "topic": "Military casualties",
+      "claim": "India's Defence Minister stated that no Indian soldiers were killed during the operation.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "The minister made the statement on 28 July. This classification verifies the declaration, not a complete independently compiled Indian military casualty count.",
+      "sources": [
+        "S33"
+      ]
+    },
+    {
+      "id": "C26",
+      "topic": "Strike casualties",
+      "claim": "India killed more than 100 militants in its nine opening strikes.",
+      "finding": "Under investigation",
+      "confidence": "Low",
+      "assessment": "Rajnath Singh presented the figure as an estimate in Lok Sabha; specific independently verified identities, casualty lists and location-level records have not been inspected in this first pass.",
+      "sources": [
+        "S33",
+        "S03",
+        "S13"
+      ]
+    },
+    {
+      "id": "C27",
+      "topic": "Cessation",
+      "claim": "India's government described Operation Sindoor as paused, not concluded, in July 2025.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Primary parliamentary statement in Lok Sabha and subsequent Rajya Sabha briefing confirm official description of suspended military action. Does not demonstrate a renewed combat operation.",
+      "sources": [
+        "S33",
+        "S34"
+      ]
     }
   ],
   "targets": [
@@ -1050,6 +1153,19 @@
         "S28",
         "S32"
       ]
+    },
+    {
+      "id": "X09",
+      "title": "Initial stated objectives versus retrospective success test",
+      "sideA": "The initial 7 May release described a limited response against nine purported terrorist sites, explicitly excluding Pakistani military sites in its first phase.",
+      "sideB": "The 28 July parliamentary account stated a broader goal of punishing Pakistan for its alleged proxy war and said all politico-military objectives were accomplished.",
+      "status": "Analytical comparison pending",
+      "required": "Construct dated objective language matrix, distinguish initial action from expanded 7–10 May combat and measure actual disruption and deterrence independently.",
+      "sources": [
+        "S03",
+        "S04",
+        "S33"
+      ]
     }
   ],
   "openQuestions": [
@@ -1136,6 +1252,12 @@
       "priority": "medium",
       "question": "What share of Air India's and other airlines' documented 2025-26 costs resulted from the Pakistan airspace restriction?",
       "next": "Acquire realized financial data, route-distance changes and airline disclosures; separate conflict-linked costs from other disruptions."
+    },
+    {
+      "id": "Q15",
+      "priority": "high",
+      "question": "Did India's original publicly declared objectives materially change during and after the conflict?",
+      "next": "Compare 7 May briefings, 10–12 May operational summaries and 28–29 July parliamentary statements; evaluate each goal against independently demonstrated effects."
     }
   ]
 }
