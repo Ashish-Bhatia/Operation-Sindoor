@@ -2,12 +2,13 @@
 
 An independently researched public-record investigation of the **Pahalgam attack of 22 April 2025**, **India–Pakistan hostilities of 7–10 May 2025**, subsequent investigations, competing official claims and long-term consequences.
 
-**Current edition:** Research checkpoint 09, evidence cutoff **19 October 2026**. This is **not a completed investigation**, and no continuous monitoring has been configured.
+**Current edition:** Research checkpoint 10, evidence cutoff **19 October 2026**. This is **not a completed investigation**, and no continuous monitoring has been configured.
 
 ## Read the investigation
 
 - [Editorial website](https://ashish-bhatia.github.io/Operation-Sindoor/) (available when GitHub Pages is enabled for `main`/`/`).
-- [Latest findings, checkpoint 09](research/checkpoint-09.md).
+- [Latest findings, checkpoint 10](research/checkpoint-10.md).
+- [Previous checkpoint 09](research/checkpoint-09.md).
 - [Previous checkpoint 08](research/checkpoint-08.md).
 - [Previous checkpoint 07](research/checkpoint-07.md).
 - [Previous checkpoint 06](research/checkpoint-06.md).
@@ -26,7 +27,7 @@ An independently researched public-record investigation of the **Pahalgam attack
 - [Machine-readable evidence and claims register](data/research.json).
 - [Raw editorial web application](index.html).
 
-## Evidence-led findings, checkpoints 02–09
+## Evidence-led findings, checkpoints 02–10
 
 - The 22 April Pahalgam attack killed 26 people, as recorded by the [UN Security Council](https://press.un.org/en/2025/sc16050.doc.htm).
 - India's [first contemporaneous release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2127370), timestamped 7 May at 01:44 IST, reported nine targeted sites and no Pakistani military facilities targeted in the opening action. This is verification of the **release**, not all its operational claims.
@@ -61,6 +62,8 @@ An independently researched public-record investigation of the **Pahalgam attack
 - **India's May-to-June casualty reconciliation:** six [original National War Memorial entries](https://nationalwarmemorial.gov.in/) establish **five May 7–10 military deaths and one later death on 6 June 2025**. [The Army's contemporaneous June tribute](https://www.tribuneindia.com/news/j-k/havildar-injured-in-operation-sindoor-succumbs-to-injuries/) confirms Havildar Sunil Kumar Singh died of Sindoor injuries. May's five and the final operation-associated six are different dated cumulative totals, **not conflicting body counts**.
 - The one memorialised IAF death was [Sergeant Surendra Kumar of 39 Wing](https://nationalwarmemorial.gov.in/roll-of-honours/details/26644), described independently as a **medical assistant**, not a fighter pilot. His death is **not** proof of a jet shot down or its crew's fate.
 - The [8 July 2026 Pahalgam warrant](https://www.tribuneindia.com/news/j-k/jammu-court-issues-non-bailable-warrant-against-let-founder-hafiz-saeed/) against Hafiz Saeed belongs to **RC-02/2025/NIA/JMU**. A [September 2026 warrant](https://www.hindustantimes.com/cities/chandigarh-news/nia-court-issues-fresh-warrant-against-lashkar-chief-hafiz-saeed-101789197144507.html) concerns a **separate weapons case**. Neither is a criminal conviction; full signed court orders remain outstanding.
+- India's [14 August 2025 original Ministry of Defence gallantry list](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2156515&lang=1&reg=48) independently identifies all **six eventual Indian Operation Sindoor fatalities** also in the later memorial, including **Agniveer Mood Muralinaik** and **Sergeant Surendra Kumar, Medical Assistant**. It is a personnel record, **not** an aircraft-loss roster; one unit-label inconsistency for Havildar Sunil Kumar Singh remains under investigation.
+- The [government's archived 11 May 2025 military briefing](https://www.pib.gov.in/Webcast/WebcastDetail.aspx?MinID=33&d=0&lang=2&m=5&reg=48&webcast_tempID=1082&y=2025) can be located in PIB's webcast archive. [Contemporaneous reporting](https://indianexpress.com/article/india/india-pakistan-today-latest-news-live-updates-operation-sindoor-drone-missile-attack-punjab-jammu-kashmir-indian-armed-forces-9994370/) quotes **five then-known military deaths**, **all pilots home**, and a **qualitative claim of some Pakistani aircraft downed without a public numeric tally**. The full video has **not been independently transcribed**; pilot return does not establish zero aircraft lost.
 
 ## How to use the website
 
@@ -74,7 +77,7 @@ If GitHub Pages is not enabled, go to **Settings → Pages → Build and deploym
 
 ## Data standard
 
-Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains a 79-event chronology, 127 assessed claims, nine initial target-site records, 46 contradictions, 63 open questions, eight dated/scoped casualty records and 138 source entries. Source URL repetitions are flagged and not counted as independent corroboration. It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
+Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains an 81-event chronology, 136 assessed claims, nine initial target-site records, 49 contradictions, 64 open questions, eight dated/scoped casualty records and 146 source entries. Source URL repetitions are flagged and not counted as independent corroboration. It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
 
 Do not equate:
 - an official statement with independent confirmation of its substance,
@@ -93,6 +96,6 @@ Every substantive change should cite original evidence, identify the prior state
 
 This edition has **not** retrieved and independently reviewed complete NIA filed exhibits, confidential intelligence, original licensed imagery, comprehensive medical/casualty records, every military-briefing recording or the latest signed court orders. Comprehensive historical, treaty/legal, humanitarian and economic reconciliation remains incomplete.
 
-Checkpoint 09 resolves India's five-versus-six military death reporting through six original dated memorial records, distinguishes a medical assistant from fighter aircrew and disambiguates separate Saeed warrant cases. Checkpoint 08 reconciles Pakistan's dated military casualty count (11 to 13), identifies two Bathinda crash-related civilian deaths and adds Poonch district recovery figures with deduplication warnings. Checkpoint 07 records the MHA evacuation and housing-relief baseline, May 2026 Uri reconstruction gaps, UN-filed targeting denials and tested versus operational civil-defence systems. Checkpoint 06 adds formally circulated Article 51 claims, UN-documented ceasefire positions, symmetric OHCHR communications and India's parliamentary answer. Checkpoint 05 clarifies UN/NIA source cutoff dates, a disavowed military identity dossier, a separate LeT case, original UN letter identifiers and the narrow Ratle order. Checkpoint 04 adds French parliamentary records, Rafale procurement inference checks, 2026 airfield imagery, an UN/NIA attacker-count discrepancy and the August treaty-award dispute. The earlier October 2026 revision distinguishes combat effects from claims, no-expiry cessation terms and disputed legal justifications. An earlier revision compares the 7 May opening objectives and 8 May escalation claims with the July parliamentary account. It also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
+Checkpoint 10 cross-verifies six casualties against the August 2025 original award roster, resolves Mood Muralinaik's Agniveer designation, confirms Surendra Kumar's Medical Assistant trade from an original government source and recovers the official May 11 briefing archive with carefully qualified contemporary quotes. Checkpoint 09 resolves India's five-versus-six military death reporting through six original dated memorial records, distinguishes a medical assistant from fighter aircrew and disambiguates separate Saeed warrant cases. Checkpoint 08 reconciles Pakistan's dated military casualty count (11 to 13), identifies two Bathinda crash-related civilian deaths and adds Poonch district recovery figures with deduplication warnings. Checkpoint 07 records the MHA evacuation and housing-relief baseline, May 2026 Uri reconstruction gaps, UN-filed targeting denials and tested versus operational civil-defence systems. Checkpoint 06 adds formally circulated Article 51 claims, UN-documented ceasefire positions, symmetric OHCHR communications and India's parliamentary answer. Checkpoint 05 clarifies UN/NIA source cutoff dates, a disavowed military identity dossier, a separate LeT case, original UN letter identifiers and the narrow Ratle order. Checkpoint 04 adds French parliamentary records, Rafale procurement inference checks, 2026 airfield imagery, an UN/NIA attacker-count discrepancy and the August treaty-award dispute. The earlier October 2026 revision distinguishes combat effects from claims, no-expiry cessation terms and disputed legal justifications. An earlier revision compares the 7 May opening objectives and 8 May escalation claims with the July parliamentary account. It also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
 
 The repository is independent and not affiliated with either government, armed forces, any media organization or OpenAI.
