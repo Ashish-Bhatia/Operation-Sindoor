@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 03",
+    "edition": "Research checkpoint 04",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open."
   },
   "sources": [
     {
@@ -797,6 +797,56 @@
       "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=154451&lang=2&reg=48",
       "review": "Original PIB press-note text directly read including posted timestamp 12 May 2025 17:22 IST",
       "note": "Indian PIB claims 11 Pakistani air bases destroyed, nearly 20% of PAF infrastructure destroyed, and says Pakistan approached US to broker calm. All are Indian official assertions, not independent verification."
+    },
+    {
+      "id": "S80",
+      "title": "French Defence Ministry written response to Rafale/SPECTRA parliamentary question 6745",
+      "publisher": "Assemblée nationale (French Defence Ministry)",
+      "date": "2025-11-25",
+      "type": "primary",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6745",
+      "review": "Original French written ministerial reply directly read",
+      "note": "Presumed Indian Rafale loss, circumstances unconfirmed by India; claimed SPECTRA failure not documented. A questioner's detailed PL-15E attribution is not an official finding."
+    },
+    {
+      "id": "S81",
+      "title": "IAF 36-Rafale five-month bridge support request reported in June 2026",
+      "publisher": "India Today",
+      "date": "2026-06-23",
+      "type": "independent",
+      "url": "https://www.indiatoday.in/india/story/air-force-iaf-document-36-rafales-pakistan-operation-sindoor-loss-claims-2932499-2026-06-23",
+      "review": "Published news article read; underlying full RFP and annexures not retrieved",
+      "note": "The contract fleet scope is not a serial-specific current physical airframe inventory."
+    },
+    {
+      "id": "S82",
+      "title": "Satellite imagery analysis of Pakistani airbase repairs one year after hostilities",
+      "publisher": "India Today OSINT",
+      "date": "2026-05-06",
+      "type": "independent",
+      "url": "https://www.indiatoday.in/india/story/operation-sindoor-pakistan-airbase-repairs-still-unfinished-after-a-year-satellite-images-show-2907688-2026-05-06",
+      "review": "Published satellite-imagery analysis read; source imagery not independently acquired",
+      "note": "Reports repair timelines and damage at bases; insufficient imagery for Rafiqui. Reconstruction does not establish full downtime."
+    },
+    {
+      "id": "S83",
+      "title": "Sargodha Mushaf runway repair revisit, 490 days after May strikes",
+      "publisher": "India Today OSINT",
+      "date": "2026-09-18",
+      "type": "independent",
+      "url": "https://www.indiatoday.in/india/interactive/story/490-days-satellite-images-show-brahmos-crater-at-sargodha-reopened-for-repair-2997799-2026-09-18",
+      "review": "Original publisher's OSINT commentary read; original Vantor imagery not independently hashed",
+      "note": "Reports renewed resurfacing at earlier runway patch. Does not prove 490 days of continuous runway closure or weapon attribution."
+    },
+    {
+      "id": "S84",
+      "title": "UN Security Council analytical monitoring report S/2025/482 paragraph 84",
+      "publisher": "UN Security Council Analytical Support and Sanctions Monitoring Team",
+      "date": "2025-07-24",
+      "type": "primary",
+      "url": "https://www.ecoi.net/en/file/local/2127961/n2517600.pdf",
+      "review": "Official UN document read via documentary mirror, paragraph 84 verified",
+      "note": "Says five attackers; records April 22 and 23 TRF claims and April 26 retraction; different member-state views on LeT relation."
     }
   ],
   "timeline": [
@@ -1263,6 +1313,17 @@
       "class": "contested"
     },
     {
+      "id": "T47",
+      "date": "2025-11-25",
+      "time": "written response",
+      "headline": "French Defence Ministry addresses presumed Rafale loss",
+      "detail": "French written parliamentary answer states circumstances of a presumed loss are unknown and a SPECTRA failure is not documented.",
+      "sources": [
+        "S80"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T15",
       "date": "2025-12-15",
       "time": "announcement date",
@@ -1283,6 +1344,28 @@
         "S42"
       ],
       "class": "reported"
+    },
+    {
+      "id": "T48",
+      "date": "2026-05-06",
+      "time": "published satellite review",
+      "headline": "Satellite-analysis report tracks Pakistani airbase rebuilding",
+      "detail": "Media imagery investigation compares 2025 damage and structural repairs at several facilities into 2026.",
+      "sources": [
+        "S82"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T49",
+      "date": "2026-06-23",
+      "time": "published procurement coverage",
+      "headline": "36-Rafale fleet-support RFP becomes evidentiary dispute",
+      "detail": "India Today reports a five-month RFP specifying 36 aircraft; contract scope alone does not establish serialised intact inventory.",
+      "sources": [
+        "S81"
+      ],
+      "class": "contested"
     },
     {
       "id": "T35",
@@ -1318,6 +1401,17 @@
         "S32"
       ],
       "class": "contested"
+    },
+    {
+      "id": "T50",
+      "date": "2026-09-18",
+      "time": "published satellite revisit",
+      "headline": "Fresh works observed at previously patched Mushaf runway site",
+      "detail": "Later excavation/resurfacing at Mushaf does not establish that every runway section remained continuously out of service since May 2025.",
+      "sources": [
+        "S83"
+      ],
+      "class": "reported"
     },
     {
       "id": "T21",
@@ -2223,6 +2317,81 @@
         "S39",
         "S51"
       ]
+    },
+    {
+      "id": "C74",
+      "topic": "Aircraft losses",
+      "claim": "The French Defence Ministry confirmed that the Rafale electronic-warfare system failed in combat.",
+      "finding": "Unsupported",
+      "confidence": "High",
+      "assessment": "The 25 November 2025 written reply says an alleged SPECTRA failure is undocumented and speaks only of a presumed Rafale loss with unknown circumstances. The question's detailed missile attribution is not an answer.",
+      "sources": [
+        "S80",
+        "S40",
+        "S38"
+      ]
+    },
+    {
+      "id": "C75",
+      "topic": "Aircraft losses",
+      "claim": "An IAF 2026 support tender covering 36 Rafales proves none was lost in May 2025.",
+      "finding": "Unsupported inference",
+      "confidence": "High",
+      "assessment": "A request for support for a specified fleet count does not independently certify serialised physical survival or readiness. Original RFP and tail-numbered inventories are missing.",
+      "sources": [
+        "S81",
+        "S80",
+        "S38"
+      ]
+    },
+    {
+      "id": "C76",
+      "topic": "Pakistan airfields",
+      "claim": "Published satellite imagery shows Pakistan repairing strike-affected airfield structures well into 2026.",
+      "finding": "Supported by published visual analysis",
+      "confidence": "Medium-high",
+      "assessment": "India Today compared commercial and Sentinel historical imagery at multiple sites and reported reconstruction/demolition. This project has not separately acquired/hardened source image pixels. Military operational availability cannot be inferred from repair alone.",
+      "sources": [
+        "S82",
+        "S83",
+        "S39"
+      ]
+    },
+    {
+      "id": "C77",
+      "topic": "Pakistan airfields",
+      "claim": "New September 2026 works at Mushaf prove the runway was continuously closed for roughly 490 days.",
+      "finding": "Unsupported inference",
+      "confidence": "High",
+      "assessment": "Later resurfacing at an earlier patch is compatible with temporary repairs and intermittent operation. Need runway NOTAMs, sortie logs and image date sequence to quantify closure.",
+      "sources": [
+        "S83",
+        "S82"
+      ]
+    },
+    {
+      "id": "C78",
+      "topic": "Pahalgam",
+      "claim": "UN monitoring report S/2025/482 stated five Pahalgam attackers, whereas subsequent NIA case materials described three principal gunmen.",
+      "finding": "Source-level discrepancy verified; underlying count unresolved",
+      "confidence": "High on attribution, low on exact perpetrator count",
+      "assessment": "UN paragraph 84 says five terrorists; NIA allegations concern three identified alleged gunmen. Definitions, evidence cutoffs and potential facilitators must be reconciled. Do not treat discrepancy itself as proof of either investigation's bad faith.",
+      "sources": [
+        "S84",
+        "S41",
+        "S42"
+      ]
+    },
+    {
+      "id": "C79",
+      "topic": "Pahalgam",
+      "claim": "UN report documented that TRF claimed Pahalgam on 22 and 23 April before retracting on 26 April.",
+      "finding": "Verified as UN report account",
+      "confidence": "High",
+      "assessment": "Paragraph 84 explicitly records those communications; underlying first-post archives remain to be independently authenticated. UN report also distinguishes differing member-state views of LeT linkage.",
+      "sources": [
+        "S84"
+      ]
     }
   ],
   "targets": [
@@ -2655,6 +2824,32 @@
         "S10",
         "S22"
       ]
+    },
+    {
+      "id": "X26",
+      "title": "UN 'five attackers' and NIA 'three principal gunmen' in Pahalgam accounts",
+      "sideA": "UN report S/2025/482 paragraph 84, information through June 2025, speaks of five terrorists.",
+      "sideB": "Indian NIA's later prosecution identifies three principal alleged gunmen. Counts may differ because of methodology, sources, chronology or participant categories.",
+      "status": "Unresolved factual/definitional difference",
+      "required": "Full UN source characterization, NIA chargesheet exhibits, witness/forensic records and role definitions.",
+      "sources": [
+        "S84",
+        "S41",
+        "S42"
+      ]
+    },
+    {
+      "id": "X27",
+      "title": "IAF tender for 36 Rafales versus evidence of one presumed Rafale loss",
+      "sideA": "June 2026 media coverage describes a 36-aircraft support contract and infers all original Rafales survived.",
+      "sideB": "French ministry cites an unconfirmed presumed loss and earlier independent visual analysis supports a Rafale crash. Procurement fleet scope does not identify extant individual aircraft.",
+      "status": "Not necessarily a factual contradiction; procurement inference unsupported",
+      "required": "Original tender, inventory, airworthiness and airframe serial records.",
+      "sources": [
+        "S81",
+        "S80",
+        "S38"
+      ]
     }
   ],
   "openQuestions": [
@@ -2855,6 +3050,30 @@
       "priority": "high",
       "question": "Did Pakistan approach US diplomats to seek calm before 15:35 IST on 10 May as India's PIB itself later asserted?",
       "next": "Locate direct Pakistan-US contact records and Indian official explanations of May 12 government wording; keep distinct from who mediated final agreement."
+    },
+    {
+      "id": "Q34",
+      "priority": "critical",
+      "question": "Can an airframe-serial and date-specific Rafale inventory reconcile the presumptive loss with the 36-aircraft 2026 support requirement?",
+      "next": "Retrieve full IAF June 2026 RFP, annexures, procurement baseline and aircraft availability records."
+    },
+    {
+      "id": "Q35",
+      "priority": "high",
+      "question": "How long were Mushaf and other damaged Pakistani bases actually unavailable for sorties, versus undergoing local repairs?",
+      "next": "Acquire licensed imagery timeseries, dated NOTAMs, runway condition and sortie records."
+    },
+    {
+      "id": "Q36",
+      "priority": "critical",
+      "question": "Why does UN S/2025/482 report five Pahalgam terrorists when the later NIA case describes three principal gunmen?",
+      "next": "Compare original formal chargesheets, witness and forensic exhibits, and underlying UN source definitions."
+    },
+    {
+      "id": "Q37",
+      "priority": "high",
+      "question": "What evidence supports continued or discontinued Indus Waters Treaty implementation after the August 2026 award and India's rejection?",
+      "next": "Examine complete award, India/Pakistan filed positions and observable hydropower operating records."
     }
   ],
   "casualties": [
