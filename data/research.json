@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 07",
+    "edition": "Research checkpoint 08",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization. Checkpoint08 adds Pakistan's explicitly dated 11-to-13 military casualty update, later Bathinda crash civilian death and Poonch district government-data-attributed counts/payments. No police diary, district treasury ledger, full service personnel register, original PAF airframe inventory or original ACLED event export acquired; all aggregate scopes and double-count risks remain documented."
   },
   "sources": [
     {
@@ -1127,6 +1127,126 @@
       "url": "https://spcommreports.ohchr.org/TmSearch/RelCom?code=IND+8%2F2025",
       "review": "Original portal row observed, no linked reply displayed",
       "note": "No visible linked answer is a portal display result; not evidence no private reply exists."
+    },
+    {
+      "id": "S113",
+      "title": "Pakistan ISPR 14 May 2025 update: military deaths increase to thirteen",
+      "publisher": "Radio Pakistan, citing ISPR",
+      "date": "2025-05-14",
+      "type": "primary",
+      "url": "https://www.radio.gov.pk/14-05-2025/two-more-valiant-sons-of-soil-embraced-shahadat-today",
+      "review": "Original Pakistan state broadcast text read; no separate ISPR PDF accessed",
+      "note": "Adds two post-hospitalization deaths, Havaldar Muhammad Naveed (Army) and Senior Technician Muhammad Ayaz (PAF); new cumulative total 13; same prior casualty event."
+    },
+    {
+      "id": "S114",
+      "title": "Pakistan Associated Press 14 May ISPR 13-military-death update",
+      "publisher": "Associated Press of Pakistan quoting ISPR",
+      "date": "2025-05-14",
+      "type": "primary",
+      "url": "https://www.app.com.pk/national/two-more-brave-soldiers-embrace-shahadat-bringing-martyr-count-to-13-2/",
+      "review": "Original state agency report read; repetition of same ISPR notice not independent confirmation",
+      "note": "Independent publisher's reproduction of one official statement; not additional fatality batch."
+    },
+    {
+      "id": "S115",
+      "title": "Sindh provincial government acknowledges six PAF losses, one civilian and airbase injuries",
+      "publisher": "Chief Minister of Sindh, Pakistan",
+      "date": "2025-05-16",
+      "type": "primary",
+      "url": "https://cm.sindh.gov.pk/news/murad-announces-compensation-for-martyrs-killed-and-injured-during-the-india-attack",
+      "review": "Government-page search index reviewed; direct page timed out; detailed information compared to Dawn reporting",
+      "note": "CM said six PAF died at Bholari, one Sindh civilian from Ghotki, five PAF wounded at Bholari and nine at Shahbaz; provincial support announced PKR10m per deceased and PKR1m per wounded; no disbursement audit."
+    },
+    {
+      "id": "S116",
+      "title": "Dawn original coverage of six PAF casualties and Sindh provincial statement",
+      "publisher": "Dawn, Pakistan",
+      "date": "2025-05-15",
+      "type": "independent",
+      "url": "https://www.dawn.com/news/1911205/cm-sindh-announces-compensation-for-martyrs-injured-in-indian-attacks",
+      "review": "Contemporaneous reporter recording of CM statement directly reviewed",
+      "note": "Lists six PAF with Muhammad Ayaz as the sixth; independent report quoting same source, not separate casualty observations."
+    },
+    {
+      "id": "S117",
+      "title": "Bathinda aircraft crash on 7 May initially leaves one farm labourer dead and nine injured",
+      "publisher": "The Tribune, Bathinda",
+      "date": "2025-05-07",
+      "type": "independent",
+      "url": "https://www.tribuneindia.com/news/bathinda/unidentified-aircraft-crashes-in-bathinda-1-dead-9-injured/",
+      "review": "Original near-contemporaneous local journalist account reviewed",
+      "note": "Govind was initially reported dead in aircraft crash/fire at Aklian Kalan; nine injured contemporaneously; aircraft origin, model and pilot status not established."
+    },
+    {
+      "id": "S118",
+      "title": "Second Bathinda crash civilian death reported in July 2025",
+      "publisher": "The Indian Express",
+      "date": "2025-07-23",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/cities/chandigarh/kin-dalit-man-died-aircraft-crash-bathinda-seek-govt-compensation-10144682/lite/",
+      "review": "Original July family interview reported, signed death evidence not independently acquired",
+      "note": "Raj Kumar Singh died around May11 after injuries near aircraft crash and explosion; widow sought compensation. Distinct from immediate casualty Govind."
+    },
+    {
+      "id": "S119",
+      "title": "Bathinda aircraft crash victim family and police diary revisit",
+      "publisher": "The Indian Express",
+      "date": "2026-05-08",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/cities/chandigarh/he-died-saving-others-op-sindoor-aircraft-crash-victims-family-in-bathinda-awaits-job-one-year-after-death-10679806/",
+      "review": "Original field interviews and description of dated police General Diary read; original police diary not acquired",
+      "note": "Two reported civilian deaths in one crash: Govind and Raj Kumar Singh, who died later. Reported Rs 2 lakh compensation family received; job request unresolved."
+    },
+    {
+      "id": "S120",
+      "title": "Poonch shelling anniversary: district toll, housing damage, and recovery expenditure",
+      "publisher": "The Indian Express",
+      "date": "2026-05-07",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/india/operation-sindoor-a-year-later-twins-dead-father-says-i-often-wonder-why-we-moved-to-poonch-10676774/",
+      "review": "Original 2026 reporting, survivor interviews and government figures quoted; underlying signed district ledger not examined",
+      "note": "Government data as cited: 14 Poonch civilian deaths, 65 injured, 598 houses; pucca Rs 7.39 crore and kuccha Rs 2.25 crore disbursed as reported; prefab 200-300 and 5693 bunkers proposed, not completed."
+    },
+    {
+      "id": "S121",
+      "title": "Jammu Kashmir Lieutenant Governor November 2025 historical and proposed Poonch bunkers",
+      "publisher": "Press Trust of India via Rediff",
+      "date": "2025-11-21",
+      "type": "independent",
+      "url": "https://www.rediff.com/news/commentary/2025/nov/21/proposal-for-5693-additional-bunkers-in-poonch-submitted-for-nod-jk-lg/06dcfa3cb7e838f556b5930037da678e",
+      "review": "PTI report of official dated LG statement read, original signed district building records absent",
+      "note": "1125 bunkers completed over previous years; 5693 additional proposed for approval; foundation for 521 mixed natural disaster and shelling-affected Poonch/Rajouri homes, not 521 Sindoor homes."
+    },
+    {
+      "id": "S122",
+      "title": "February 2026 bunker construction complaints from J&K legislators",
+      "publisher": "Times of India",
+      "date": "2026-02-11",
+      "type": "independent",
+      "url": "https://timesofindia.indiatimes.com/india/no-bunkers-built-in-border-areas-even-10-months-after-op-sindoor/articleshow/128172472.cms",
+      "review": "Original reporter summary and named legislator quotes reviewed; no signed procurement completion audit",
+      "note": "Complaints of lack of newly built bunkers after Sindoor, not evidence that preexisting shelters were zero."
+    },
+    {
+      "id": "S123",
+      "title": "ACLED Asia-Pacific June 2025 conflict event coding overview",
+      "publisher": "ACLED",
+      "date": "2025-06-01",
+      "type": "independent",
+      "url": "https://acleddata.com/update/asia-pacific-overview-june-2025",
+      "review": "Original independent event-data analysis reviewed; row-level downloadable data and codebook not acquired",
+      "note": "ACLED reports eight Pakistani and eleven Indian later-stage airstrikes in its event coding, not confirmed aircraft or facility losses."
+    },
+    {
+      "id": "S124",
+      "title": "Poonch June 2025 reconstruction and 2000 plus home damage account",
+      "publisher": "The Tribune",
+      "date": "2025-06-27",
+      "type": "independent",
+      "url": "https://www.tribuneindia.com/news/j-k/restoration-of-shelling-hit-structures-may-take-months-poonch-residents/",
+      "review": "Original June 2025 local reporting reviewed",
+      "note": "Reported over 2000 Poonch homes damaged; does not match later Poonch govt-data 598; scopes and date needed before reconciliation."
     }
   ],
   "timeline": [
@@ -1280,6 +1400,18 @@
       "class": "reported"
     },
     {
+      "id": "T70",
+      "date": "2025-05-07",
+      "time": "approximately 02:00 IST",
+      "headline": "Unidentified military aircraft crashes in Bathinda; first civilian fatality",
+      "detail": "Local accounts describe crash and subsequent explosion, initially one dead Govind and nine injured. Exact aircraft and crash mechanism unknown.",
+      "sources": [
+        "S117",
+        "S119"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T08",
       "date": "2025-05-08",
       "time": "unspecified",
@@ -1422,6 +1554,18 @@
       "class": "official"
     },
     {
+      "id": "T71",
+      "date": "2025-05-11",
+      "time": "reported after hospitalisation",
+      "headline": "Bathinda crash civilian Raj Kumar Singh dies from injuries",
+      "detail": "Later reporting and journalist-inspected May11 police diary report his death four days after the crash; signed primary record not examined.",
+      "sources": [
+        "S118",
+        "S119"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T28",
       "date": "2025-05-12",
       "time": "Pakistani military briefing",
@@ -1490,6 +1634,18 @@
       "class": "reported"
     },
     {
+      "id": "T72",
+      "date": "2025-05-14",
+      "time": "ISPR updated press release",
+      "headline": "Pakistan revises cumulative military dead from 11 to 13",
+      "detail": "Two previously wounded personnel from Army and PAF die. Updated report says 7 Army and 6 PAF; same May conflict, not new engagement.",
+      "sources": [
+        "S113",
+        "S114"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T31",
       "date": "2025-05-16",
       "time": "Pakistan MOFA briefing",
@@ -1508,6 +1664,18 @@
       "detail": "S/2025/308 invokes Article51 for executed operation and alleges 40 civilian killed/121 injured. This is a government letter, not independently audited damages.",
       "sources": [
         "S96"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T73",
+      "date": "2025-05-16",
+      "time": "Sindh government statement",
+      "headline": "Sindh government publicly lists six PAF personnel killed and announces compensation",
+      "detail": "Provincial government identifies additional fatality Muhammad Ayaz and reports one Sindh civilian death; this does not prove aircraft destroyed.",
+      "sources": [
+        "S115",
+        "S116"
       ],
       "class": "reported"
     },
@@ -1813,6 +1981,17 @@
       "detail": "Media imagery investigation compares 2025 damage and structural repairs at several facilities into 2026.",
       "sources": [
         "S82"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T74",
+      "date": "2026-05-07",
+      "time": "Poonch anniversary investigation",
+      "headline": "Poonch deaths, housing damage and disbursements revisited",
+      "detail": "Reporter cites govt figures of 14 dead/65 injured/598 homes and housing payouts pucca ₹7.39cr/kuccha ₹2.25cr; source payment ledgers missing.",
+      "sources": [
+        "S120"
       ],
       "class": "reported"
     },
@@ -3228,6 +3407,131 @@
         "S98",
         "S99"
       ]
+    },
+    {
+      "id": "C108",
+      "topic": "Pakistan military fatalities",
+      "claim": "Pakistan reported 11 service deaths as of 13 May 2025.",
+      "finding": "Verified historical dated military report, superseded",
+      "confidence": "High",
+      "assessment": "Pakistan ISPR May13: six Army and five PAF. This is a dated snapshot, not final; May14 updated total 13.",
+      "sources": [
+        "S44",
+        "S113"
+      ]
+    },
+    {
+      "id": "C109",
+      "topic": "Pakistan military fatalities",
+      "claim": "Pakistan revised reported service deaths to 13 on 14 May after two hospitalized personnel died.",
+      "finding": "Verified updated official cumulative report",
+      "confidence": "High",
+      "assessment": "ISPR, via Radio Pakistan and APP, names Havildar Muhammad Naveed and Senior Technician Muhammad Ayaz. Updated personnel count 7 Army and 6 Air Force. Not additive to 11.",
+      "sources": [
+        "S113",
+        "S114"
+      ]
+    },
+    {
+      "id": "C110",
+      "topic": "Pakistan personnel losses",
+      "claim": "Sindh government reported six PAF deaths at Bholari and one Sindh civilian death.",
+      "finding": "Verified provincial government statement, external victim audit absent",
+      "confidence": "High on speaker attribution",
+      "assessment": "Six names including Muhammad Ayaz correspond to May14 national update. Five reported wounded at Bholari, nine at Shahbaz. No killed-aircraft inference.",
+      "sources": [
+        "S115",
+        "S116",
+        "S113"
+      ]
+    },
+    {
+      "id": "C111",
+      "topic": "Pakistan aircraft losses",
+      "claim": "Six PAF deaths at Bholari prove six jets destroyed there.",
+      "finding": "Unsupported category inference",
+      "confidence": "High",
+      "assessment": "A base may suffer casualties without destroying aircraft. No serialled ground aircraft wreckage established from casualty count.",
+      "sources": [
+        "S115",
+        "S39",
+        "S51"
+      ]
+    },
+    {
+      "id": "C112",
+      "topic": "Bathinda aircraft crash",
+      "claim": "Only one civilian died from the May7 Bathinda aircraft crash overall.",
+      "finding": "Contradicted by subsequent identified fatality",
+      "confidence": "High",
+      "assessment": "Original Govind died onsite; Raj Kumar Singh died about four days later according to July2025 and 2026 interviews and reporter-described police General Diary.",
+      "sources": [
+        "S117",
+        "S118",
+        "S119"
+      ]
+    },
+    {
+      "id": "C113",
+      "topic": "Bathinda aircraft crash",
+      "claim": "Bathinda crash testimony establishes exact aircraft type or enemy shootdown cause.",
+      "finding": "Not established",
+      "confidence": "High",
+      "assessment": "Eyewitness reports and police review document crash and subsequent explosion but no type identification, serial, air combat weapon or initial crash cause.",
+      "sources": [
+        "S117",
+        "S119",
+        "S38"
+      ]
+    },
+    {
+      "id": "C114",
+      "topic": "Civilian casualties",
+      "claim": "District-government data quoted in May2026 report showed 14 Poonch killed, 65 injured, 598 homes damaged in May7-8 shelling.",
+      "finding": "Supported as reported district figures, primary register absent",
+      "confidence": "Medium-high",
+      "assessment": "Local geographic and temporal scope; earlier varying Poonch counts are not additive. Obtain signed date-scoped registers and property identifiers.",
+      "sources": [
+        "S120",
+        "S43"
+      ]
+    },
+    {
+      "id": "C115",
+      "topic": "Humanitarian compensation",
+      "claim": "Poonch pucca ₹7.39 crore and kuccha ₹2.25 crore payments fully reconcile with MHA ₹25 crore national allocation.",
+      "finding": "Unresolved accounting reconciliation",
+      "confidence": "High",
+      "assessment": "2026 journalist quotes government disbursed amounts; 2025 MHA announced central additional allocation over broader districts. Accounting/programme crosswalk absent.",
+      "sources": [
+        "S120",
+        "S102"
+      ]
+    },
+    {
+      "id": "C116",
+      "topic": "Civil defence shelters",
+      "claim": "Poonch's 5693 proposed new bunkers and 200-300 prefabricated homes were completed.",
+      "finding": "Unsupported as of cited reports",
+      "confidence": "High",
+      "assessment": "2025 LG said 5693 proposal pending and 1125 older bunkers built; 2026 journalist says proposal still awaited; prefab homes proposal not completion.",
+      "sources": [
+        "S120",
+        "S121",
+        "S122"
+      ]
+    },
+    {
+      "id": "C117",
+      "topic": "Conflict event coding",
+      "claim": "ACLED's eight Pakistani and eleven Indian recorded airstrikes mean equivalent numbers of aircraft or bases destroyed.",
+      "finding": "Incorrect unit inference",
+      "confidence": "High",
+      "assessment": "ACLED codes reported strike events using its data model, not individual aircraft kills or confirmed installation shutdowns.",
+      "sources": [
+        "S123",
+        "S39"
+      ]
     }
   ],
   "targets": [
@@ -3823,6 +4127,57 @@
         "S110",
         "S109"
       ]
+    },
+    {
+      "id": "X39",
+      "title": "Pakistan May13 11 military dead versus May14 updated 13",
+      "sideA": "ISPR 13 May said eleven service members killed, six Army five PAF.",
+      "sideB": "ISPR May14 said two wounded later died, Muhammad Naveed (Army) and Muhammad Ayaz (PAF), revising cumulative total thirteen.",
+      "status": "Resolved temporal revision, not simultaneous contradiction",
+      "required": "Preserve both dated reports. Seek victim-level audited ledger; do not add 11+13.",
+      "sources": [
+        "S44",
+        "S113",
+        "S114"
+      ]
+    },
+    {
+      "id": "X40",
+      "title": "Bathinda crash one initial civilian death versus two final identified deaths",
+      "sideA": "Contemporaneous May7-8 crash reports: one dead Govind and nine injured.",
+      "sideB": "July2025 and May2026 reporting identify Raj Kumar Singh died days later from incident injuries.",
+      "status": "Earlier count overtaken by death after hospitalization",
+      "required": "Police May11 GD signed extract, hospital death certificates and national casualty-category crosswalk.",
+      "sources": [
+        "S117",
+        "S118",
+        "S119"
+      ]
+    },
+    {
+      "id": "X41",
+      "title": "Poonch 598 housing damage in anniversary govt data versus June2025 reports of over 2000",
+      "sideA": "2026 Poonch anniversary citing government data: 598 houses damaged; 14 deaths and 65 injured.",
+      "sideB": "June2025 Tribune report calls over 2000 Poonch homes damaged; national MHA June 2025 support scope 2060 across border districts.",
+      "status": "Unreconciled geographic/eligibility/dates/structural classification",
+      "required": "Signed damage-register IDs, locality boundaries, as-of dates, multi-district vs Poonch district filters.",
+      "sources": [
+        "S120",
+        "S124",
+        "S102"
+      ]
+    },
+    {
+      "id": "X42",
+      "title": "Poonch reported rupee payouts versus MHA June2025 ₹25-crore additional provision",
+      "sideA": "June2025 central government announced additional ₹25 crore covering 2060 homes, proposed extra 1–2 lakh schedule.",
+      "sideB": "May2026 reporter cites pucca ₹7.39 crore and kuccha ₹2.25 crore disbursed in Poonch. Scheme/source overlap not documented.",
+      "status": "No arithmetic reconciliation without ledger, not necessarily contradictory",
+      "required": "Treasury codes, payment dates, beneficiary/property IDs and central/UT share and whether initial vs supplemental.",
+      "sources": [
+        "S120",
+        "S102"
+      ]
     }
   ],
   "openQuestions": [
@@ -4137,6 +4492,42 @@
       "priority": "medium",
       "question": "What was the documentary and forensic basis for Pakistan's S/2025/494 rejection of Indian Operation Mahadev identifications?",
       "next": "Compare July parliamentary and Pakistani original release with NIA filed forensic exhibits and later case orders; avoid adopting denial as disproval."
+    },
+    {
+      "id": "Q53",
+      "priority": "critical",
+      "question": "Can Pakistan's 13 May eleven-service-death list and 14 May two later deaths be independently confirmed from dated service and hospital registers?",
+      "next": "Retrieve 14May ISPR original, deceased personnel records, Bholari case file and burial records, noting two were earlier wounded."
+    },
+    {
+      "id": "Q54",
+      "priority": "critical",
+      "question": "What are the precise Bathinda May7 crash hull/type/cause and victim-level injuries and deaths, including Raj Kumar Singh?",
+      "next": "Secure May11 police General Diary and BNSS194 inquiry, May7 hospital admissions, May11 death record, IAF accident report and safe media provenance."
+    },
+    {
+      "id": "Q55",
+      "priority": "critical",
+      "question": "Why do Poonch house counts 598 and 2000+ and death reports 14 and 18 vary, and what was the full May7-10 final district toll?",
+      "next": "Fetch original district damage assessment, victim entries and event/date/locality/cumulative scopes; no merging press numbers."
+    },
+    {
+      "id": "Q56",
+      "priority": "high",
+      "question": "Were reported Poonch housing reconstruction disbursements ₹7.39 crore and ₹2.25 crore part of the June2025 MHA ₹25 crore supplementary allocation?",
+      "next": "Match treasury grants, schemes, full/partial category, payment dates and deidentified unique property/beneficiary records."
+    },
+    {
+      "id": "Q57",
+      "priority": "medium",
+      "question": "What actual completion status, by October2026, applies to Poonch proposed 5693 bunkers and 200-300 prefabs?",
+      "next": "Find signed MHA approvals, tenders, project progress certificates and dates separate from historically completed 1125 bunkers."
+    },
+    {
+      "id": "Q58",
+      "priority": "medium",
+      "question": "Do ACLED eight Pakistani and eleven Indian coded airstrike events match unique independently documented event footprints?",
+      "next": "Retrieve ACLED event-level export with IDs and codebook and compare to satellite reconstruction and original military briefings."
     }
   ],
   "casualties": [
@@ -4166,8 +4557,8 @@
         "S44",
         "S43"
       ],
-      "status": "Official reported cumulative figure; 6 Army and 5 Air Force fatalities in this version",
-      "duplicateRisk": "May 14 later press account mentions 6 PAF dead; revision inconsistent, do not sum",
+      "status": "As-of 13 May original ISPR announcement: 6 Army and 5 Air Force dead. Later 14 May ISPR announced two previously hospitalized deaths, bringing cumulative total to 13.",
+      "duplicateRisk": "Historical 13 May cumulative record superseded by 14 May revised 13-person total; do not sum versions. Same 78 injured may include subsequently deceased.",
       "confidence": "High that authority stated figures; final completeness unverified"
     },
     {
@@ -4199,6 +4590,51 @@
       "status": "Indian military briefing cited 5 military deaths, reiterated in Reuters May 13",
       "duplicateRisk": "Separate from civilian 16; aircraft crew status not derivable",
       "confidence": "High that authority stated figure; exact victim list pending"
+    },
+    {
+      "id": "CAS-PK-MIL-20250514",
+      "asOf": "2025-05-14",
+      "side": "Pakistan",
+      "population": "military",
+      "killed": 13,
+      "injured": 78,
+      "sourceIDs": [
+        "S113",
+        "S114"
+      ],
+      "status": "Revised cumulative official ISPR deaths: seven Army and six Air Force after two previously hospitalised personnel died; total independently not audited",
+      "duplicateRisk": "Replaces 13 May reported cumulative 11, not additional 13; wounded stock of 78 as stated and may include those who later died, denominator undefined",
+      "confidence": "High that Pakistan's military publicly updated count, unknown independent completeness"
+    },
+    {
+      "id": "CAS-IN-BATHINDA-CRASH-20250511",
+      "asOf": "2025-05-11",
+      "side": "India",
+      "population": "civilian aircraft-crash victims, Bathinda only",
+      "killed": 2,
+      "injured": null,
+      "sourceIDs": [
+        "S117",
+        "S118",
+        "S119"
+      ],
+      "status": "Two separately named reported deaths from 7 May aircraft crash/secondary explosion, one immediate and one days later; contemporaneous nine injured not independently revised",
+      "duplicateRisk": "Distinct incident category from national India 16 shelling fatalities; do not add to country total without inclusion/exclusion crosswalk. Do not add two across separate as-of versions.",
+      "confidence": "Medium-high in two individual reported deaths, no primary hospital/police file in project"
+    },
+    {
+      "id": "CAS-IN-POONCH-CIV-20250508",
+      "asOf": "2025-05-08",
+      "side": "India",
+      "population": "civilian shelling victims in Poonch district for May7-8",
+      "killed": 14,
+      "injured": 65,
+      "sourceIDs": [
+        "S120"
+      ],
+      "status": "2026 anniversary reporting of district-government data, original signed district casualty register not independently obtained",
+      "duplicateRisk": "Geographic/time subset overlaps India-wide May13 shelling death minimum of 16; may be different as-of definitions from other district 18 claims; never add",
+      "confidence": "Medium-high that reporter cited figures, completeness remains unverified"
     }
   ]
 }
