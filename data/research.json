@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 10",
+    "edition": "Research checkpoint 11",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization. Checkpoint08 adds Pakistan's explicitly dated 11-to-13 military casualty update, later Bathinda crash civilian death and Poonch district government-data-attributed counts/payments. No police diary, district treasury ledger, full service personnel register, original PAF airframe inventory or original ACLED event export acquired; all aggregate scopes and double-count risks remain documented. Checkpoint09 directly cross-compares six National War Memorial individual records and MoD clarification: five India military died May7-10 and sixth died June6 of May wounds; total six eventual operation-associated, not six by May11. Role of lone IAF deceased reported medical assistant, not aircrew. July Pahalgam and Sept separate-case warrants are reporter-quoted and signed judicial originals missing. HRW 2026 recited older Pakistan 11, not superseding its May14 13. Checkpoint10 crosswalks six NWM fatalities to original Aug14 2025 PIB awards including Agniveer Mood and medical assistant Surendra; detects Hav Sunil Singh unit disagreement. Original 11May PIB webcast metadata exists but audio/video not downloaded/transcribed; reporters quoting same event are not independent battlefield evidence. 'All pilots home' does not mean no fighter loss and 'downed a few' gives no verified number."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization. Checkpoint08 adds Pakistan's explicitly dated 11-to-13 military casualty update, later Bathinda crash civilian death and Poonch district government-data-attributed counts/payments. No police diary, district treasury ledger, full service personnel register, original PAF airframe inventory or original ACLED event export acquired; all aggregate scopes and double-count risks remain documented. Checkpoint09 directly cross-compares six National War Memorial individual records and MoD clarification: five India military died May7-10 and sixth died June6 of May wounds; total six eventual operation-associated, not six by May11. Role of lone IAF deceased reported medical assistant, not aircrew. July Pahalgam and Sept separate-case warrants are reporter-quoted and signed judicial originals missing. HRW 2026 recited older Pakistan 11, not superseding its May14 13. Checkpoint10 crosswalks six NWM fatalities to original Aug14 2025 PIB awards including Agniveer Mood and medical assistant Surendra; detects Hav Sunil Singh unit disagreement. Original 11May PIB webcast metadata exists but audio/video not downloaded/transcribed; reporters quoting same event are not independent battlefield evidence. 'All pilots home' does not mean no fighter loss and 'downed a few' gives no verified number. Checkpoint11 identifies official MoD FY2025-26 PDF URL but original unavailable due web fetch/DNS; journalistic 314km kill attribution not independently proven. Direct Pakistani May2026 state and National Assembly sources disagree eight drone-inclusive versus seven aircraft; physical wreckage remains incomplete. Bholari participant interview increases intent attribution, not verified Saab contents; aerial versus ground losses not additive."
   },
   "sources": [
     {
@@ -516,7 +516,7 @@
       "type": "independent",
       "url": "https://www.stimson.org/2025/four-days-in-may-the-india-pakistan-crisis-of-2025/",
       "review": "Specialist analytical study and imagery-evidence caution read",
-      "note": "Independent synthesis notes imagery confirmation at most claimed Pakistan bases but gaps at several listed locations. Do not count its citations of identical satellite materials as independent original image acquisitions."
+      "note": "Independent synthesis notes imagery confirmation at most claimed Pakistan bases but gaps at several listed locations. Do not count its citations of identical satellite materials as independent original image acquisitions. Checkpoint11 source audit: 2025 independent Stimson assessment cites three specific India aircraft crash sites and six Pakistan sites with satellite-visible physical change; it expressly does not validate full fighter/AEWC claim tallies or continuous airfield closure."
     },
     {
       "id": "S52",
@@ -1467,6 +1467,86 @@
       "url": "https://economictimes.indiatimes.com/news/newsblogs/india-pakistan-war-operation-sindoor-live-updates-loc-ceasefire-break-jammu-kashmir-rajasthan-punjab-firing-mea-briefing-ind-pak-latest-news/liveblog/121062156.cms",
       "review": "Original liveblog 19:13 May11 India official five fallen remarks read",
       "note": "Contemporaneous quote five fallen, same joint military briefing source; cannot count as independent personnel registry."
+    },
+    {
+      "id": "S147",
+      "title": "India Ministry of Defence Annual Report FY2025-26 original PDF identified but not fetched",
+      "publisher": "Ministry of Defence, India",
+      "date": "2026-09-13",
+      "type": "primary",
+      "url": "https://mod.gov.in/sites/default/files/Annual-report-2025-26.pdf",
+      "review": "Official host URL identified in original date-stamped September2026 public link; direct browser fetch and container DNS failed; PDF NOT read or hashed.",
+      "note": "Journalists attribute 314km S400 kill of Pakistani special-mission aircraft to this official report. Do not present URL discovery as original text verification."
+    },
+    {
+      "id": "S148",
+      "title": "September2026 Indian MoD report summary attributes 314km Pakistani special-mission aircraft interception",
+      "publisher": "The Times of India",
+      "date": "2026-09-14",
+      "type": "independent",
+      "url": "https://timesofindia.indiatimes.com/defence/news/how-iaf-achieved-314-km-longest-kill-of-pak-aircraft-during-op-sindoor-reveals-mod-report/amp_articleshow/134244709.cms",
+      "review": "Original published journalist description read; full underlying annual report not independently accessed.",
+      "note": "Documents reported MoD claim only; no target model, serial or independent wreckage. Likely same ~300km earlier Air Chief statement but unique track not proven."
+    },
+    {
+      "id": "S149",
+      "title": "Moneycontrol September2026 314km MoD annual aircraft-kill disclosure",
+      "publisher": "Moneycontrol",
+      "date": "2026-09-13",
+      "type": "independent",
+      "url": "https://www.moneycontrol.com/news/india/operation-sindoor-how-iaf-achieved-314-km-s-400-kill-in-pakistan-reveals-mod-report-14028933.html/amp",
+      "review": "Published original Sept2026 reporting read; MoD original PDF uninspected.",
+      "note": "Corroborates what 2026 government annual report reportedly states, not aircraft loss independent verification."
+    },
+    {
+      "id": "S150",
+      "title": "Pakistani deputy air chief May7 2026 officially claims eight losses with UAV included and 16 Indian bases/two S400 hit",
+      "publisher": "Radio Pakistan, state broadcaster quoting DG ISPR briefing",
+      "date": "2026-05-07",
+      "type": "primary",
+      "url": "https://www.radio.gov.pk/07-05-2026/pakistan-completely-defeated-india-in-marka-e-haq-dg-ispr",
+      "review": "Original state broadcaster primary-account page inspected line 51-52. Underlying audiovisual briefing not independently transcribed.",
+      "note": "Says 'eight fighter jets' but list 4 Rafale+Su30+Mirage2000+Mig29+one unmanned system. Seven named manned aircraft types, one drone. States 16 Indian bases/two S400 damaged without independent impact records."
+    },
+    {
+      "id": "S151",
+      "title": "Pakistan National Assembly Speaker May11 2026 describes seven Indian aircraft destroyed",
+      "publisher": "National Assembly of Pakistan",
+      "date": "2026-05-11",
+      "type": "primary",
+      "url": "https://na.gov.pk/en/pressrelease_detail.php?id=7811",
+      "review": "Original parliament press release read, May11 2026 English and Urdu statement matches.",
+      "note": "Parliament official political statement asserts seven enemy aircraft, no serial/type list; calls Pahalgam false flag without evidence in statement. Not binding legislative inquiry."
+    },
+    {
+      "id": "S152",
+      "title": "Air Marshal Nagesh Kapoor first-person NDTV interview reports Bholari BrahMos/Su30 strike mission",
+      "publisher": "NDTV, interview with Indian military participant",
+      "date": "2026-08-20",
+      "type": "independent",
+      "url": "https://www.ndtv.com/india-news/operation-sindoor-pakistan-the-hangar-at-bholari-how-a-white-lie-sealed-a-mission-11933671",
+      "review": "Original published interview transcript excerpts read, underlying complete podcast and flight record unverified.",
+      "note": "Kapoor says Indian Su30MKI with BrahMos targeted Bholari hangar. Indian prestrike belief that Saab Erieye present not proof of physical aircraft presence or kill. Independent satellite roof damage known."
+    },
+    {
+      "id": "S153",
+      "title": "IISS 15 May2025 independent regional conflict assessment documents asymmetric airbase damage and Pakistan revised 13 military killed",
+      "publisher": "International Institute for Strategic Studies",
+      "date": "2025-05-15",
+      "type": "independent",
+      "url": "https://www.iiss.org/online-analysis/online-analysis/2025/05/indiapakistan-drone-and-missile-conflict-differing-and-disputed-narratives/",
+      "review": "Original IISS regional research article read. It draws from government and contemporaneous reporting, not fresh pixel acquisition in project.",
+      "note": "Lists limited India-side four-base damage and Pakistani 13 military deaths; supports checkpoint08 11->13 chronology. Does not prove no other damage."
+    },
+    {
+      "id": "S154",
+      "title": "PIB 10 May2025 fact-check digest rejecting viral Indian S400 destroyed rumor",
+      "publisher": "India Press Information Bureau",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/may/doc2025510552901.pdf",
+      "review": "Official PIB PDF indexed primary publication; original signed component/service inventory uninspected.",
+      "note": "Government disputed social-media claims S400 destroyed. Counter-claim not a complete proof later 2026 Pakistani two-battery allegation false."
     }
   ],
   "timeline": [
@@ -2170,6 +2250,18 @@
       "class": "contested"
     },
     {
+      "id": "T82",
+      "date": "2025-10-03",
+      "time": "Air Chief media briefing",
+      "headline": "Indian Air Chief distinguishes claimed Pakistani aerial fighter losses from alleged hangar and tarmac aircraft losses",
+      "detail": "Oct3 remarks reported Oct4 add ground C130/AEWC/fighter and in-flight fighters+large platform, aircraft serial corroboration still absent.",
+      "sources": [
+        "S56",
+        "S54"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T60",
       "date": "2025-10-16",
       "time": "OHCHR paired letters",
@@ -2259,6 +2351,17 @@
       "class": "reported"
     },
     {
+      "id": "T83",
+      "date": "2026-05-07",
+      "time": "Pakistan Deputy Air Chief briefing",
+      "headline": "Pakistan officially claims eight fighter aircraft but lists an unmanned system among eight",
+      "detail": "State broadcaster lists 4 Rafale+1 Su30+1 Mirage2000+1 MiG29+one multirole UAV; 16 Indian bases and two S400 batteries also claimed hit, unverified.",
+      "sources": [
+        "S150"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T67",
       "date": "2026-05-08",
       "time": "Journalist field follow-up",
@@ -2266,6 +2369,17 @@
       "detail": "Field report describes specific families and houses not yet rebuilt, one reported ₹1.5 lakh payment, and ~500 locality-wide affected houses.",
       "sources": [
         "S103"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T84",
+      "date": "2026-05-11",
+      "time": "National Assembly Speaker anniversary release",
+      "headline": "Pakistan Speaker claims seven Indian aircraft destroyed",
+      "detail": "Official political message offers no serials or reconciliation with May7 military eight UAV-inclusive claim.",
+      "sources": [
+        "S151"
       ],
       "class": "reported"
     },
@@ -2344,6 +2458,18 @@
       "class": "reported"
     },
     {
+      "id": "T85",
+      "date": "2026-08-20",
+      "time": "Indian commander interview",
+      "headline": "Air Marshal Nagesh Kapoor recounts Su30/BrahMos Bholari hangar strike",
+      "detail": "NDTV participant interview describes believed Erieye target and hangar strike; structural damage supported, confirmed aircraft occupancy not.",
+      "sources": [
+        "S152",
+        "S39"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T20",
       "date": "2026-08-31",
       "time": "official public statements",
@@ -2365,6 +2491,19 @@
       "sources": [
         "S135",
         "S136"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T86",
+      "date": "2026-09-13",
+      "time": "MoD Annual Report FY2025-26 publication",
+      "headline": "India reportedly formalises an S400 314km special-mission-aircraft kill claim",
+      "detail": "Journalist reports give specific range while original official PDF inaccessible in this pass; no unique tail/serial or independent kill verified.",
+      "sources": [
+        "S147",
+        "S148",
+        "S149"
       ],
       "class": "reported"
     },
@@ -2858,9 +2997,10 @@
       "claim": "A Pakistani Saab 2000 airborne early warning aircraft was destroyed in a hangar at Bholari.",
       "finding": "Unverifiable from available public evidence",
       "confidence": "Low",
-      "assessment": "Satellite imagery confirms damage to Bholari hangar, not whether an aircraft was present or destroyed. Washington Post explicitly notes uncertainty.",
+      "assessment": "Satellite imagery confirms damage to Bholari hangar, not whether an aircraft was present or destroyed. Washington Post explicitly notes uncertainty. August2026 NDTV eyewitness India commander describes intended Bholari hangar target believed to house Erieye; no signed pre-impact aircraft roster or unique wreckage. This does not resolve identity/occupancy.",
       "sources": [
-        "S39"
+        "S39",
+        "S152"
       ]
     },
     {
@@ -4114,6 +4254,157 @@
         "S139",
         "S144"
       ]
+    },
+    {
+      "id": "C137",
+      "topic": "Airborne aircraft attrition",
+      "claim": "India MoD annual report FY2025-26 reported an S400 intercepted Pakistani special-mission aircraft at 314km.",
+      "finding": "Corroborated attributed government report; original PDF inaccessible, aircraft destruction not independently authenticated",
+      "confidence": "Medium-high on attribution, low on physical kill",
+      "assessment": "September 13/14 2026 multiple published reports describe official 314km statement. Official MoD PDF URL found but direct access failed. Exact type, serial, pilot and trajectory unknown.",
+      "sources": [
+        "S147",
+        "S148",
+        "S149"
+      ]
+    },
+    {
+      "id": "C138",
+      "topic": "Airborne aircraft attrition",
+      "claim": "The claimed 314km aircraft is definitely a distinct second aircraft from the earlier approximately 300km mission claim.",
+      "finding": "Not established, likely duplicate narrative but unique engagement not demonstrated",
+      "confidence": "Medium",
+      "assessment": "Both refer to special-mission/large aircraft in S400 very-long-range engagement, disclosure precision differs. No track/mission date to prove same or different; default do not add as second loss.",
+      "sources": [
+        "S147",
+        "S148",
+        "S54"
+      ]
+    },
+    {
+      "id": "C139",
+      "topic": "Airborne aircraft attrition",
+      "claim": "India Air Chief claimed at least five Pakistani fighters and one large airborne platform in Aug2025.",
+      "finding": "Verified official senior-service statement, unsupported at unique wreckage level",
+      "confidence": "High that speaker said it; low on exact losses",
+      "assessment": "Akashvani Aug9 reproduces five fighters and one ELINT/AEWC-class large airborne aircraft at ~300km. Attributed Indian claim, no publicly released serials.",
+      "sources": [
+        "S54",
+        "S56"
+      ]
+    },
+    {
+      "id": "C140",
+      "topic": "Aircraft on Pakistani bases",
+      "claim": "Air Chief Oct2025 claims of C130, AEWC and 4-5 fighters on tarmac/hangars prove unique serialled losses.",
+      "finding": "Unverified, aircraft ground occupancy and loss count missing",
+      "confidence": "Medium-high",
+      "assessment": "Original newspaper reports senior official allegation; hangar and runway physical changes supported but no airframe IDs, no recovered inventory. Airborne versus ground losses need separate case event ID.",
+      "sources": [
+        "S56",
+        "S39",
+        "S51"
+      ]
+    },
+    {
+      "id": "C141",
+      "topic": "India aircraft losses",
+      "claim": "Pakistan Deputy Chief of Air Staff May7 2026 asserted eight Indian fighter jets including a UAV destroyed.",
+      "finding": "Statement directly documented but category internally inconsistent",
+      "confidence": "High on attribution",
+      "assessment": "Radio Pakistan official briefing lists 4 Rafale + Su30 + Mirage2000 + Mig29 + multirole unmanned system, 7 manned fighters and one unmanned. Independent crash roster absent.",
+      "sources": [
+        "S150",
+        "S91"
+      ]
+    },
+    {
+      "id": "C142",
+      "topic": "India aircraft losses",
+      "claim": "Pakistan National Assembly Speaker May11 2026 said seven Indian aircraft were destroyed.",
+      "finding": "Verified formal political office statement, no aircraft model listing",
+      "confidence": "High on attribution, low on physical count",
+      "assessment": "Parliament official statement says seven enemy aircraft, does not resolve May7 military eight list, not a judicial/parliamentary fact-finding audit.",
+      "sources": [
+        "S151",
+        "S150"
+      ]
+    },
+    {
+      "id": "C143",
+      "topic": "India aircraft losses",
+      "claim": "Pakistan's May7 2026 eight alleged fighter kills are eight manned fighter jets.",
+      "finding": "Contradicted by source enumeration, independent total not established",
+      "confidence": "High",
+      "assessment": "Seven enumerated fighter airframes and one unmanned system. An unmanned aerial system may be an aircraft but is not a manned fighter jet; category correction needed.",
+      "sources": [
+        "S150"
+      ]
+    },
+    {
+      "id": "C144",
+      "topic": "Damage to India military bases",
+      "claim": "Pakistan's May7 2026 claim of 16 Indian bases and two S400 batteries hit is independently verified.",
+      "finding": "Unsubstantiated by independently authenticated 16-site/2-battery damage matrix",
+      "confidence": "High that claim exists; low on effects",
+      "assessment": "Radio Pakistan quotes Deputy Air Chief. No serial or before-after ground imagery catalogue; Indian PIB contested earlier claims of destroying an S400. Competing interested accounts.",
+      "sources": [
+        "S150",
+        "S154",
+        "S51"
+      ]
+    },
+    {
+      "id": "C145",
+      "topic": "Bholari airbase",
+      "claim": "IAF participant Air Marshal Kapoor personally described Su30MKI/BrahMos May10 hangar strike mission.",
+      "finding": "Verified interview recollection; operational records unreleased",
+      "confidence": "Medium-high",
+      "assessment": "NDTV published commander interview and connected to satellite roof damage. Statements authenticate intended strike mission narrative, not hangar interior airframe contents.",
+      "sources": [
+        "S152",
+        "S39"
+      ]
+    },
+    {
+      "id": "C146",
+      "topic": "Bholari aircraft losses",
+      "claim": "Saab Erieye aircraft definitely destroyed inside Bholari hangar.",
+      "finding": "Not established, belief and structural damage not adequate to identify contents",
+      "confidence": "High evidentiary limitation",
+      "assessment": "Indian commander's targeted-site knowledge is not authenticated same-day interior visual/PAF serial evidence. Stimson 2025 evaluated Bholari Saab destruction only suggestive.",
+      "sources": [
+        "S152",
+        "S39",
+        "S51"
+      ]
+    },
+    {
+      "id": "C147",
+      "topic": "India aircraft losses",
+      "claim": "Three documented crash sites prove Pakistan's later seven or eight Indian aircraft kill tally.",
+      "finding": "Incorrect extrapolation from visible subset to larger total",
+      "confidence": "High",
+      "assessment": "Stimson synthesizes Washington Post visual evidence of three India crash sites. Distinct sites give minimum visible incidents but not evidence for all Pakistan claims or fighter identity of remaining hulls.",
+      "sources": [
+        "S51",
+        "S38",
+        "S150"
+      ]
+    },
+    {
+      "id": "C148",
+      "topic": "Military outcome",
+      "claim": "Interested-government aircraft claims alone establish decisive bilateral overall victor.",
+      "finding": "Unsubstantiated across operational, strategic and humanitarian dimensions",
+      "confidence": "High",
+      "assessment": "Both sources make incompatible claims and different denominators; independent damage/casualty and cessation data do not supply a single comprehensive loss-balanced military score.",
+      "sources": [
+        "S150",
+        "S151",
+        "S51",
+        "S153"
+      ]
     }
   ],
   "targets": [
@@ -4855,6 +5146,58 @@
         "S12",
         "S51"
       ]
+    },
+    {
+      "id": "X50",
+      "title": "Pakistan 7 May 2026 eight fighter jets claim versus listed one UAV and 11 May seven aircraft",
+      "sideA": "Deputy Air Chief says eight fighter jets, itemizing seven manned fighters plus one multirole unmanned system.",
+      "sideB": "National Assembly Speaker four days later refers to seven enemy aircraft without explaining any dropped UAV or changed methodology.",
+      "status": "Numerical/category discrepancy documented; not evidence any asserted total is physically proven",
+      "required": "Original audiovisual May7 presentation with alleged unique loss IDs; Speaker source clarification; geolocated wreckage and aircraft ID count.",
+      "sources": [
+        "S150",
+        "S151"
+      ]
+    },
+    {
+      "id": "X51",
+      "title": "India airborne large aircraft at about 300km versus later 314km official report",
+      "sideA": "Aug/Oct2025 Indian air chief claimed airborne AEWC/ELINT-class platform hit at ~300km.",
+      "sideB": "Sep2026 MoD report reportedly uses precise 314km and 'special-mission' aircraft, without accessible original PDF or track.",
+      "status": "Likely rounded-versus-exact description, event identity unproved; do not add two large-aircraft kills",
+      "required": "Obtain original MoD 2025-26 PDF, track time/date, target serial and kill evidence.",
+      "sources": [
+        "S54",
+        "S56",
+        "S147",
+        "S148"
+      ]
+    },
+    {
+      "id": "X52",
+      "title": "Bholari hangar targeted for Erieye versus proof Erieye actually destroyed",
+      "sideA": "NDTV first-person account says commander believed Saab Erieye in Bholari hangar; independently satellite-visible damage to hangar structure.",
+      "sideB": "Neither commander recollection nor structural photograph confirms aircraft occupancy or wreckage tail/serial.",
+      "status": "Intent and physical damage evidenced, individual aircraft destruction not established",
+      "required": "PAF airframe movement logs, verified internal before/after hangar imagery, named crew and incident report.",
+      "sources": [
+        "S152",
+        "S39",
+        "S51"
+      ]
+    },
+    {
+      "id": "X53",
+      "title": "PAF fighters destroyed in air versus F16s claimed destroyed in Pakistani hangars",
+      "sideA": "IAF air chief Aug2025 claimed five aerial fighters plus large surveillance aircraft.",
+      "sideB": "Oct2025 interview also claimed C130/AEWC/4-5 fighters destroyed at airbases, without unique serials and with possible overlap categories.",
+      "status": "Different loss mechanisms; cannot sum without identity matrix",
+      "required": "Separate event and unique hull IDs, ground and in-air chronology, independent photographed debris and original logbooks.",
+      "sources": [
+        "S54",
+        "S56",
+        "S39"
+      ]
     }
   ],
   "openQuestions": [
@@ -5241,6 +5584,36 @@
       "priority": "critical",
       "question": "Can India's and Pakistan's asserted aircraft losses be connected to serial-numbered hulls and crew status without conflating pilot return statements and gallantry award totals?",
       "next": "Authenticated crash wreckage, tail/engine serials, dated flight roster and service loss records with independent chain of custody."
+    },
+    {
+      "id": "Q66",
+      "priority": "critical",
+      "question": "What precisely does India’s original 2025–26 Defence Ministry annual PDF say about the 314km S400 aircraft claim, and which page and incident?",
+      "next": "Retrieve original government-hosted PDF; record file hash/pages, compare ~300km 2025 remarks and determine unique track/airframe identity."
+    },
+    {
+      "id": "Q67",
+      "priority": "critical",
+      "question": "Why did Pakistan officially describe eight destroyed fighter jets including an unmanned system on May7 2026, versus seven aircraft on May11?",
+      "next": "Acquire original Pakistan deputy air chief briefing audiovisual and model-specific unique crash ledger; ask for definition of drone and category corrections."
+    },
+    {
+      "id": "Q68",
+      "priority": "critical",
+      "question": "Does an airframe-level inventory independently substantiate any of India's alleged PAF 5 fighters, large airborne aircraft, ground-based C130/AEWC/4-5 F16 losses?",
+      "next": "Serial-based PAF operational roster, original radar engagement tracks, independently geolocated hull wreckage and hangar interior records, avoid aerial/ground double count."
+    },
+    {
+      "id": "Q69",
+      "priority": "high",
+      "question": "What independently verifiable damage occurred at Pakistan's claimed sixteen Indian airbases and two S400 batteries?",
+      "next": "Build base-specific before/after independent commercial imagery and physical repair records, align incident/date and Pakistani claims with Indian counterclaims."
+    },
+    {
+      "id": "Q70",
+      "priority": "high",
+      "question": "What aircraft, if any, was inside Bholari's damaged hangar at precise May10 2025 impact time?",
+      "next": "Authenticate NDTV participant podcast, georeferenced dated satellite scenes, flightline log and PAF unique aircraft serial maintenance records."
     }
   ],
   "casualties": [
