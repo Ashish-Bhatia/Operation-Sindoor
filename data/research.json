@@ -792,11 +792,11 @@
       "id": "S79",
       "title": "India's official retrospective note claiming 20 percent Pakistani air force infrastructure destroyed",
       "publisher": "India Press Information Bureau",
-      "date": "2025-05-14",
+      "date": "2025-05-12",
       "type": "primary",
       "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=154451&lang=2&reg=48",
-      "review": "Official retrospective press note indexed and relevant claim read; exact publication date should be rechecked against page metadata",
-      "note": "Claim of almost 20% PAF infrastructure destroyed lacks a published consistent denominator or independent damage inventory in this evidence pass."
+      "review": "Original PIB press-note text directly read including posted timestamp 12 May 2025 17:22 IST",
+      "note": "Indian PIB claims 11 Pakistani air bases destroyed, nearly 20% of PAF infrastructure destroyed, and says Pakistan approached US to broker calm. All are Indian official assertions, not independent verification."
     }
   ],
   "timeline": [
@@ -2104,7 +2104,7 @@
       "claim": "India's retrospective statement that nearly 20 percent of Pakistan's air force infrastructure was destroyed is independently quantified.",
       "finding": "Unsupported",
       "confidence": "Low",
-      "assessment": "PIB retrospective assertion lacks a defined denominator, destruction threshold or independently released facility dataset. Independently supported structural damage at six airfields does not equal 20 percent of PAF infrastructure.",
+      "assessment": "India's 12 May PIB explainer claimed nearly 20% PAF infrastructure destroyed, without denominator or independent audit. Washington Post's physical damage at six airfields is not an independent validation of a 20% nationwide infrastructure figure.",
       "sources": [
         "S79",
         "S39",
@@ -2196,6 +2196,32 @@
         "S63",
         "S64",
         "S50"
+      ]
+    },
+    {
+      "id": "C72",
+      "topic": "Diplomacy",
+      "claim": "India's PIB 12 May retrospective explainer said Pakistan approached the United States to broker calm.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Authenticated original Indian government publication contains that assertion. It does not prove which US contacts happened, their timing, acceptance or whether they determined the DGMO cessation. This is narrower than US mediation causality.",
+      "sources": [
+        "S79",
+        "S10",
+        "S09"
+      ]
+    },
+    {
+      "id": "C73",
+      "topic": "Pakistan airfields",
+      "claim": "Eleven Pakistani air bases were destroyed in the May confrontation.",
+      "finding": "Unsupported",
+      "confidence": "Medium",
+      "assessment": "India's 12 May PIB explainer expressly makes the eleven-base destruction assertion. Independent May 14 commercial-imagery investigation documented damage at six airfields, including repairs and incomplete operational disruption. The data do not establish destruction of eleven entire bases.",
+      "sources": [
+        "S79",
+        "S39",
+        "S51"
       ]
     }
   ],
@@ -2606,7 +2632,7 @@
     {
       "id": "X24",
       "title": "Claims of large-scale PAF infrastructure destruction versus measurable historic damage",
-      "sideA": "Indian PIB retrospective material asserted almost 20% of Pakistani air force infrastructure was destroyed.",
+      "sideA": "India's 12 May PIB explainer claimed 11 Pakistani air bases destroyed and nearly 20% of Pakistan's air force infrastructure destroyed.",
       "sideB": "Published commercial imagery investigations supported physical changes across six airfields but do not provide a denominator or prove fleet-wide operational disabling.",
       "status": "Unsupported percentage",
       "required": "Define facility inventory and damage denominator, distinguish hits from full facility destruction and find comparable independently documented operational output.",
@@ -2614,6 +2640,20 @@
         "S79",
         "S39",
         "S51"
+      ]
+    },
+    {
+      "id": "X25",
+      "title": "India's PIB acknowledges Pakistan approached US versus subsequent emphases on strictly bilateral cessation",
+      "sideA": "India's May 12 PIB retrospective note says Pakistan also approached the United States to broker calm.",
+      "sideB": "Indian statements emphasize a direct DGMO agreement and deny that American mediation or trade threats forced India's decision. These can coexist if Pakistan contacted the US without third-party decisiveness.",
+      "status": "Important nuance, not direct factual contradiction",
+      "required": "Check precise chronology of Pakistani US contacts and diplomatic role, distinguish Pakistan approaching US from India accepting US mediation, and compare original senior-official statements.",
+      "sources": [
+        "S79",
+        "S09",
+        "S10",
+        "S22"
       ]
     }
   ],
@@ -2809,6 +2849,12 @@
       "priority": "high",
       "question": "What underlying measure produced India's retrospective assertion that 20 percent of PAF infrastructure was destroyed?",
       "next": "Seek original denominator, definitions of damaged/destroyed, independently verified facility-level changes and recovery times."
+    },
+    {
+      "id": "Q33",
+      "priority": "high",
+      "question": "Did Pakistan approach US diplomats to seek calm before 15:35 IST on 10 May as India's PIB itself later asserted?",
+      "next": "Locate direct Pakistan-US contact records and Indian official explanations of May 12 government wording; keep distinct from who mediated final agreement."
     }
   ],
   "casualties": [
