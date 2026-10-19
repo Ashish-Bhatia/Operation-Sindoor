@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 09",
+    "edition": "Research checkpoint 10",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization. Checkpoint08 adds Pakistan's explicitly dated 11-to-13 military casualty update, later Bathinda crash civilian death and Poonch district government-data-attributed counts/payments. No police diary, district treasury ledger, full service personnel register, original PAF airframe inventory or original ACLED event export acquired; all aggregate scopes and double-count risks remain documented. Checkpoint09 directly cross-compares six National War Memorial individual records and MoD clarification: five India military died May7-10 and sixth died June6 of May wounds; total six eventual operation-associated, not six by May11. Role of lone IAF deceased reported medical assistant, not aircrew. July Pahalgam and Sept separate-case warrants are reporter-quoted and signed judicial originals missing. HRW 2026 recited older Pakistan 11, not superseding its May14 13."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization. Checkpoint08 adds Pakistan's explicitly dated 11-to-13 military casualty update, later Bathinda crash civilian death and Poonch district government-data-attributed counts/payments. No police diary, district treasury ledger, full service personnel register, original PAF airframe inventory or original ACLED event export acquired; all aggregate scopes and double-count risks remain documented. Checkpoint09 directly cross-compares six National War Memorial individual records and MoD clarification: five India military died May7-10 and sixth died June6 of May wounds; total six eventual operation-associated, not six by May11. Role of lone IAF deceased reported medical assistant, not aircrew. July Pahalgam and Sept separate-case warrants are reporter-quoted and signed judicial originals missing. HRW 2026 recited older Pakistan 11, not superseding its May14 13. Checkpoint10 crosswalks six NWM fatalities to original Aug14 2025 PIB awards including Agniveer Mood and medical assistant Surendra; detects Hav Sunil Singh unit disagreement. Original 11May PIB webcast metadata exists but audio/video not downloaded/transcribed; reporters quoting same event are not independent battlefield evidence. 'All pilots home' does not mean no fighter loss and 'downed a few' gives no verified number."
   },
   "sources": [
     {
@@ -1387,6 +1387,86 @@
       "url": "https://www.amnesty.org/en/latest/news/2025/05/india-pakistan-urgent-need-to-protect-civilians-amidst-escalating/",
       "review": "Original date-stamped Amnesty public statement examined",
       "note": "Cites then-current preliminary civilian casualty counts and five attackers before later UN and NIA refinements; not original forensic inquiry."
+    },
+    {
+      "id": "S139",
+      "title": "India original 14 August 2025 gallantry awards list confirms six Sindoor memorial names and roles",
+      "publisher": "Ministry of Defence, PIB",
+      "date": "2025-08-14",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2156515&lang=1&reg=48",
+      "review": "Original 1510-line PIB document read directly, category rows and all six names checked",
+      "note": "Vir Chakra Rifleman Sunil; Sena Medals Pawan, Hav Sunil, Dinesh, Agniveer Mood; Vayu Sena Medal Surendra. Identifies Surendra Medical Assistant and Sunil Singh 625 EME, memorial shows 237 Field Workshop. Award notice broader than Sindoor-specific."
+    },
+    {
+      "id": "S140",
+      "title": "Original official 11 May 2025 Operation Sindoor tri-services press briefing webcast metadata",
+      "publisher": "India Ministry of Defence, PIB",
+      "date": "2025-05-11",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/Webcast/WebcastDetail.aspx?MinID=33&d=0&lang=2&m=5&reg=48&webcast_tempID=1082&y=2025",
+      "review": "Original PIB page with dated embedded official video viewed in HTML, full video audio not downloaded/transcribed/hashed",
+      "note": "Establishes video event exists, not per se a checked transcript. Contemporaneous reporters identify 5 deaths, pilots home and qualitative Pakistani aircraft claim."
+    },
+    {
+      "id": "S141",
+      "title": "Official 11 May 2025 MoD military press invite 18:30 National Media Centre",
+      "publisher": "Ministry of Defence, PIB",
+      "date": "2025-05-11",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/MediaInvitationShare.aspx?InvitationID=157682&lang=2&reg=48",
+      "review": "Original MoD invitation read",
+      "note": "Original official event identity/time 11 May 2025 18:30 IST, New Delhi; no loss totals in invitation."
+    },
+    {
+      "id": "S142",
+      "title": "PIB original photograph catalog of May 11 Operation Sindoor briefing speakers",
+      "publisher": "Ministry of Defence, PIB",
+      "date": "2025-05-11",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/Photoshare.aspx?GalleryID=183234&LID=1&RegID=3&lang=2&reg=48",
+      "review": "Original official photograph catalogue metadata read, not primary verbal transcript",
+      "note": "Identifies Ghai, Bharti, Pramod and Sharda at 11 May briefing."
+    },
+    {
+      "id": "S143",
+      "title": "Indian Express timestamped 11 May 2025 DGMO/DGAO briefing reports",
+      "publisher": "The Indian Express",
+      "date": "2025-05-11",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/india/india-pakistan-today-latest-news-live-updates-operation-sindoor-drone-missile-attack-punjab-jammu-kashmir-indian-armed-forces-9994370/",
+      "review": "Original liveblog May11 timestamps checked; derivative of one official briefing, full audio not independently transcribed",
+      "note": "May11 19:51 pilots home, 19:58 few PAF planes asserted but no specific number, May11 22:23 five Indian fallen; DGMO 15:35 contact and 17:00 cessation."
+    },
+    {
+      "id": "S144",
+      "title": "Business Standard contemporaneous report quoting Bharti on downed Pakistani aircraft and pilot return",
+      "publisher": "Business Standard citing PTI video",
+      "date": "2025-05-11",
+      "type": "independent",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/indian-air-force-operation-sindoor-pakistan-jets-shot-planes-uavs-attack-125051100576_1.html",
+      "review": "Original report with quoted PTI source and May11 initial publication read; no independent wreckage audit",
+      "note": "Bharti says pilots home, a few PAF planes downed, no wreckage in India, not hazarding exact kill count; one briefing not independent confirmation."
+    },
+    {
+      "id": "S145",
+      "title": "India Today original 11 May reporting of DGMO five deaths and DGAO aviation comments",
+      "publisher": "India Today",
+      "date": "2025-05-11",
+      "type": "independent",
+      "url": "https://www.indiatoday.in/amp/india/story/operation-sindoor-goal-achieved-indian-army-pilots-returned-2723249-2025-05-11",
+      "review": "Original contemporaneous article read",
+      "note": "DGMO confirmed five then-known military deaths; Bharti says losses part of combat and pilots returned. Same original briefing as IE and Business Standard."
+    },
+    {
+      "id": "S146",
+      "title": "Economic Times May11 liveblog official DGMO five fallen homage",
+      "publisher": "The Economic Times",
+      "date": "2025-05-11",
+      "type": "independent",
+      "url": "https://economictimes.indiatimes.com/news/newsblogs/india-pakistan-war-operation-sindoor-live-updates-loc-ceasefire-break-jammu-kashmir-rajasthan-punjab-firing-mea-briefing-ind-pak-latest-news/liveblog/121062156.cms",
+      "review": "Original liveblog 19:13 May11 India official five fallen remarks read",
+      "note": "Contemporaneous quote five fallen, same joint military briefing source; cannot count as independent personnel registry."
     }
   ],
   "timeline": [
@@ -1702,6 +1782,20 @@
       "sources": [
         "S118",
         "S119"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T80",
+      "date": "2025-05-11",
+      "time": "18:30 IST tri-service briefing",
+      "headline": "DGMO reports five deaths, DGAO says pilots home and refuses numeric PAF jet kill claim",
+      "detail": "Original MoD event/date webcast metadata confirmed; written statements from May11 reporters, not independently transcribed video; PAF claim qualitative and unverified.",
+      "sources": [
+        "S140",
+        "S141",
+        "S143",
+        "S144"
       ],
       "class": "reported"
     },
@@ -2035,6 +2129,23 @@
         "S55"
       ],
       "class": "contested"
+    },
+    {
+      "id": "T81",
+      "date": "2025-08-14",
+      "time": "official MoD gallantry announcement",
+      "headline": "Six memorialised Operation Sindoor personnel independently named in 2025 awards register",
+      "detail": "Awards include one Vir Chakra, four Sena Medals Gallantry and one Vayu Sena Medal Gallantry, with explicit Agniveer and Medical Assistant designations; awards scope broad, tie established by memorial crosswalk.",
+      "sources": [
+        "S139",
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130"
+      ],
+      "class": "established"
     },
     {
       "id": "T59",
@@ -3787,12 +3898,13 @@
       "id": "C121",
       "topic": "India aircraft aircrew",
       "claim": "India's one memorialised Air Force fatality was a fighter pilot killed in May air-to-air combat.",
-      "finding": "Unsupported; journalism identifies medical assistant",
-      "confidence": "Medium-high",
-      "assessment": "Memorial says Sgt Surendra Kumar 39 Wing died May10; HT independently identifies medical assistant, with no serial/flight connection. Does not rule out additional unrecorded pilot injuries or deaths.",
+      "finding": "Contradicted as designation by primary Ministry of Defence award register",
+      "confidence": "High",
+      "assessment": "PIB Aug14 2025 Vayu Sena Medal (Gallantry) row14 expressly lists Sgt Surendra Kumar as Medical Assistant. Memorial lists him as IAF 39 Wing, May10 deceased. Neither record proves any aircraft hull/aircrew tally.",
       "sources": [
         "S129",
-        "S133"
+        "S133",
+        "S139"
       ]
     },
     {
@@ -3814,11 +3926,14 @@
       "claim": "The Ministry of Defence's June27 2026 statement proves all six deaths were publicly recognised at the May11 2025 briefing.",
       "finding": "Impossible literal reading, time-scoped clarification required",
       "confidence": "High",
-      "assessment": "MoD says earlier homage was paid; memorial says one of six died June6. It is possible five then-dead were acknowledged May11 and sixth later; original DGMO transcript needed for exact wording.",
+      "assessment": "Official 11May military webcast exists; original contemporaneous reports explicitly say Ghai paid tribute to five then-deceased. June6 wounded serviceman's later death raises operation-associated total to six. MoD June2026 retrospective prose must not be read as six already dead on May11; exact full audio transcript still to preserve.",
       "sources": [
         "S131",
         "S130",
-        "S132"
+        "S132",
+        "S140",
+        "S143",
+        "S145"
       ]
     },
     {
@@ -3869,6 +3984,135 @@
         "S137",
         "S113",
         "S114"
+      ]
+    },
+    {
+      "id": "C128",
+      "topic": "India military deaths",
+      "claim": "All six personnel in India's later Operation Sindoor memorial names occur in the August 14 2025 government gallantry list.",
+      "finding": "Verified matching original source names and branches",
+      "confidence": "High",
+      "assessment": "The same six government memorial individuals match original 2025 August gallantry list, providing earlier independent-institutional publication. Medal list is not exclusively Sindoor-related; memorial and MoD context link the six.",
+      "sources": [
+        "S139",
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130",
+        "S131"
+      ]
+    },
+    {
+      "id": "C129",
+      "topic": "India soldier identity",
+      "claim": "Mood Muralinaik's fully spelled rank/title in the Aug14 2025 MoD list is Agniveer.",
+      "finding": "Verified primary designation, memorial abbreviation inconsistency recorded",
+      "confidence": "High",
+      "assessment": "PIB Sena Medal Gallantry row58 says AGNIVEER MOOD MURALINAIK, correcting NWM header HAV versus AV caption inconsistency. Personnel category resolved; memorial site correction still possible.",
+      "sources": [
+        "S139",
+        "S126"
+      ]
+    },
+    {
+      "id": "C130",
+      "topic": "India Air Force casualty",
+      "claim": "Sergeant Surendra Kumar was a Medical Assistant.",
+      "finding": "Verified original MoD trade, not a combat aircraft pilot designation",
+      "confidence": "High",
+      "assessment": "PIB Vayu Sena Medal Gallantry row14 explicitly says SERGEANT SURENDRA KUMAR MEDICAL ASSISTANT. This upgrades checkpoint09 newspaper-based inference to primary governmental evidence.",
+      "sources": [
+        "S139",
+        "S129",
+        "S133"
+      ]
+    },
+    {
+      "id": "C131",
+      "topic": "India military unit records",
+      "claim": "Hav Sunil Kumar Singh's unit differs between government medal entry (625 EME Battalion) and NWM (237 Field Workshop Company).",
+      "finding": "Verified differing original administrative labels, not two individuals",
+      "confidence": "High for labels, low for explanation",
+      "assessment": "August2025 list uses 625 EME; later memorial's 237 Field Workshop. Parent unit/attachment possible but posting records missing; do not treat as additional death.",
+      "sources": [
+        "S139",
+        "S130"
+      ]
+    },
+    {
+      "id": "C132",
+      "topic": "India briefing provenance",
+      "claim": "India's MoD retains a dated original 11 May 2025 military briefing webcast in its archive.",
+      "finding": "Verified government video catalogue and event invitation",
+      "confidence": "High",
+      "assessment": "PIB 11May archive and invitation anchor date, place and personnel; full official video not downloaded or transcribed by this research.",
+      "sources": [
+        "S140",
+        "S141",
+        "S142"
+      ]
+    },
+    {
+      "id": "C133",
+      "topic": "India military disclosure",
+      "claim": "India's 11 May 2025 DGMO publicly paid tribute to five fallen personnel.",
+      "finding": "Corroborated by contemporaneous accounts of original 11May official briefing",
+      "confidence": "High for published statement",
+      "assessment": "IE, India Today and Economic Times all timestamp May11 report five from same DGMO press event. Memorial five deaths by May10 and June6 sixth are logically consistent. Report duplicates are not separate witness observations.",
+      "sources": [
+        "S143",
+        "S145",
+        "S146",
+        "S140",
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130"
+      ]
+    },
+    {
+      "id": "C134",
+      "topic": "India aircraft losses",
+      "claim": "The 11May Bharti statement that all Indian pilots were home proves the IAF lost no aircraft.",
+      "finding": "Invalid inference: personnel-return and airframe-survival denominators differ",
+      "confidence": "High",
+      "assessment": "Contemporaneous reporters quote Bharti's 'all pilots back home'; potential ejection/crash and later pilot rescue can coexist with loss. Independent crash imagery and CDS statements must settle hull loss, not this phrase.",
+      "sources": [
+        "S144",
+        "S143",
+        "S140",
+        "S12",
+        "S51"
+      ]
+    },
+    {
+      "id": "C135",
+      "topic": "Pakistan aircraft losses",
+      "claim": "Air Marshal Bharti independently established a precise numerical Pakistani jet shootdown total on 11 May 2025.",
+      "finding": "Contradicted by speaker's explicit refusal to specify number",
+      "confidence": "High on words, low on physical claim",
+      "assessment": "PTI/Business Standard quotes 'a few' Pakistani aircraft and 'do not want to hazard a guess', acknowledging no wreckage in India. This is an interested government qualitative assertion, not verified tail numbers.",
+      "sources": [
+        "S144",
+        "S143",
+        "S140",
+        "S39"
+      ]
+    },
+    {
+      "id": "C136",
+      "topic": "Aircraft attrition",
+      "claim": "Gallantry awards for flying officers prove how many aircraft survived or were destroyed.",
+      "finding": "Invalid unit of measurement",
+      "confidence": "High",
+      "assessment": "Vir Chakra and other gallantry names are award recipients, not aircraft inventory, pilot fatality totals or tail-number kill attribution. Award not uniquely attributable to one sortie from name alone.",
+      "sources": [
+        "S139",
+        "S144"
       ]
     }
   ],
@@ -4573,6 +4817,44 @@
         "S113",
         "S114"
       ]
+    },
+    {
+      "id": "X47",
+      "title": "NWM Mood Muralinaik HAV/AV label versus MoD full official Agniveer designation",
+      "sideA": "National War Memorial page displayed inconsistent HAV header and AV image caption for Mood Muralinaik.",
+      "sideB": "Original Aug14 2025 MoD Sena Medal Gallantry row58 unambiguously reads AGNIVEER MOOD MURALINAIK.",
+      "status": "Resolved designation via explicit Ministry of Defence primary list, website's inconsistent metadata remains",
+      "required": "Seek NWM metadata correction and trace original Army identity record if dispute over official status persists.",
+      "sources": [
+        "S126",
+        "S139"
+      ]
+    },
+    {
+      "id": "X48",
+      "title": "Hav Sunil Kumar Singh medal unit 625 EME versus memorial 237 Field Workshop",
+      "sideA": "Aug14 2025 MoD awards list says 625 Electronics and Mechanical Engineers Battalion.",
+      "sideB": "National War Memorial record says 237 Field Workshop Company for same deceased person.",
+      "status": "Unreconciled administrative unit labels, not proof of two victims",
+      "required": "Original Army personnel parent-unit and attached workshop/formation posting files.",
+      "sources": [
+        "S139",
+        "S130"
+      ]
+    },
+    {
+      "id": "X49",
+      "title": "All pilots home versus inferred zero Indian military aircraft lost",
+      "sideA": "11May DGAO said all Indian pilots were home when asked about casualties and air combat.",
+      "sideB": "Independent wreckage-based investigations and later CDS comments support loss of some Indian aircraft, with serial-specific count unresolved.",
+      "status": "False contradiction caused by conflating human return and material loss",
+      "required": "Unique airframe serial, crash coordinates, crew fate and pilot return logs; pilot survival does not imply fighter survival.",
+      "sources": [
+        "S144",
+        "S143",
+        "S12",
+        "S51"
+      ]
     }
   ],
   "openQuestions": [
@@ -4933,14 +5215,8 @@
     {
       "id": "Q60",
       "priority": "high",
-      "question": "Does the 11 May 2025 DGMO transcript explicitly count five then-deceased servicemembers or make any claim about the eventual sixth death?",
-      "next": "Retrieve full original dated briefing and compare MoD 27June2026 tribute phrasing with death chronology."
-    },
-    {
-      "id": "Q61",
-      "priority": "medium",
-      "question": "Why does the NWM Mood Muralinaik record label rank HAV in header and AV in image caption?",
-      "next": "Obtain official Army/Defence gallantry award order and personnel record resolving HAV/AV display mismatch."
+      "question": "Can the full original PIB May 11 2025 briefing video be transcribed and time-coded to settle the exact wording and chronology of casualty and aircraft-loss responses?",
+      "next": "May11 event webcast catalogued and contemporaneous press quote five dead, pilots home and few PAF jet claims. Acquire full actual audiovisual stream and produce manually verified timestamped transcript."
     },
     {
       "id": "Q62",
@@ -4953,6 +5229,18 @@
       "priority": "medium",
       "question": "Which reputable retrospectives still use Pakistan's 13May eleven-person figure after its May14 thirteen-person update?",
       "next": "Add explicit as-of label in comparative casualty table, record source report publication and any primary superseding issue."
+    },
+    {
+      "id": "Q64",
+      "priority": "medium",
+      "question": "Why is Havildar Sunil Kumar Singh listed under 625 EME Battalion in Aug14 awards but 237 Field Workshop Company in NWM?",
+      "next": "Obtain official posting/attachment or parent-unit order and request correction note as needed."
+    },
+    {
+      "id": "Q65",
+      "priority": "critical",
+      "question": "Can India's and Pakistan's asserted aircraft losses be connected to serial-numbered hulls and crew status without conflating pilot return statements and gallantry award totals?",
+      "next": "Authenticated crash wreckage, tail/engine serials, dated flight roster and service loss records with independent chain of custody."
     }
   ],
   "casualties": [
