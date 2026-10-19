@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 08",
+    "edition": "Research checkpoint 09",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization. Checkpoint08 adds Pakistan's explicitly dated 11-to-13 military casualty update, later Bathinda crash civilian death and Poonch district government-data-attributed counts/payments. No police diary, district treasury ledger, full service personnel register, original PAF airframe inventory or original ACLED event export acquired; all aggregate scopes and double-count risks remain documented."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization. Checkpoint08 adds Pakistan's explicitly dated 11-to-13 military casualty update, later Bathinda crash civilian death and Poonch district government-data-attributed counts/payments. No police diary, district treasury ledger, full service personnel register, original PAF airframe inventory or original ACLED event export acquired; all aggregate scopes and double-count risks remain documented. Checkpoint09 directly cross-compares six National War Memorial individual records and MoD clarification: five India military died May7-10 and sixth died June6 of May wounds; total six eventual operation-associated, not six by May11. Role of lone IAF deceased reported medical assistant, not aircrew. July Pahalgam and Sept separate-case warrants are reporter-quoted and signed judicial originals missing. HRW 2026 recited older Pakistan 11, not superseding its May14 13."
   },
   "sources": [
     {
@@ -1247,6 +1247,146 @@
       "url": "https://www.tribuneindia.com/news/j-k/restoration-of-shelling-hit-structures-may-take-months-poonch-residents/",
       "review": "Original June 2025 local reporting reviewed",
       "note": "Reported over 2000 Poonch homes damaged; does not match later Poonch govt-data 598; scopes and date needed before reconciliation."
+    },
+    {
+      "id": "S125",
+      "title": "Indian National War Memorial: OP SINDOOR casualty Dinesh Kumar",
+      "publisher": "National War Memorial, Government of India",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://nationalwarmemorial.gov.in/roll-of-honours/details/26641",
+      "review": "Direct original government individual Roll of Honour opened; name, operation, unit, official date of casualty checked",
+      "note": "Army 5 Field Regiment"
+    },
+    {
+      "id": "S126",
+      "title": "Indian National War Memorial: OP SINDOOR casualty Mood Muralinaik",
+      "publisher": "National War Memorial, Government of India",
+      "date": "2025-05-09",
+      "type": "primary",
+      "url": "https://nationalwarmemorial.gov.in/roll-of-honours/details/26642",
+      "review": "Direct original government individual Roll of Honour opened; name, operation, unit, official date of casualty checked",
+      "note": "Army 851 Light Regiment; rank discrepancy heading HAV versus image AV"
+    },
+    {
+      "id": "S127",
+      "title": "Indian National War Memorial: OP SINDOOR casualty Pawan Kumar",
+      "publisher": "National War Memorial, Government of India",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://nationalwarmemorial.gov.in/roll-of-honours/details/26639",
+      "review": "Direct original government individual Roll of Honour opened; name, operation, unit, official date of casualty checked",
+      "note": "Army HQ 10 Infantry Brigade"
+    },
+    {
+      "id": "S128",
+      "title": "Indian National War Memorial: OP SINDOOR casualty Sunil Kumar",
+      "publisher": "National War Memorial, Government of India",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://nationalwarmemorial.gov.in/roll-of-honours/details/26640",
+      "review": "Direct original government individual Roll of Honour opened; name, operation, unit, official date of casualty checked",
+      "note": "Army 4 Jammu and Kashmir Light Infantry"
+    },
+    {
+      "id": "S129",
+      "title": "Indian National War Memorial: OP SINDOOR casualty Surendra Kumar",
+      "publisher": "National War Memorial, Government of India",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://nationalwarmemorial.gov.in/roll-of-honours/details/26644",
+      "review": "Direct original government individual Roll of Honour opened; name, operation, unit, official date of casualty checked",
+      "note": "IAF 39 Wing, not identified as flight crew"
+    },
+    {
+      "id": "S130",
+      "title": "Indian National War Memorial: OP SINDOOR casualty Sunil Kumar Singh",
+      "publisher": "National War Memorial, Government of India",
+      "date": "2025-06-06",
+      "type": "primary",
+      "url": "https://nationalwarmemorial.gov.in/roll-of-honours/details/26643",
+      "review": "Direct original government individual Roll of Honour opened; name, operation, unit, official date of casualty checked",
+      "note": "Army 237 Field Workshop; later death after injuries"
+    },
+    {
+      "id": "S131",
+      "title": "Indian Defence Ministry 27 June 2026 statement Honouring the bravehearts",
+      "publisher": "Press Information Bureau, Ministry of Defence",
+      "date": "2026-06-27",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2278473&lang=1&reg=6",
+      "review": "Original Defence Ministry release directly read",
+      "note": "Affirms total six operation-associated deaths, argues recognition predated June2026 memorial naming, recalls May11 DGMO homage; June6 delayed death requires chronological qualification."
+    },
+    {
+      "id": "S132",
+      "title": "Indian Army June2025 tribute to wounded Operation Sindoor Havildar Sunil Kumar Singh",
+      "publisher": "The Tribune, quoting Indian Army White Knight Corps",
+      "date": "2025-06-08",
+      "type": "independent",
+      "url": "https://www.tribuneindia.com/news/j-k/havildar-injured-in-operation-sindoor-succumbs-to-injuries/",
+      "review": "Original contemporaneous news report directly read quoting Army tribute",
+      "note": "Names June6 death at Command Hospital Udhampur after severe injuries sustained during May operation; injury date/weapon not established."
+    },
+    {
+      "id": "S133",
+      "title": "2026 individual memorial audit: Six India Army/IAF names and casualty dates",
+      "publisher": "Hindustan Times",
+      "date": "2026-06-27",
+      "type": "independent",
+      "url": "https://www.hindustantimes.com/india-news/names-of-six-personnel-killed-during-op-sindoor-added-to-war-memorial-101782497438678.html",
+      "review": "Original journalist memorial overview directly read; six individual govt memorials checked separately",
+      "note": "Five May fatalities plus June6 delayed death; IAF Sergeant Surendra described as a medical assistant; original military personnel service role not independently fetched."
+    },
+    {
+      "id": "S134",
+      "title": "NIA Pahalgam special-court July8 Hafiz Saeed warrant, RC-02/2025/NIA/JMU quoted",
+      "publisher": "The Tribune quoting specific judicial order text",
+      "date": "2026-07-14",
+      "type": "independent",
+      "url": "https://www.tribuneindia.com/news/j-k/jammu-court-issues-non-bailable-warrant-against-let-founder-hafiz-saeed/",
+      "review": "Original court-order quote in journalistic report reviewed, complete signed court file not acquired",
+      "note": "8 July warrant under s75 BNSS, Pahalgam case RC 02/2025/NIA/JMU, accused A-8; warrant not conviction."
+    },
+    {
+      "id": "S135",
+      "title": "September 2026 Hafiz Saeed non-bailable warrant in a separate March2026 arms conspiracy case",
+      "publisher": "Hindustan Times",
+      "date": "2026-09-12",
+      "type": "independent",
+      "url": "https://www.hindustantimes.com/cities/chandigarh-news/nia-court-issues-fresh-warrant-against-lashkar-chief-hafiz-saeed-101789197144507.html",
+      "review": "Original dated reporting and separate-case incident details read; signed order/RC missing",
+      "note": "8 Sep 2026 court warrant relates to March31 2026 ammunition/grenade possession investigation, not July8 Pahalgam attack warrant."
+    },
+    {
+      "id": "S136",
+      "title": "Separate September2026 Jammu Saeed warrant and weapon-case details",
+      "publisher": "The Tribune",
+      "date": "2026-09-13",
+      "type": "independent",
+      "url": "https://www.tribuneindia.com/news/j-k/indias-most-wanted-terrorist-hafiz-saeed-in-pakistan-nia-tells-jammu-court-secures-warrant/",
+      "review": "Original court journalism reviewed; copy of signed warrant not acquired",
+      "note": "Distinguishes Sep separate alleged LeT weapons network from April2025 Pahalgam event."
+    },
+    {
+      "id": "S137",
+      "title": "Human Rights Watch World Report 2026 India chapter dates 2025 Sindoor humanitarian summary",
+      "publisher": "Human Rights Watch",
+      "date": "2026-01-01",
+      "type": "independent",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/india",
+      "review": "Original 2026 HRW country chapter read; underlying military casualty record not audited by HRW",
+      "note": "Repeats Pakistan public 40 civilians/11 soldiers, whereas Pakistan ISPR May14 updated 13; dated-source lag not proof of final 11."
+    },
+    {
+      "id": "S138",
+      "title": "Amnesty 8 May 2025 humanitarian statement, preliminary casualty and attacker reports",
+      "publisher": "Amnesty International",
+      "date": "2025-05-08",
+      "type": "independent",
+      "url": "https://www.amnesty.org/en/latest/news/2025/05/india-pakistan-urgent-need-to-protect-civilians-amidst-escalating/",
+      "review": "Original date-stamped Amnesty public statement examined",
+      "note": "Cites then-current preliminary civilian casualty counts and five attackers before later UN and NIA refinements; not original forensic inquiry."
     }
   ],
   "timeline": [
@@ -1739,6 +1879,18 @@
       "class": "established"
     },
     {
+      "id": "T75",
+      "date": "2025-06-06",
+      "time": "Army date of death",
+      "headline": "Sixth memorialised Indian Sindoor service member dies after May injuries",
+      "detail": "Hav Sunil Kumar Singh dies at Command Hospital Udhampur; NWM records June6 while five other entries are May7-10. Distinct delayed death, not June6 strike event.",
+      "sources": [
+        "S130",
+        "S132"
+      ],
+      "class": "established"
+    },
+    {
       "id": "T64",
       "date": "2025-06-09",
       "time": "Government relief press note",
@@ -2029,6 +2181,35 @@
       "class": "reported"
     },
     {
+      "id": "T76",
+      "date": "2026-06-26",
+      "time": "roll of honour inscription reporting",
+      "headline": "Six name-specific Sindoor fatalities appear on National War Memorial",
+      "detail": "Original NWM entries identify five Army, one IAF, five May death dates plus delayed June6 death; memorial rank display inconsistency for Muralinaik.",
+      "sources": [
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130",
+        "S133"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T77",
+      "date": "2026-06-27",
+      "time": "MoD clarification",
+      "headline": "Defence Ministry states six Sindoor dead honoured prior to memorial controversy",
+      "detail": "Government notes May11 military tribute and prior awards; June6 delayed death constrains literal all-six-in-May reading.",
+      "sources": [
+        "S131",
+        "S130"
+      ],
+      "class": "established"
+    },
+    {
       "id": "T16",
       "date": "2026-07-06",
       "time": "announcement date",
@@ -2038,6 +2219,18 @@
         "S16"
       ],
       "class": "official"
+    },
+    {
+      "id": "T78",
+      "date": "2026-07-08",
+      "time": "Special NIA Court order, as reported",
+      "headline": "Pahalgam case Hafiz Saeed warrant issued in RC 02/2025/NIA/JMU",
+      "detail": "A-8 non-bailable warrant under BNSS75 following July6 supplementary filing; order wording quoted, signed original document still missing.",
+      "sources": [
+        "S134",
+        "S42"
+      ],
+      "class": "reported"
     },
     {
       "id": "T20",
@@ -2051,6 +2244,18 @@
         "S32"
       ],
       "class": "contested"
+    },
+    {
+      "id": "T79",
+      "date": "2026-09-08",
+      "time": "Special NIA Court order, as reported",
+      "headline": "Second Hafiz Saeed warrant issued in a different weapon supply investigation",
+      "detail": "Separate March2026 grenade/ammunition network allegation; must not be counted as new Pahalgam indictment/conviction.",
+      "sources": [
+        "S135",
+        "S136"
+      ],
+      "class": "reported"
     },
     {
       "id": "T50",
@@ -3532,6 +3737,139 @@
         "S123",
         "S39"
       ]
+    },
+    {
+      "id": "C118",
+      "topic": "India military casualties",
+      "claim": "National War Memorial lists six OP SINDOOR-associated service deaths; five occurred May7-10 and sixth June6.",
+      "finding": "Verified government individualized original records",
+      "confidence": "High",
+      "assessment": "Individual government entries specify May7 one, May9 one, May10 three, and June6 one. Does not identify every wound date, death mechanism or full aircraft losses.",
+      "sources": [
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130"
+      ]
+    },
+    {
+      "id": "C119",
+      "topic": "India military casualties",
+      "claim": "India's six OP SINDOOR personnel had all died by May11 2025.",
+      "finding": "Contradicted by government June6 death record",
+      "confidence": "High",
+      "assessment": "Havildar Sunil Kumar Singh died June6 after May injuries, per government roll and contemporaneous Army tribute. May11 count five is date-scoped, six eventual.",
+      "sources": [
+        "S130",
+        "S132",
+        "S131"
+      ]
+    },
+    {
+      "id": "C120",
+      "topic": "India military casualties",
+      "claim": "Six memorialised Operation Sindoor fatalities comprise five Army personnel and one Indian Air Force sergeant.",
+      "finding": "Verified original government rolls",
+      "confidence": "High",
+      "assessment": "Five original records Army; one Sgt Surendra Kumar IAF, 39 Wing. Memorial is operational death list, not complete all-injury or aircraft inventory.",
+      "sources": [
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130"
+      ]
+    },
+    {
+      "id": "C121",
+      "topic": "India aircraft aircrew",
+      "claim": "India's one memorialised Air Force fatality was a fighter pilot killed in May air-to-air combat.",
+      "finding": "Unsupported; journalism identifies medical assistant",
+      "confidence": "Medium-high",
+      "assessment": "Memorial says Sgt Surendra Kumar 39 Wing died May10; HT independently identifies medical assistant, with no serial/flight connection. Does not rule out additional unrecorded pilot injuries or deaths.",
+      "sources": [
+        "S129",
+        "S133"
+      ]
+    },
+    {
+      "id": "C122",
+      "topic": "India military disclosure",
+      "claim": "No official Indian Armed Forces tribute to Havildar Sunil Kumar Singh existed until June2026.",
+      "finding": "Contradicted by contemporaneous official tribute report",
+      "confidence": "High",
+      "assessment": "White Knight Corps Army tribute for his June6 death published June8 2025. First individual engraving or official consolidated nominal disclosure occurred later.",
+      "sources": [
+        "S132",
+        "S131",
+        "S130"
+      ]
+    },
+    {
+      "id": "C123",
+      "topic": "India military disclosure",
+      "claim": "The Ministry of Defence's June27 2026 statement proves all six deaths were publicly recognised at the May11 2025 briefing.",
+      "finding": "Impossible literal reading, time-scoped clarification required",
+      "confidence": "High",
+      "assessment": "MoD says earlier homage was paid; memorial says one of six died June6. It is possible five then-dead were acknowledged May11 and sixth later; original DGMO transcript needed for exact wording.",
+      "sources": [
+        "S131",
+        "S130",
+        "S132"
+      ]
+    },
+    {
+      "id": "C124",
+      "topic": "Pahalgam court",
+      "claim": "An NIA Special Court in Jammu issued an 8 July 2026 non-bailable warrant against Hafiz Saeed in Pahalgam RC-02/2025/NIA/JMU.",
+      "finding": "Supported by reported court-order text; original signed file pending",
+      "confidence": "Medium-high",
+      "assessment": "Tribune quotes the case number, accused A8, section 75 BNSS and warrant wording following July6 chargesheet. A warrant is not a conviction.",
+      "sources": [
+        "S134",
+        "S42"
+      ]
+    },
+    {
+      "id": "C125",
+      "topic": "Pahalgam court",
+      "claim": "September 8 2026 second Saeed warrant was another Pahalgam-case warrant.",
+      "finding": "Misleading, separate 2026 weapons investigation",
+      "confidence": "Medium-high",
+      "assessment": "September warrant arose in alleged grenade/ammunition and network case tied March2026 arrest near Srinagar; case number not yet independently authenticated.",
+      "sources": [
+        "S135",
+        "S136",
+        "S134"
+      ]
+    },
+    {
+      "id": "C126",
+      "topic": "Pahalgam court",
+      "claim": "A non-bailable warrant or chargesheet against Hafiz Saeed establishes judicial guilt for Pahalgam.",
+      "finding": "False legal inference",
+      "confidence": "High",
+      "assessment": "Warrant is procedural demand for arrest; no completed trial/conviction, witness cross-examination or conclusive state command authorization in these records.",
+      "sources": [
+        "S134",
+        "S42"
+      ]
+    },
+    {
+      "id": "C127",
+      "topic": "Pakistan military fatalities",
+      "claim": "Human Rights Watch 2026 reporting 11 Pakistan service members killed means Pakistan never updated its death toll.",
+      "finding": "Contradicted by May14 primary-dated update",
+      "confidence": "High",
+      "assessment": "HRW 2026 chapter repeated May13 Pakistan count 11 but 14 May ISPR updated to 13, preserving two earlier-wounded subsequent deaths. These sources have different reporting cutoffs.",
+      "sources": [
+        "S137",
+        "S113",
+        "S114"
+      ]
     }
   ],
   "targets": [
@@ -4178,6 +4516,63 @@
         "S120",
         "S102"
       ]
+    },
+    {
+      "id": "X43",
+      "title": "India five May military deaths versus six eventual operation-associated deaths",
+      "sideA": "Indian military reported five by 11 May 2025, matching five NWM deaths on May7-10.",
+      "sideB": "Memorial lists June6 wounded-soldier death Hav Sunil Kumar Singh, increasing cumulative operation deaths to six.",
+      "status": "Resolved by individual date-of-death records, not competing simultaneous counts",
+      "required": "Original casualty notification / dates of wounds and final list publication timestamps; do not add 5+6.",
+      "sources": [
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130",
+        "S131",
+        "S132"
+      ]
+    },
+    {
+      "id": "X44",
+      "title": "Defence Ministry 2026 May11 tribute narrative versus June6 casualty date",
+      "sideA": "MoD June27 retrospective statement describes May11 homage to the six operation-associated bravehearts collectively.",
+      "sideB": "One of six officially died on June6; contemporary Army tribute followed June6. The May11 event could only refer to then-known dead.",
+      "status": "Time-scope ambiguity in retrospective prose; no proven intentional deception",
+      "required": "Exact May11 DGMO briefing transcript and June6 Army post, separate naming, death acknowledgement, award and memorial inscription.",
+      "sources": [
+        "S131",
+        "S130",
+        "S132"
+      ]
+    },
+    {
+      "id": "X45",
+      "title": "Two 2026 Saeed non-bailable warrants incorrectly merged as Pahalgam orders",
+      "sideA": "July8 reported warrant is expressly Pahalgam RC02/2025/NIA/JMU after supplementary chargesheet.",
+      "sideB": "September8 reported warrant relates to new Mar2026 weapons/ammunition and associated network case, different underlying incident.",
+      "status": "Separate case attribution established by reporting, full Sep case number pending",
+      "required": "Both signed judicial orders, FIR numbers, docket and subsequent procedural status.",
+      "sources": [
+        "S134",
+        "S135",
+        "S136"
+      ]
+    },
+    {
+      "id": "X46",
+      "title": "2026 HRW report's Pakistan eleven military fatality number versus May14 thirteen revised ISPR count",
+      "sideA": "Human Rights Watch 2026 India chapter cites 40 civilian and eleven Pakistani service deaths.",
+      "sideB": "Pakistan official ISPR update May14 adds two previously hospitalised service deaths for thirteen cumulative.",
+      "status": "Source-cutoff lag; original May14 update should qualify retrospective 11",
+      "required": "Victim-level independent Pakistani personnel roster and final later official revisions.",
+      "sources": [
+        "S137",
+        "S113",
+        "S114"
+      ]
     }
   ],
   "openQuestions": [
@@ -4528,6 +4923,36 @@
       "priority": "medium",
       "question": "Do ACLED eight Pakistani and eleven Indian coded airstrike events match unique independently documented event footprints?",
       "next": "Retrieve ACLED event-level export with IDs and codebook and compare to satellite reconstruction and original military briefings."
+    },
+    {
+      "id": "Q59",
+      "priority": "critical",
+      "question": "What is the exact wounded date and death-causation record for Hav Sunil Kumar Singh, who died 6 June 2025 of Sindoor injuries?",
+      "next": "Find original Army personnel casualty/surgical medical documentation and original June6 White Knight Corps statement, without exposing private medical details."
+    },
+    {
+      "id": "Q60",
+      "priority": "high",
+      "question": "Does the 11 May 2025 DGMO transcript explicitly count five then-deceased servicemembers or make any claim about the eventual sixth death?",
+      "next": "Retrieve full original dated briefing and compare MoD 27June2026 tribute phrasing with death chronology."
+    },
+    {
+      "id": "Q61",
+      "priority": "medium",
+      "question": "Why does the NWM Mood Muralinaik record label rank HAV in header and AV in image caption?",
+      "next": "Obtain official Army/Defence gallantry award order and personnel record resolving HAV/AV display mismatch."
+    },
+    {
+      "id": "Q62",
+      "priority": "high",
+      "question": "What original signed judicial documents establish July8 Pahalgam and September8 separate-case Hafiz Saeed warrants?",
+      "next": "Retrieve complete signed Jammu NIA court orders, both FIR/RC numbers, process returns and procedural status; do not treat warrants as convictions."
+    },
+    {
+      "id": "Q63",
+      "priority": "medium",
+      "question": "Which reputable retrospectives still use Pakistan's 13May eleven-person figure after its May14 thirteen-person update?",
+      "next": "Add explicit as-of label in comparative casualty table, record source report publication and any primary superseding issue."
     }
   ],
   "casualties": [
@@ -4585,10 +5010,16 @@
       "injured": null,
       "sourceIDs": [
         "S52",
-        "S43"
+        "S43",
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130"
       ],
-      "status": "Indian military briefing cited 5 military deaths, reiterated in Reuters May 13",
-      "duplicateRisk": "Separate from civilian 16; aircraft crew status not derivable",
+      "status": "Indian May11 report recorded five then-deceased military; all five government memorial death dates fall May7-10. Sixth Havildar Sunil Kumar Singh died June6 of earlier wounds.",
+      "duplicateRisk": "Overlaps superseding six-person June6 memorial cumulative; do not sum. NWM nominal list now available, detailed wound and event causes still pending.",
       "confidence": "High that authority stated figure; exact victim list pending"
     },
     {
@@ -4635,6 +5066,27 @@
       "status": "2026 anniversary reporting of district-government data, original signed district casualty register not independently obtained",
       "duplicateRisk": "Geographic/time subset overlaps India-wide May13 shelling death minimum of 16; may be different as-of definitions from other district 18 claims; never add",
       "confidence": "Medium-high that reporter cited figures, completeness remains unverified"
+    },
+    {
+      "id": "CAS-IN-MIL-20250606",
+      "asOf": "2025-06-06",
+      "side": "India",
+      "population": "military",
+      "killed": 6,
+      "injured": null,
+      "sourceIDs": [
+        "S125",
+        "S126",
+        "S127",
+        "S128",
+        "S129",
+        "S130",
+        "S131",
+        "S132"
+      ],
+      "status": "Six officially memorialised OP SINDOOR-associated deaths: five during 7-10 May, sixth died 6 June after receiving injuries in operation. Five Army, one IAF; victim-specific memorial records.",
+      "duplicateRisk": "Supersedes 11 May official subtotal five; do not add six to prior five. Sixth death delayed, not evidence of June6 active India-Pakistan fighting. Aircraft pilot injuries and broader mortality not inferred.",
+      "confidence": "High for identity, casualty dates, operation labels and six count; some mechanisms and original wounding dates unknown"
     }
   ]
 }
