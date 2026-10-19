@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 02",
+    "edition": "Research checkpoint 03",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict."
   },
   "sources": [
     {
@@ -587,6 +587,216 @@
       "url": "https://www.pmindia.gov.in/en/news_updates/pm-addressing-lok-sabha-during-special-discussion-on-operation-sindoor/",
       "review": "Official Prime Minister transcript indexed; relevant portion directly read",
       "note": "PM said India's military informed Pakistan within minutes after objectives had been achieved, distinct from French chief's secondhand characterization of advance warning."
+    },
+    {
+      "id": "S59",
+      "title": "Pakistan launches Operation Bunyan-un-Marsoos, initial contemporary claims",
+      "publisher": "Radio Pakistan",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://www.radio.gov.pk/10-05-2025/pakistan-launches-operation-bunyan-un-marsoos-to-respond-indian-aggression",
+      "review": "Original state broadcaster HTML directly examined",
+      "note": "Reports Pakistan's own initial claims including destroyed Indian facilities and 70% power-grid cyber disruption. Operational effects not verified."
+    },
+    {
+      "id": "S60",
+      "title": "Pakistan launches Bunyan Marsoos, several sites alleged hit",
+      "publisher": "Associated Press of Pakistan",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://www.app.com.pk/national/pakistan-launches-bunyan-marsous-military-operation-against-india-hitting-multiple-strategic-installations/",
+      "review": "Original Pakistani state news article directly examined",
+      "note": "Early Pakistan report named several Indian bases; says PAF spokesman claimed assets remained safe after strikes on Nur Khan, Murid and Shorkot. Early comments are not a damage survey."
+    },
+    {
+      "id": "S61",
+      "title": "Transcript of India's 10 May morning military and diplomatic briefing",
+      "publisher": "India Ministry of External Affairs, reproduced by GlobalSecurity",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/05/mil-250510-india-meab01.htm",
+      "review": "Full bilingual briefing text accessible on documentary mirror and passages checked against Indian consular official translation; source origin Indian MEA, mirror is not independent confirmation",
+      "note": "Indian military acknowledged limited damage to equipment/personnel at Udhampur, Pathankot, Adampur and Bhuj; separately rejected Pakistan claims of destruction. Underlying damage unverified."
+    },
+    {
+      "id": "S62",
+      "title": "India's Foreign Secretary statement, 10 May morning briefing",
+      "publisher": "Embassy of India, Vientiane",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://www.indianembassylaos.gov.in/section-detail.php?id=foreign-secretary-s-statement-special-briefing-on-operation-sindoor-may-10-2025&pageid=speeches-and-interviews",
+      "review": "Original Indian embassy HTML directly read",
+      "note": "Documents Misri's denial that airfields, Adampur S-400 and critical cyber/power systems were destroyed. Only Foreign Secretary portion, not full military transcript."
+    },
+    {
+      "id": "S63",
+      "title": "India DGMO Rajiv Ghai: Pakistan proposed cessation during 15:35 call",
+      "publisher": "DD India",
+      "date": "2025-05-12",
+      "type": "primary",
+      "url": "https://ddindia.co.in/2025/05/pakistan-proposed-ceasefire-violated-it-within-hours-indian-army/",
+      "review": "Indian state broadcaster verbatim on-record remarks directly read",
+      "note": "Ghai says conversation with Pakistani counterpart at 15:35 IST 10 May followed initial hotline request earlier that morning and took effect 17:00 IST. Pakistan's separate account differs about which side asked for cessation."
+    },
+    {
+      "id": "S64",
+      "title": "India and Pakistan agree to cessation after DGMO communications",
+      "publisher": "Akashvani / Prasar Bharati",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://newsonair.gov.in/india-pakistan-agree-to-ceasefire-after-dgmo-level-talks/",
+      "review": "Indian state broadcaster contemporaneous 20:27 IST report read",
+      "note": "Verifies India's public account of DGMO understanding. Does not establish absence of diplomacy or mediation."
+    },
+    {
+      "id": "S65",
+      "title": "DGMOs reaffirm no firing and consider troop reductions",
+      "publisher": "Akashvani / Prasar Bharati",
+      "date": "2025-05-13",
+      "type": "primary",
+      "url": "https://newsonair.gov.in/india-pakistan-hold-dgmo-level-talks-agree-on-no-firing-troop-reduction-measures/",
+      "review": "Indian state broadcaster reproducing Indian Army May 12 statement read",
+      "note": "States talks were held evening May 12 and addressed no firing or hostile action and consideration of troop reduction."
+    },
+    {
+      "id": "S66",
+      "title": "Indian Army says no expiry date for cessation understanding",
+      "publisher": "Akashvani / Prasar Bharati",
+      "date": "2025-05-19",
+      "type": "primary",
+      "url": "https://newsonair.gov.in/indian-army-says-ceasefire-with-pakistan-is-open-ended-does-not-have-expiry-date/",
+      "review": "Indian state broadcaster original report of May 18 army clarification read",
+      "note": "May 19 publication describes Indian Army May 18 position, no expiry, no DGMO talks scheduled May 18."
+    },
+    {
+      "id": "S67",
+      "title": "Pakistan and India ceasefire has no expiry date, officials say",
+      "publisher": "Dawn",
+      "date": "2025-05-19",
+      "type": "independent",
+      "url": "https://www.dawn.com/news/1911867",
+      "review": "Original Pakistan independent press report read",
+      "note": "Pakistani and Indian officials said truce open-ended despite earlier reporting of May 18 expiry. Quotes anonymous Pakistani diplomat; direct agreement not released."
+    },
+    {
+      "id": "S68",
+      "title": "United Nations Charter, Chapter I, Article 2",
+      "publisher": "United Nations",
+      "date": null,
+      "type": "primary",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-1",
+      "review": "Official English treaty provision directly reviewed in web-index text",
+      "note": "Article 2(4) prohibition on threat or use of force. Applies to states without settling 2025 self-defence facts."
+    },
+    {
+      "id": "S69",
+      "title": "United Nations Charter, Chapter VII, Article 51",
+      "publisher": "United Nations",
+      "date": null,
+      "type": "primary",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-7",
+      "review": "Official English treaty provision directly reviewed in web-index text",
+      "note": "Article 51 recognizes self-defence if armed attack occurs and requires report to Security Council. Legal prerequisites contested in 2025."
+    },
+    {
+      "id": "S70",
+      "title": "ICRC Customary International Humanitarian Law Rules 1–24",
+      "publisher": "International Committee of the Red Cross",
+      "date": null,
+      "type": "primary",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1",
+      "review": "Authoritative ICRC reference rule index directly examined",
+      "note": "Distinction rules 1,7,8; proportionality rule 14; feasible precautions and target verification rules 15–21. Legal sources not facts about specific strikes."
+    },
+    {
+      "id": "S71",
+      "title": "ICRC FAQ: Rules of war and civilian protection",
+      "publisher": "International Committee of the Red Cross",
+      "date": null,
+      "type": "primary",
+      "url": "https://www.icrc.org/en/document/FAQ-rules-of-war-ihl?language=en",
+      "review": "Original ICRC explanation directly read",
+      "note": "Clarifies distinction, anticipated incidental harm, precautions and presumption of civilian status in doubt."
+    },
+    {
+      "id": "S72",
+      "title": "ICJ Armed Activities on the Territory of the Congo, 2005 merits judgment",
+      "publisher": "International Court of Justice",
+      "date": "2005-12-19",
+      "type": "primary",
+      "url": "https://www.icj-cij.org/case/116",
+      "review": "ICJ official case-page summary directly reviewed; complete judgment not parsed paragraph-by-paragraph",
+      "note": "Uganda's plea of self-defence rejected on particular case facts. Analogical background only, not a dispositive judgment on 2025 hostilities."
+    },
+    {
+      "id": "S73",
+      "title": "Indian PIB rejects 70% electricity-grid cyberattack claim",
+      "publisher": "Akashvani News, Hindi, quoting PIB Fact Check",
+      "date": "2025-05-10",
+      "type": "primary",
+      "url": "https://newsonair.gov.in/hi/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A5%8B%E0%A4%B6%E0%A4%B2-%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%AD%E0%A4%BE/",
+      "review": "Original government broadcaster Hindi article directly read; English summary manually verified",
+      "note": "Government fact-check denies a nationwide 70% grid disruption, but official denial alone cannot prove no smaller cyber incident occurred."
+    },
+    {
+      "id": "S74",
+      "title": "India denies Pakistan's S-400 destruction claim, AP contemporaneous live report",
+      "publisher": "Associated Press",
+      "date": "2025-05-10",
+      "type": "independent",
+      "url": "https://apnews.com/article/1e25123fb9b13be4accc9cac0fe670d3",
+      "review": "Associated Press contemporaneous dispatch search excerpts read; live-updates page contains multiple items of varying times",
+      "note": "AP on-record Indian Air Force denial and explicit inability independently to validate Pakistan's S-400 claim."
+    },
+    {
+      "id": "S75",
+      "title": "Pakistan's formal conflict narrative Marka-e-Haq, 22 April–10 May",
+      "publisher": "Associated Press of Pakistan, quoting ISPR",
+      "date": "2025-05-12",
+      "type": "primary",
+      "url": "https://www.app.com.pk/national/victorious-pakistan-names-19-day-military-conflict-with-india-marka-e-haq/",
+      "review": "Original Pakistani state news report read",
+      "note": "ISPR's 19-day label incorporates April 22 attack into crisis framing, not evidence 19 days of continuous military combat. Bunyan-ul-Marsoos was announced May 10."
+    },
+    {
+      "id": "S76",
+      "title": "India, Pakistan military officials discuss next steps after ceasefire",
+      "publisher": "Reuters",
+      "date": "2025-05-12",
+      "type": "independent",
+      "url": "https://www.reuters.com/world/asia-pacific/military-officials-india-pakistan-discuss-next-steps-india-says-ceasefire-holds-2025-05-12/",
+      "review": "Original contemporary Reuters dispatch synopsis reviewed",
+      "note": "Reports DGMO follow-up, de-escalation and official accounts. Reuters is a reporter, not a party to hotline."
+    },
+    {
+      "id": "S77",
+      "title": "India–Pakistan ceasefire remains shaky",
+      "publisher": "Chatham House",
+      "date": "2025-05-13",
+      "type": "independent",
+      "url": "https://www.chathamhouse.org/2025/05/india-pakistan-ceasefire-remains-shaky-relations-unlikely-return-status-quo",
+      "review": "Original named author policy commentary directly read",
+      "note": "Differentiates announced US role, Pakistan acknowledgment of several countries, India bilateral narrative. Analysis not direct participant testimony."
+    },
+    {
+      "id": "S78",
+      "title": "Vikram Misri's full statement on reported ceasefire breaches",
+      "publisher": "NDTV, quoting Foreign Secretary",
+      "date": "2025-05-10",
+      "type": "independent",
+      "url": "https://www.ndtv.com/india-news/pakistan-ceasefire-violationnews-live-updates-read-indias-full-statement-on-ceasefire-violations-by-pakistan-8382562/amp/1",
+      "review": "Contemporaneous 23:34 IST published text of Indian official statement directly read",
+      "note": "India alleges Pakistan breached agreement hours after start; source verifies accusation and dated reporting, not perpetrator attribution."
+    },
+    {
+      "id": "S79",
+      "title": "India's official retrospective note claiming 20 percent Pakistani air force infrastructure destroyed",
+      "publisher": "India Press Information Bureau",
+      "date": "2025-05-14",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=154451&lang=2&reg=48",
+      "review": "Official retrospective press note indexed and relevant claim read; exact publication date should be rechecked against page metadata",
+      "note": "Claim of almost 20% PAF infrastructure destroyed lacks a published consistent denominator or independent damage inventory in this evidence pass."
     }
   ],
   "timeline": [
@@ -776,6 +986,56 @@
       "class": "contested"
     },
     {
+      "id": "T40",
+      "date": "2025-05-10",
+      "time": "morning, unspecified",
+      "headline": "Pakistani and Indian accounts diverge on attack effects",
+      "detail": "Pakistan state broadcaster claims several Indian bases destroyed and 70% power grid disrupted; India's morning briefing acknowledges limited harm at four IAF stations but denies destruction of S-400 and multiple bases.",
+      "sources": [
+        "S59",
+        "S61",
+        "S62"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T41",
+      "date": "2025-05-10",
+      "time": "15:35 IST / 15:05 PKT / 10:05 UTC",
+      "headline": "Documented DGMO phone conversation",
+      "detail": "Indian Foreign Secretary and DGMO later attribute the contact to the Pakistani DGMO; initiating a call does not settle earlier mediation or who first requested cessation.",
+      "sources": [
+        "S63",
+        "S64"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T42",
+      "date": "2025-05-10",
+      "time": "17:00 IST / 16:30 PKT / 11:30 UTC",
+      "headline": "Stated cessation effective time",
+      "detail": "Both sides agreed to stop land, air and sea military action; subsequent incidents were reported.",
+      "sources": [
+        "S64",
+        "S08",
+        "S49"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T43",
+      "date": "2025-05-10",
+      "time": "23:34 IST (report publication)",
+      "headline": "India alleges evening ceasefire breaches",
+      "detail": "Foreign Secretary cites repeat violations after the understanding. The timestamp belongs to published news; each alleged incident time/responsibility must be verified.",
+      "sources": [
+        "S78",
+        "S49"
+      ],
+      "class": "official"
+    },
+    {
       "id": "T27",
       "date": "2025-05-11",
       "time": "Indian joint briefing",
@@ -794,6 +1054,29 @@
       "detail": "Pakistan's DG ISPR says 26 Indian military targets engaged and claims cyber effects, without independent individual-hit documentation in the release.",
       "sources": [
         "S50"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T44",
+      "date": "2025-05-12",
+      "time": "evening, exact minute unverified",
+      "headline": "DGMOs discuss maintenance of cessation",
+      "detail": "India says the DGMOs discussed not firing or undertaking inimical action, and considering immediate troop-reduction measures.",
+      "sources": [
+        "S65",
+        "S76"
+      ],
+      "class": "official"
+    },
+    {
+      "id": "T46",
+      "date": "2025-05-12",
+      "time": "ISPR announcement",
+      "headline": "Pakistan calls broader crisis Marka-e-Haq",
+      "detail": "Pakistan assigns 22 April–10 May to overall nineteen-day crisis and reserves Operation Bunyan-ul-Marsoos for May 10 counteroperation; not nineteen days of military battles.",
+      "sources": [
+        "S75"
       ],
       "class": "official"
     },
@@ -842,6 +1125,18 @@
         "S40"
       ],
       "class": "contested"
+    },
+    {
+      "id": "T45",
+      "date": "2025-05-18",
+      "time": "official clarification",
+      "headline": "Indian Army says cessation has no expiry date",
+      "detail": "Correction addresses reports of automatic May 18 lapse. Pakistani reporting next day also states arrangement open-ended.",
+      "sources": [
+        "S66",
+        "S67"
+      ],
+      "class": "official"
     },
     {
       "id": "T12",
@@ -1687,6 +1982,221 @@
         "S52",
         "S43"
       ]
+    },
+    {
+      "id": "C55",
+      "topic": "Pakistan response",
+      "claim": "Pakistan's DG ISPR publicly stated that Operation Bunyan-ul-Marsoos engaged 26 Indian targets.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Verified as Pakistan's 11–12 May announcement, not as an inventory of successful physical hits.",
+      "sources": [
+        "S50",
+        "S59",
+        "S75"
+      ]
+    },
+    {
+      "id": "C56",
+      "topic": "Pakistan response",
+      "claim": "Pakistan successfully destroyed or severely damaged all 26 claimed Indian targets.",
+      "finding": "Unsupported",
+      "confidence": "Medium",
+      "assessment": "Published independent Stimson imagery assessment saw almost no significant observable Indian facility damage; India reported limited damage at four sites. Absence of observable damage does not prove every missile failed.",
+      "sources": [
+        "S50",
+        "S51",
+        "S61"
+      ]
+    },
+    {
+      "id": "C57",
+      "topic": "India military damage",
+      "claim": "India's 10 May morning briefing acknowledged limited personnel/equipment damage at Udhampur, Pathankot, Adampur and Bhuj.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Original Indian military briefing text preserved in mirror; extent and cause not independently audited. Distinct from claims these bases were destroyed.",
+      "sources": [
+        "S61",
+        "S51"
+      ]
+    },
+    {
+      "id": "C58",
+      "topic": "Pakistan response",
+      "claim": "An Indian S-400 system at Adampur was destroyed in Pakistan's strikes.",
+      "finding": "Unsupported",
+      "confidence": "Medium",
+      "assessment": "Pakistani claim and categorical Indian Air Force denial documented. Neither public missile-to-target forensic record nor independently authenticated destruction has been provided; equipment displayed afterward is limited counterevidence, not a unit-wide readiness audit.",
+      "sources": [
+        "S59",
+        "S62",
+        "S74"
+      ]
+    },
+    {
+      "id": "C59",
+      "topic": "Cyber",
+      "claim": "Pakistan incapacitated 70 percent of India's electricity grid by cyberattack on 10 May.",
+      "finding": "Unsupported",
+      "confidence": "High",
+      "assessment": "Pakistan's state broadcaster repeated the precise large-impact claim. India's PIB immediately refuted it; no corroborating national outage or grid-system forensic evidence has been found. Smaller cyberattacks remain a separate question.",
+      "sources": [
+        "S59",
+        "S73",
+        "S62"
+      ]
+    },
+    {
+      "id": "C60",
+      "topic": "Ceasefire",
+      "claim": "Pakistan's DGMO communicated with India's DGMO at 15:35 IST on 10 May.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "India's diplomatic and DGMO public accounts give exact time. The raw call recording/transcript has not been released; this does not determine which state first sought cessation.",
+      "sources": [
+        "S63",
+        "S64",
+        "S09"
+      ]
+    },
+    {
+      "id": "C61",
+      "topic": "Ceasefire",
+      "claim": "The May 10 understanding provided cessation effective at 17:00 IST, including land, air and sea military action.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Indian official announcement and both states' acknowledgment support the effective time. Post-effect incidents are a separate issue.",
+      "sources": [
+        "S64",
+        "S08",
+        "S09"
+      ]
+    },
+    {
+      "id": "C62",
+      "topic": "Ceasefire",
+      "claim": "The cessation understanding expired automatically on 18 May 2025.",
+      "finding": "Contradicted by evidence",
+      "confidence": "High",
+      "assessment": "The Indian Army publicly clarified no expiry date; contemporaneous Pakistani reporting also says arrangement open-ended. An earlier reported May 18 extension led to confusion.",
+      "sources": [
+        "S66",
+        "S67"
+      ]
+    },
+    {
+      "id": "C63",
+      "topic": "Pakistan framing",
+      "claim": "Pakistan officially used Marka-e-Haq for the 22 April–10 May crisis and Bunyan-ul-Marsoos for its 10 May operation.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "ISPR account reproduced by state news agency. 19-day overarching crisis label is not evidence of 19 continuous days of direct military fighting.",
+      "sources": [
+        "S75",
+        "S59",
+        "S50"
+      ]
+    },
+    {
+      "id": "C64",
+      "topic": "Military effects",
+      "claim": "India's retrospective statement that nearly 20 percent of Pakistan's air force infrastructure was destroyed is independently quantified.",
+      "finding": "Unsupported",
+      "confidence": "Low",
+      "assessment": "PIB retrospective assertion lacks a defined denominator, destruction threshold or independently released facility dataset. Independently supported structural damage at six airfields does not equal 20 percent of PAF infrastructure.",
+      "sources": [
+        "S79",
+        "S39",
+        "S51"
+      ]
+    },
+    {
+      "id": "C65",
+      "topic": "Pakistan response",
+      "claim": "Pakistan used Fatah-I and Fatah-II missiles during its May operations.",
+      "finding": "Supported but not fully established",
+      "confidence": "Medium",
+      "assessment": "Pakistani military officially reported their use and contemporary videos show launches attributed to Pakistan. Original debris and weapon-to-impact chain not independently authenticated by this project.",
+      "sources": [
+        "S50",
+        "S51"
+      ]
+    },
+    {
+      "id": "C66",
+      "topic": "International law",
+      "claim": "An Article 51 invocation alone proves that every strike was lawful.",
+      "finding": "Contradicted by evidence",
+      "confidence": "High",
+      "assessment": "Article 51 claims require factual and legal assessment of armed attack, necessity and proportionality. Separately, individual attacks remain subject to IHL. Both governments invoking self-defence does not resolve disputes.",
+      "sources": [
+        "S68",
+        "S69",
+        "S70",
+        "S71"
+      ]
+    },
+    {
+      "id": "C67",
+      "topic": "Pakistan legal position",
+      "claim": "Pakistan expressly invoked Article 51 for Operation Bunyan-ul-Marsoos on 10 May.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Pakistan official government release states its legal justification. Whether resort to force met applicable legal thresholds remains unresolved.",
+      "sources": [
+        "S08",
+        "S65"
+      ]
+    },
+    {
+      "id": "C68",
+      "topic": "Information warfare",
+      "claim": "No public indication exists of any Indian military damage from Pakistan's 10 May operations.",
+      "finding": "Misleading",
+      "confidence": "High",
+      "assessment": "India itself acknowledged limited equipment/personnel damage at four installations while disputing sweeping Pakistani claims. Not every effect is satellite visible.",
+      "sources": [
+        "S61",
+        "S51"
+      ]
+    },
+    {
+      "id": "C69",
+      "topic": "Diplomacy",
+      "claim": "The 12 May DGMO follow-up addressed a mutual commitment to avoid renewed military action and consider force reductions.",
+      "finding": "Verified",
+      "confidence": "High",
+      "assessment": "Indian Army's dated public account reproduced by Akashvani; actual completed troop withdrawals are not established merely by agreement to consider them.",
+      "sources": [
+        "S65",
+        "S76"
+      ]
+    },
+    {
+      "id": "C70",
+      "topic": "IHL",
+      "claim": "A building may lawfully be targeted solely because an alleged militant organization historically used an adjacent compound.",
+      "finding": "Contradicted by evidence",
+      "confidence": "High",
+      "assessment": "ICRC customary law requires verification that the specific object makes an effective military contribution and its attack yields definite military advantage; proximity alone is insufficient.",
+      "sources": [
+        "S70",
+        "S71"
+      ]
+    },
+    {
+      "id": "C71",
+      "topic": "Ceasefire",
+      "claim": "The Pakistani DGMO initiated the 10 May hotline contact, so Pakistan must have been the first to propose any cessation.",
+      "finding": "Misleading",
+      "confidence": "High",
+      "assessment": "Initiating the decisive recorded call is not evidence that no earlier political/military ceasefire overture occurred. Pakistani and Indian narratives on who requested cessation remain contested.",
+      "sources": [
+        "S63",
+        "S64",
+        "S50"
+      ]
     }
   ],
   "targets": [
@@ -2026,6 +2536,85 @@
         "S52",
         "S43"
       ]
+    },
+    {
+      "id": "X19",
+      "title": "Pakistan's 26 major target-damage claims versus Indian limited-damage acknowledgment",
+      "sideA": "Pakistan's 11 May DG ISPR briefing claimed 26 targets engaged and major damage to many installations.",
+      "sideB": "India's 10 May original briefing acknowledged limited equipment and personnel damage at four airbases while rejecting claims of broad destruction; independent Stimson study found little observable damage.",
+      "status": "Partially resolved",
+      "required": "Independently inspect dated imagery and damage claims by facility, separating attempted strikes, acknowledged limited effects and confirmed structural hits.",
+      "sources": [
+        "S50",
+        "S61",
+        "S51"
+      ]
+    },
+    {
+      "id": "X20",
+      "title": "Seventy percent grid cyber outage assertion versus absence of corroboration",
+      "sideA": "Pakistan state media on 10 May repeated a claim of 70% of India's electricity grid incapacitated.",
+      "sideB": "Indian PIB fact-check refuted the nationwide claim; no independent national power-grid outage record or technical incident report has been located.",
+      "status": "Unsupported high-magnitude claim",
+      "required": "Locate independent grid-controller statistics and CERT-In alerts for incident window; distinguish distributed denial-of-service, site defacement, local outages and national grid failure.",
+      "sources": [
+        "S59",
+        "S73",
+        "S62"
+      ]
+    },
+    {
+      "id": "X21",
+      "title": "Adampur S-400 claimed destroyed versus denial",
+      "sideA": "Pakistani accounts alleged an Indian S-400 missile system was destroyed.",
+      "sideB": "India's foreign secretary and IAF denied destruction; no authenticated wreckage published. May 13 official imagery showed air-defence equipment, but that is not whole-system inspection.",
+      "status": "Unverified destruction, conflicting official claims",
+      "required": "Determine whether any unique equipment can be matched to source imagery. Avoid publishing current deployment, operating procedures or exact system location.",
+      "sources": [
+        "S59",
+        "S62",
+        "S74"
+      ]
+    },
+    {
+      "id": "X22",
+      "title": "May 18 cessation deadline rumor versus open-ended understanding",
+      "sideA": "Some May reporting described a renewed cessation arrangement ending May 18 after Pakistani parliamentary statements.",
+      "sideB": "Indian Army on May 18 said no expiry; Dawn on May 19 cited officials from both sides as saying open-ended.",
+      "status": "Resolved as to public no-expiry position",
+      "required": "Obtain original Pakistani Senate text and DGMO follow-up if legally relevant; do not call open-ended pause a permanent peace treaty.",
+      "sources": [
+        "S66",
+        "S67"
+      ]
+    },
+    {
+      "id": "X23",
+      "title": "Competing Article 51 and cross-border self-defence justifications",
+      "sideA": "India states Pahalgam and threatened further attacks justified limited force against alleged cross-border non-state infrastructure.",
+      "sideB": "Pakistan rejected proof of state support for Pahalgam and expressly asserted self-defence against Indian territorial strikes under Article 51.",
+      "status": "Legal finding pending primary-fact review",
+      "required": "Analyze armed attack threshold, non-state attribution and disputed unable-or-unwilling rule, necessity, proportionality, ICJ practice and time-of-decision evidence for each separate phase.",
+      "sources": [
+        "S04",
+        "S08",
+        "S68",
+        "S69",
+        "S72"
+      ]
+    },
+    {
+      "id": "X24",
+      "title": "Claims of large-scale PAF infrastructure destruction versus measurable historic damage",
+      "sideA": "Indian PIB retrospective material asserted almost 20% of Pakistani air force infrastructure was destroyed.",
+      "sideB": "Published commercial imagery investigations supported physical changes across six airfields but do not provide a denominator or prove fleet-wide operational disabling.",
+      "status": "Unsupported percentage",
+      "required": "Define facility inventory and damage denominator, distinguish hits from full facility destruction and find comparable independently documented operational output.",
+      "sources": [
+        "S79",
+        "S39",
+        "S51"
+      ]
     }
   ],
   "openQuestions": [
@@ -2178,6 +2767,48 @@
       "priority": "high",
       "question": "How can India's parliamentary statement of no soldier casualties 'during the operation' be reconciled with India's own reporting of five military deaths during the wider hostilities?",
       "next": "Read complete unedited parliamentary and military briefings; determine the dates, branch, circumstances and operation-scope treatment of each fatality."
+    },
+    {
+      "id": "Q26",
+      "priority": "high",
+      "question": "Of Pakistan's 26 claimed Indian targets, which have independently observed physical damage and which were merely engaged?",
+      "next": "Create non-operational historic location-level result records and compare May 10 official admissions with independent source images."
+    },
+    {
+      "id": "Q27",
+      "priority": "high",
+      "question": "Can independently dated grid dispatch and utility data corroborate or exclude the extraordinary 70% electricity outage claim?",
+      "next": "Find original May 9–10 GRID-INDIA archived operations summaries and national outage reports; do not infer no smaller intrusion."
+    },
+    {
+      "id": "Q28",
+      "priority": "high",
+      "question": "What was the content and provenance of the 15:35 IST DGMO call and any earlier cessation overtures?",
+      "next": "Seek complete public military/diplomatic records, timestamped statements and third-country correspondence, distinguishing initiating a call from making first offer."
+    },
+    {
+      "id": "Q29",
+      "priority": "high",
+      "question": "Did either government's Article 51 justification meet applicable self-defence requirements on the evidence available when force was ordered?",
+      "next": "Obtain original UN submissions, targeted-object evidence, contemporaneous threat assessments and expert juristic arguments for each separate force episode."
+    },
+    {
+      "id": "Q30",
+      "priority": "high",
+      "question": "For each allegedly terror-linked building hit 7 May, what specific effective military use and civilian presence are supported?",
+      "next": "Document dated facility ownership/function and lawful imagery, then assess civilian warnings and precautions under ICRC customary standards."
+    },
+    {
+      "id": "Q31",
+      "priority": "medium",
+      "question": "Why did reports suggest the cessation was due to expire 18 May and how was this publicly corrected?",
+      "next": "Compare Pakistani Senate remarks and Indian Army May 18 clarification against May 12 and May 14 military conversations."
+    },
+    {
+      "id": "Q32",
+      "priority": "high",
+      "question": "What underlying measure produced India's retrospective assertion that 20 percent of PAF infrastructure was destroyed?",
+      "next": "Seek original denominator, definitions of damaged/destroyed, independently verified facility-level changes and recovery times."
     }
   ],
   "casualties": [
