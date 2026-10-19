@@ -2,12 +2,13 @@
 
 An independently researched public-record investigation of the **Pahalgam attack of 22 April 2025**, **India–Pakistan hostilities of 7–10 May 2025**, subsequent investigations, competing official claims and long-term consequences.
 
-**Current edition:** Research checkpoint 06, evidence cutoff **19 October 2026**. This is **not a completed investigation**, and no continuous monitoring has been configured.
+**Current edition:** Research checkpoint 07, evidence cutoff **19 October 2026**. This is **not a completed investigation**, and no continuous monitoring has been configured.
 
 ## Read the investigation
 
 - [Editorial website](https://ashish-bhatia.github.io/Operation-Sindoor/) (available when GitHub Pages is enabled for `main`/`/`).
-- [Latest findings, checkpoint 06](research/checkpoint-06.md).
+- [Latest findings, checkpoint 07](research/checkpoint-07.md).
+- [Previous checkpoint 06](research/checkpoint-06.md).
 - [Previous checkpoint 05](research/checkpoint-05.md).
 - [Previous checkpoint 04](research/checkpoint-04.md).
 - [Previous checkpoint 03](research/checkpoint-03.md).
@@ -23,7 +24,7 @@ An independently researched public-record investigation of the **Pahalgam attack
 - [Machine-readable evidence and claims register](data/research.json).
 - [Raw editorial web application](index.html).
 
-## Evidence-led findings, checkpoints 02–06
+## Evidence-led findings, checkpoints 02–07
 
 - The 22 April Pahalgam attack killed 26 people, as recorded by the [UN Security Council](https://press.un.org/en/2025/sc16050.doc.htm).
 - India's [first contemporaneous release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2127370), timestamped 7 May at 01:44 IST, reported nine targeted sites and no Pakistani military facilities targeted in the opening action. This is verification of the **release**, not all its operational claims.
@@ -47,6 +48,10 @@ An independently researched public-record investigation of the **Pahalgam attack
 - Original UN letters [S/2025/289](https://digitallibrary.un.org/record/4081956/files/S_2025_289-EN.pdf) and [S/2025/290](https://digitallibrary.un.org/record/4082002/files/S_2025_290-EN.pdf) document Pakistan's **Article 51 assertions** as early as 6–7 May; [S/2025/308](https://digitallibrary.un.org/record/4082687/files/S_2025_308-EN.pdf) reports the completed counteroperation. **Notification is not a legal verdict or independent proof of shootdowns.**
 - [Pakistan's 13 May UN letter](https://digitallibrary.un.org/record/4082311/files/S_2025_305-EN.pdf) credits several friendly countries with sending de-escalation messages, while [India's official 4 December parliamentary answer](https://sansad.in/getFile/annex/269/AU554_Fdrh9b.pdf?source=pqars) states the cessation understanding was arrived at directly between DGMOs. The statements describe distinct possible stages.
 - Independent UN Special Procedures experts sent [AL IND 10/2025](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30361) and [AL PAK 10/2025](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30432), raising concerns about **both states' strike conduct**; a separate [AL IND 8/2025](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30287) recites **unverified allegations** about post-Pahalgam arrests. They are requests for explanations, **not judicial findings**.
+- India's [9 June 2025 Ministry of Home Affairs release](https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2135226&lang=2&reg=48) reported **325,000 evacuated**, approximately **15,000 in designated shelters**, and additional **₹25 crore compensation for 2,060 damaged houses**. These are official stated totals, not validated disbursements or fatality counts.
+- A [May 2026 Uri follow-up](https://www.newindianexpress.com/nation/2026/May/08/operation-sindoor-uri-survivors-still-struggle-to-rebuild-lives) documented some homes still unreconstructed and compensation hardship. Local damaged-house counts are potentially a subset of the ministry figures.
+- [Pakistan's UN S/2025/315](https://digitallibrary.un.org/record/4082947/files/S_2025_315-EN.pdf) disputed a **Golden Temple target-intention allegation** and **Shaheen missile use**; [S/2025/494](https://digitallibrary.un.org/record/4086444/files/S_2025_494-EN.pdf) formally transmitted Pakistan's July rebuttal of India's Operation Sindoor/Mahadev assertions. UN distribution verifies the statements, not their correctness.
+- India's [May 2026 national mobile cell-broadcast launch](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2257499&lang=2&reg=3) is a separate milestone from [October 2026 prototype tests of remotely activated physical air-raid sirens](https://indianexpress.com/article/india/air-raid-sirens-back-after-operation-sindoor-10922127/). Nationwide siren rollout remains unverified.
 
 ## How to use the website
 
@@ -60,7 +65,7 @@ If GitHub Pages is not enabled, go to **Settings → Pages → Build and deploym
 
 ## Data standard
 
-Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains a 61-event chronology, 97 assessed claims, nine initial target-site records, 34 contradictions, 46 open questions, four dated cumulative casualty records and 101 source entries. Source URL repetitions are flagged and not counted as independent corroboration. It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
+Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains a 69-event chronology, 107 assessed claims, nine initial target-site records, 38 contradictions, 52 open questions, four dated cumulative casualty records and 112 source entries. Source URL repetitions are flagged and not counted as independent corroboration. It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
 
 Do not equate:
 - an official statement with independent confirmation of its substance,
@@ -79,6 +84,6 @@ Every substantive change should cite original evidence, identify the prior state
 
 This edition has **not** retrieved and independently reviewed complete NIA filed exhibits, confidential intelligence, original licensed imagery, comprehensive medical/casualty records, every military-briefing recording or the latest signed court orders. Comprehensive historical, treaty/legal, humanitarian and economic reconciliation remains incomplete.
 
-Checkpoint 06 adds formally circulated Article 51 claims, UN-documented ceasefire positions, symmetric OHCHR communications and India's parliamentary answer. Checkpoint 05 clarifies UN/NIA source cutoff dates, a disavowed military identity dossier, a separate LeT case, original UN letter identifiers and the narrow Ratle order. Checkpoint 04 adds French parliamentary records, Rafale procurement inference checks, 2026 airfield imagery, an UN/NIA attacker-count discrepancy and the August treaty-award dispute. The earlier October 2026 revision distinguishes combat effects from claims, no-expiry cessation terms and disputed legal justifications. An earlier revision compares the 7 May opening objectives and 8 May escalation claims with the July parliamentary account. It also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
+Checkpoint 07 records the MHA evacuation and housing-relief baseline, May 2026 Uri reconstruction gaps, UN-filed targeting denials and tested versus operational civil-defence systems. Checkpoint 06 adds formally circulated Article 51 claims, UN-documented ceasefire positions, symmetric OHCHR communications and India's parliamentary answer. Checkpoint 05 clarifies UN/NIA source cutoff dates, a disavowed military identity dossier, a separate LeT case, original UN letter identifiers and the narrow Ratle order. Checkpoint 04 adds French parliamentary records, Rafale procurement inference checks, 2026 airfield imagery, an UN/NIA attacker-count discrepancy and the August treaty-award dispute. The earlier October 2026 revision distinguishes combat effects from claims, no-expiry cessation terms and disputed legal justifications. An earlier revision compares the 7 May opening objectives and 8 May escalation claims with the July parliamentary account. It also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
 
 The repository is independent and not affiliated with either government, armed forces, any media organization or OpenAI.
