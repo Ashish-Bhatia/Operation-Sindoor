@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 04",
+    "edition": "Research checkpoint 05",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected."
   },
   "sources": [
     {
@@ -847,6 +847,86 @@
       "url": "https://www.ecoi.net/en/file/local/2127961/n2517600.pdf",
       "review": "Official UN document read via documentary mirror, paragraph 84 verified",
       "note": "Says five attackers; records April 22 and 23 TRF claims and April 26 retraction; different member-state views on LeT relation."
+    },
+    {
+      "id": "S85",
+      "title": "NIA 23 June 2025 clarification on three armed attackers and open identification",
+      "publisher": "National Investigation Agency, India",
+      "date": "2025-06-23",
+      "type": "primary",
+      "url": "https://nia.gov.in/secure-pdf/view/16d734c7c2a86d857989aadd0f2d3cba",
+      "review": "Full official release text indexed via search; direct PDF web opening timed out",
+      "note": "Identities described as three armed terrorists; statement explicitly warns speculation and says final conclusions not reached on that date."
+    },
+    {
+      "id": "S86",
+      "title": "MOD disavows online Services-attributed Pahalgam attacker identity dossier",
+      "publisher": "India Press Information Bureau, Ministry of Defence",
+      "date": "2025-08-04",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2152335&lang=2&reg=3",
+      "review": "Original PIB release directly read",
+      "note": "Indian armed forces did not author/issue circulated identity report; does not affect NIA case."
+    },
+    {
+      "id": "S87",
+      "title": "NIA October 2026 Srinagar LeT property attachment in different case RC-02/2026/NIA/JMU",
+      "publisher": "National Investigation Agency, India",
+      "date": "2026-10-12",
+      "type": "primary",
+      "url": "https://nia.gov.in/nia-attaches-property-used-harbour-pakistani-let-terrorists-srinagar",
+      "review": "Original official release page metadata plus contemporaneous direct official-quote reporting; document PDF not directly downloaded",
+      "note": "Separate RC-02/2026/NIA/JMU, not 2025 Pahalgam RC-02/2025/NIA/JMU; do not treat as Pahalgam case development."
+    },
+    {
+      "id": "S88",
+      "title": "Indus Waters Western Rivers Arbitration award on status, reproduced full-text",
+      "publisher": "Permanent Court of Arbitration award, reproduced by Jus Mundi",
+      "date": "2026-08-31",
+      "type": "primary",
+      "url": "https://jusmundi.com/en/document/decision/en-indus-waters-western-rivers-arbitration-pakistan-v-india-award-on-the-status-of-the-indus-waters-treaty-in-respect-of-india-s-decision-on-abeyance-monday-31st-august-2026",
+      "review": "Search-indexed published operative text and paragraphs checked, original signed PDF not downloaded",
+      "note": "Paragraphs 262, 290, 326–327; does not decide terrorist culpability; 'no current armed conflict' acknowledges 2025 four-day combat."
+    },
+    {
+      "id": "S89",
+      "title": "31 August 2026 Ratle interim-measures order, reproduced operative text",
+      "publisher": "Permanent Court of Arbitration order, reproduced by Jus Mundi",
+      "date": "2026-08-31",
+      "type": "primary",
+      "url": "https://jusmundi.com/en/document/decision/en-indus-waters-western-rivers-arbitration-pakistan-v-india-order-on-the-interim-measures-application-of-pakistan-dated-4-march-2026-monday-31st-august-2026",
+      "review": "Published indexed operative paragraphs 286–287 reviewed; signed PDF not downloaded",
+      "note": "Limited specified construction restrictions, not blanket prohibition of all Ratle work; India rejects tribunal jurisdiction."
+    },
+    {
+      "id": "S90",
+      "title": "Pakistan letter to UNSC S/2025/289, 6 May 2025",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-05-06",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4081956?ln=en",
+      "review": "Official UN record metadata read; full letter PDF inaccessible",
+      "note": "Concerns alleged May 6–7 strikes. Article 51 notification wording not confirmed from letter text."
+    },
+    {
+      "id": "S91",
+      "title": "Pakistan letter to UNSC S/2025/290, 7 May 2025",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-05-07",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4082002?ln=en",
+      "review": "Official UN record metadata read; full letter PDF inaccessible",
+      "note": "Transmits press release regarding May strikes; no unsupported assertion of formal Article 51 letter."
+    },
+    {
+      "id": "S92",
+      "title": "Pakistan letter to UNSC S/2025/299, 8 May 2025",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-05-08",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4082024?ln=en",
+      "review": "Official UN record metadata read; full letter PDF inaccessible",
+      "note": "Transmits MOFA rebuttal of Indian media statements, not proven to be notification under Article 51."
     }
   ],
   "timeline": [
@@ -1200,6 +1280,17 @@
       "class": "established"
     },
     {
+      "id": "T51",
+      "date": "2025-06-23",
+      "time": "NIA press note",
+      "headline": "NIA clarifies alleged three Pahalgam gunmen; identification unfinished",
+      "detail": "NIA cites evidence categories and identifies three armed attackers via arrested individuals while expressly warning against premature conclusions from circulating sketches.",
+      "sources": [
+        "S85"
+      ],
+      "class": "established"
+    },
+    {
       "id": "T19",
       "date": "2025-06-27",
       "time": "PCA docket publication",
@@ -1288,6 +1379,17 @@
         "S40"
       ],
       "class": "official"
+    },
+    {
+      "id": "T52",
+      "date": "2025-08-04",
+      "time": "MOD public release",
+      "headline": "Indian military disavows purported attacker identification dossier",
+      "detail": "Ministry of Defence says no authorized Indian Armed Forces media channel prepared or issued the circulating report.",
+      "sources": [
+        "S86"
+      ],
+      "class": "established"
     },
     {
       "id": "T38",
@@ -2375,11 +2477,12 @@
       "claim": "UN monitoring report S/2025/482 stated five Pahalgam attackers, whereas subsequent NIA case materials described three principal gunmen.",
       "finding": "Source-level discrepancy verified; underlying count unresolved",
       "confidence": "High on attribution, low on exact perpetrator count",
-      "assessment": "UN paragraph 84 says five terrorists; NIA allegations concern three identified alleged gunmen. Definitions, evidence cutoffs and potential facilitators must be reconciled. Do not treat discrepancy itself as proof of either investigation's bad faith.",
+      "assessment": "UN S/2025/482 paragraph 84 says five attackers, based on information received through 22 June 2025 (letter page 2). The NIA said three armed attackers on 23 June 2025 while cautioning identification work remained incomplete. This is a dated source/count difference, not evidence UN considered and rejected the later NIA statement. Filed evidentiary exhibits are missing.",
       "sources": [
         "S84",
         "S41",
-        "S42"
+        "S42",
+        "S85"
       ]
     },
     {
@@ -2391,6 +2494,105 @@
       "assessment": "Paragraph 84 explicitly records those communications; underlying first-post archives remain to be independently authenticated. UN report also distinguishes differing member-state views of LeT linkage.",
       "sources": [
         "S84"
+      ]
+    },
+    {
+      "id": "C80",
+      "topic": "Pahalgam",
+      "claim": "The UN report issued 24 July 2025 incorporated the NIA's three-gunman clarification of 23 June 2025.",
+      "finding": "Not established; publication date differs from information cutoff",
+      "confidence": "High",
+      "assessment": "UN S/2025/482 page 2 limits substantive information to 22 June 2025; its paragraph 84 says five, while NIA publicly said three on 23 June. Later UN publication alone cannot establish it reviewed the NIA evidence.",
+      "sources": [
+        "S84",
+        "S85"
+      ]
+    },
+    {
+      "id": "C81",
+      "topic": "Pahalgam",
+      "claim": "The NIA itself had conclusively identified all three gunmen as of 23 June 2025.",
+      "finding": "Contradicted by contemporaneous qualification",
+      "confidence": "High",
+      "assessment": "NIA cited arrested persons, eyewitness, video, technical and police sketch evidence but expressly said identities remained under analysis. Its December chargesheet later named three.",
+      "sources": [
+        "S85",
+        "S41"
+      ]
+    },
+    {
+      "id": "C82",
+      "topic": "Pahalgam",
+      "claim": "The Armed Forces authored a widely circulated Pahalgam attacker-background report.",
+      "finding": "Disavowed by issuing authority",
+      "confidence": "High",
+      "assessment": "MOD 4 August 2025 denied any authorised Services media channel had issued the report. Do not conflate this with later NIA documents.",
+      "sources": [
+        "S86",
+        "S41"
+      ]
+    },
+    {
+      "id": "C83",
+      "topic": "Case attribution",
+      "claim": "NIA's October 2026 Srinagar LeT property attachment belongs to the Pahalgam April 2025 attack case.",
+      "finding": "False case identification",
+      "confidence": "High",
+      "assessment": "2026 attachment is RC-02/2026/NIA/JMU; Pahalgam prosecution is RC-02/2025/NIA/JMU. No official publicly reviewed link establishes equivalence.",
+      "sources": [
+        "S87",
+        "S41"
+      ]
+    },
+    {
+      "id": "C84",
+      "topic": "Indus Waters Treaty",
+      "claim": "The 31 August 2026 arbitral award decided that Pakistan ordered the Pahalgam attack.",
+      "finding": "Contradicted by award's express scope",
+      "confidence": "High",
+      "assessment": "Paragraph 262 states the tribunal did not need to determine whether alleged attacks were committed or attributable to Pakistan when deciding treaty suspension. It took no final stance on criminal/state responsibility for Pahalgam.",
+      "sources": [
+        "S88",
+        "S27",
+        "S28"
+      ]
+    },
+    {
+      "id": "C85",
+      "topic": "Indus Waters Treaty",
+      "claim": "The 31 August 2026 award denied that any India-Pakistan armed conflict occurred in May 2025.",
+      "finding": "Misleading",
+      "confidence": "High",
+      "assessment": "Paragraph 290 expressly recognises four days of air combat and missile strikes in May 2025, but says no ongoing international armed conflict existed at the later decision date.",
+      "sources": [
+        "S88",
+        "S27"
+      ]
+    },
+    {
+      "id": "C86",
+      "topic": "Indus Waters Treaty",
+      "claim": "The 31 August 2026 interim-measures order prohibits all construction on Ratle.",
+      "finding": "Misleading",
+      "confidence": "High",
+      "assessment": "Order paragraph 287 explicitly permits other RHEP works apart from specifically restricted categories in 286(A)/(B), subject to India disputing tribunal jurisdiction.",
+      "sources": [
+        "S89",
+        "S27",
+        "S28"
+      ]
+    },
+    {
+      "id": "C87",
+      "topic": "International law",
+      "claim": "Pakistan sent at least three Security Council letters numbered S/2025/289, S/2025/290 and S/2025/299 on the May 2025 crisis.",
+      "finding": "Verified UN record metadata",
+      "confidence": "High",
+      "assessment": "UN Digital Library identifies dated letters and short catalogue summaries. Full texts were inaccessible, so specific Article 51 notification content is still unknown.",
+      "sources": [
+        "S90",
+        "S91",
+        "S92"
       ]
     }
   ],
@@ -2828,14 +3030,15 @@
     {
       "id": "X26",
       "title": "UN 'five attackers' and NIA 'three principal gunmen' in Pahalgam accounts",
-      "sideA": "UN report S/2025/482 paragraph 84, information through June 2025, speaks of five terrorists.",
-      "sideB": "Indian NIA's later prosecution identifies three principal alleged gunmen. Counts may differ because of methodology, sources, chronology or participant categories.",
+      "sideA": "UN report S/2025/482 published July 24, incorporating information received through June 22, reports five attackers.",
+      "sideB": "NIA statement issued June 23, 2025 describes three armed terrorists and cautions identities were still under examination; December prosecution later identifies three.",
       "status": "Unresolved factual/definitional difference",
-      "required": "Full UN source characterization, NIA chargesheet exhibits, witness/forensic records and role definitions.",
+      "required": "Obtain UN source cutoffs/source definitions and original NIA filed witness, ballistic and identity evidence. Avoid publication-date fallacy.",
       "sources": [
         "S84",
         "S41",
-        "S42"
+        "S42",
+        "S85"
       ]
     },
     {
@@ -2849,6 +3052,43 @@
         "S81",
         "S80",
         "S38"
+      ]
+    },
+    {
+      "id": "X28",
+      "title": "UN paragraph 84 five attackers versus NIA three, corrected reporting cutoffs",
+      "sideA": "S/2025/482 is dated 24 July but explicitly incorporates information only through 22 June 2025.",
+      "sideB": "NIA's three-gunman statement is dated 23 June 2025 and itself cautioned identification investigation was incomplete.",
+      "status": "Genuine count difference, temporal comparison corrected",
+      "required": "Original anonymous monitoring source basis, filed forensic/eyewitness exhibits and participant role classification.",
+      "sources": [
+        "S84",
+        "S85",
+        "S41"
+      ]
+    },
+    {
+      "id": "X29",
+      "title": "Treaty award 'no armed conflict' wording versus recorded 2025 hostilities",
+      "sideA": "Court stated that as of its 2026 decision no international armed conflict between India and Pakistan was ongoing.",
+      "sideB": "The same paragraph 290 acknowledges aerial combat and missile strikes for four days in May 2025.",
+      "status": "No contradiction, temporal distinction established",
+      "required": "Avoid treating absence of a current conflict as a verdict that historical conflict did not occur.",
+      "sources": [
+        "S88",
+        "S27"
+      ]
+    },
+    {
+      "id": "X30",
+      "title": "Ratle limited specified works order versus headline whole-project shutdown",
+      "sideA": "Interim order 286 imposes enumerated works and schedule-notification restrictions.",
+      "sideB": "Paragraph 287 states all other works not named in 286(A)/(B) are not prohibited, and India contests jurisdiction.",
+      "status": "Broad project-ban narrative unsupported",
+      "required": "Signed order and construction compliance/schedule records, Neutral Expert decision date.",
+      "sources": [
+        "S89",
+        "S28"
       ]
     }
   ],
@@ -3074,6 +3314,30 @@
       "priority": "high",
       "question": "What evidence supports continued or discontinued Indus Waters Treaty implementation after the August 2026 award and India's rejection?",
       "next": "Examine complete award, India/Pakistan filed positions and observable hydropower operating records."
+    },
+    {
+      "id": "Q38",
+      "priority": "critical",
+      "question": "What sources and definition underlie five UN-reported Pahalgam attackers versus NIA's three direct gunmen as of June 23?",
+      "next": "Seek original 22 June UN source information and complete NIA court exhibits, compare roles and evolving identifications."
+    },
+    {
+      "id": "Q39",
+      "priority": "high",
+      "question": "What legal and operational effects have the narrow Ratle August 2026 interim measures had after India's jurisdictional rejection?",
+      "next": "Original signed order, Neutral Expert disposition, dated construction schedule and compliance evidence."
+    },
+    {
+      "id": "Q40",
+      "priority": "high",
+      "question": "Which of Pakistan's May 2025 UN Security Council letters expressly notify Article 51 self-defence?",
+      "next": "Retrieve original S/2025/289, S/2025/290, S/2025/299 PDF annexes and compare reciprocal India submissions."
+    },
+    {
+      "id": "Q41",
+      "priority": "medium",
+      "question": "Who created the Pahalgam suspect identity report disavowed by India's Defence Ministry on 4 August 2025?",
+      "next": "Locate archived original report, publication/forwarding history, and any authenticated author response."
     }
   ],
   "casualties": [
