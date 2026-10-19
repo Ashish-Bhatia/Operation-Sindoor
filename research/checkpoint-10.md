@@ -65,9 +65,9 @@ The award lists across all Army/IAF operations and theatres; **being named on th
 | "Downed a few" Pakistani aircraft | Official qualitative enemy aircraft-kill claim with stated lack of wreckage and no numeric roster | Therefore independently proven 5, 6, 8 or exact number of PAF jets |
 | "Five" Indian personnel in May 11 briefing | Deaths known by that date | Therefore a serviceman later dying June 6 of wounds did not count as Sindoor casualty |
 | Six names in August 2025 medals and June 2026 memorial | Independent dated official documents identify same final personnel group | Therefore official six deaths had all occurred by May 11 |
-| 13 Vir Chakras to IAF flying personnel and other military awards | Names/awards/branch roles | Therefore 13 pilots died, 13 aircraft survived, or all 13 undertook identical missions |
+| Vir Chakras to multiple IAF flying personnel and other military awards | Names/awards/branch roles | Therefore award recipients all died, aircraft survived, or every awarded pilot undertook identical missions |
 
-**Caution:** The August list reports **fifteen Vir Chakras in all** (including civilian ministry recipients), among which **ten** awards to Indian Air Force pilots [do not assume all medal recipients were flyers of aircraft shot down]. Its numbers are **awards**, not kills or survivor tallies.
+**Caution:** The August list reports **fifteen Vir Chakras in all** (including civilian ministry recipients), among which **nine** awards to Indian Air Force pilots [do not assume all medal recipients were flyers of aircraft shot down]. Its numbers are **awards**, not kills or survivor tallies.
 
 ## III. Updating prior unresolved questions
 
