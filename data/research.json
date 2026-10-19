@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 06",
+    "edition": "Research checkpoint 07",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts. Checkpoint07 documents government allocation/evacuation figures and a May2026 Uri case study without treating funds allocated as paid or separate locality housing figures as additive. Pakistan S/2025/315/S/2025/494 state claims remain unverified. OHCHR reply cells blank only as observed Oct19. National mobile CBS launch is not nationally completed siren standardization."
   },
   "sources": [
     {
@@ -1017,6 +1017,116 @@
       "url": "https://main.un.org/securitycouncil/en/events/indiapakistan",
       "review": "Original Security Council event calendar read; details via independent Council reporting",
       "note": "Pakistan-requested closed consultations convened before 7 May strikes; no Council resolution authorizing subsequent force identified."
+    },
+    {
+      "id": "S102",
+      "title": "MHA June 9 2025 housing relief and evacuation report",
+      "publisher": "India Ministry of Home Affairs / PIB",
+      "date": "2025-06-09",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2135226&lang=2&reg=48",
+      "review": "Original dated PIB publication directly inspected",
+      "note": "Reports 325,000 evacuees, ~15,000 in ~397 shelters, 2,060 damaged homes earmarked for additional ₹25 crore, 394 ambulances and 2,818 volunteers. No complete payment/victim list."
+    },
+    {
+      "id": "S103",
+      "title": "Uri survivors rebuilding problems one year after May 2025 shelling",
+      "publisher": "The New Indian Express",
+      "date": "2026-05-08",
+      "type": "independent",
+      "url": "https://www.newindianexpress.com/nation/2026/May/08/operation-sindoor-uri-survivors-still-struggle-to-rebuild-lives",
+      "review": "Original 8 May 2026 field article read",
+      "note": "Interviews resident reporting ₹1.5 lakh insufficient for reconstruction; reports about 500 houses damaged locally and some prolonged temporary accommodation. Local sample not additive to MHA 2060."
+    },
+    {
+      "id": "S104",
+      "title": "Pakistan Security Council letter S/2025/315, denying Golden Temple attack and Shaheen use",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-05-20",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4082947/files/S_2025_315-EN.pdf",
+      "review": "Original UN-hosted letter cover and indexed annex portions examined; full downloaded PDF not hashed",
+      "note": "Letter dated May20, circulated May21, transmits dated Pakistan FO denials on Shaheen missile and Golden Temple targeting. UN filing authenticates statements not conclusions."
+    },
+    {
+      "id": "S105",
+      "title": "Pakistan original denial of Shaheen missile use and claimed deleted Indian Army video",
+      "publisher": "Pakistan Ministry of Foreign Affairs",
+      "date": "2025-05-19",
+      "type": "primary",
+      "url": "https://mofa.gov.pk/press-releases/statement-by-the-spokesperson-in-response-to-indian-medias-baseless-claims-regarding-pakistans-use-of-shaheen-missile-in-operation-bunyanun-marsoos-bm",
+      "review": "Original Pakistan foreign ministry statement examined",
+      "note": "Denies Shaheen missile and claims Indian military deleted a published video; no independently authenticated original video/post archive."
+    },
+    {
+      "id": "S106",
+      "title": "Indian military officer's Golden Temple attempted attack claim, contemporary reporting",
+      "publisher": "The Indian Express",
+      "date": "2025-05-19",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/cities/chandigarh/golden-temple-pakistan-india-strikes-air-defence-drone-10015480/",
+      "review": "Contemporaneous reporter account of Maj Gen Kartik C Seshadri briefing read",
+      "note": "Authenticated allegation of intentional Golden Temple targeting from officer; no original missile target telemetry or launch instruction."
+    },
+    {
+      "id": "S107",
+      "title": "Pakistan Foreign Office rejects Golden Temple targeting allegation",
+      "publisher": "Associated Press of Pakistan quoting Ministry of Foreign Affairs",
+      "date": "2025-05-20",
+      "type": "primary",
+      "url": "https://www.app.com.pk/national/pakistan-rejects-indian-allegations-of-attempt-to-attack-golden-temple/",
+      "review": "Contemporaneous government wire publishing foreign ministry quotation read",
+      "note": "Denial does not by itself settle intended target of missiles/drones."
+    },
+    {
+      "id": "S108",
+      "title": "Pakistan's July 30 2025 UN letter S/2025/494 contesting Indian Lok Sabha Sindoor claims",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-07-30",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4086444/files/S_2025_494-EN.pdf",
+      "review": "Original UN-hosted letter annex indexed text examined, file not locally hashed",
+      "note": "Formal Pakistan counterclaim on Pahalgam and Operation Mahadev, claimed military success, US/third-party cessation role and Indus Waters Treaty position. Interested-state speech, not UN fact-finding."
+    },
+    {
+      "id": "S109",
+      "title": "Indian civil defence tests geo-targeted central siren prototype in 2026",
+      "publisher": "The Indian Express",
+      "date": "2026-10-15",
+      "type": "independent",
+      "url": "https://indianexpress.com/article/india/air-raid-sirens-back-after-operation-sindoor-10922127/",
+      "review": "Original October15 reporting with quotes and field-note description directly read",
+      "note": "Reports Jaisalmer Sept30, Bihar Oct6, Mumbai Oct8–9 tests; prototype not proven nationally deployed."
+    },
+    {
+      "id": "S110",
+      "title": "India May 2 2026 nationwide Cell Broadcast System launch for disaster warnings",
+      "publisher": "India Ministry of Communications / PIB",
+      "date": "2026-05-02",
+      "type": "primary",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2257499&lang=2&reg=3",
+      "review": "Original PIB May2 launch text reviewed",
+      "note": "Mobile network CBS rollout/test established; does not establish deployment of standardized physical air raid sirens."
+    },
+    {
+      "id": "S111",
+      "title": "OHCHR public communication listing on India and Pakistan October 2025 letters",
+      "publisher": "OHCHR Special Procedures communications portal",
+      "date": "2026-10-19",
+      "type": "primary",
+      "url": "https://spcommreports.ohchr.org/TmSearch/RelCom?code=IND+10%2F2025",
+      "review": "Original portal rows observed, no linked replies displayed for IND10/PAK10",
+      "note": "Blank reply cells are limited to public case page as accessed, not proof a government never responded through another channel."
+    },
+    {
+      "id": "S112",
+      "title": "OHCHR public listing IND 8/2025 detention allegation letter",
+      "publisher": "OHCHR Special Procedures communications portal",
+      "date": "2026-10-19",
+      "type": "primary",
+      "url": "https://spcommreports.ohchr.org/TmSearch/RelCom?code=IND+8%2F2025",
+      "review": "Original portal row observed, no linked reply displayed",
+      "note": "No visible linked answer is a portal display result; not evidence no private reply exists."
     }
   ],
   "timeline": [
@@ -1426,6 +1536,30 @@
       "class": "official"
     },
     {
+      "id": "T62",
+      "date": "2025-05-19",
+      "time": "Army briefing and diplomatic statement",
+      "headline": "Golden Temple allegation and Shaheen missile denial emerge",
+      "detail": "An Indian officer alleges attempted Golden Temple targeting; Pakistan separately denies Shaheen missile use and alleges a deleted video, neither independently proven.",
+      "sources": [
+        "S106",
+        "S105"
+      ],
+      "class": "contested"
+    },
+    {
+      "id": "T63",
+      "date": "2025-05-20",
+      "time": "Pakistan UN letter",
+      "headline": "Pakistan transmits disputed Golden Temple and Shaheen denials",
+      "detail": "UN S/2025/315 formalises Pakistan Foreign Ministry's May19 and May20 statements, not UN verification of their correctness.",
+      "sources": [
+        "S104",
+        "S107"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T12",
       "date": "2025-05-31",
       "time": "interview date",
@@ -1433,6 +1567,17 @@
       "detail": "Chauhan tells Reuters there were initial Indian losses, without confirming a number or aircraft types.",
       "sources": [
         "S12"
+      ],
+      "class": "established"
+    },
+    {
+      "id": "T64",
+      "date": "2025-06-09",
+      "time": "Government relief press note",
+      "headline": "India reports 325,000 evacuated and 2060 damaged-house relief allocation",
+      "detail": "MHA allocates an additional ₹25 crore for affected homes, announces 397 shelters and records ambulance/volunteer deployments.",
+      "sources": [
+        "S102"
       ],
       "class": "established"
     },
@@ -1538,6 +1683,17 @@
       "class": "official"
     },
     {
+      "id": "T65",
+      "date": "2025-07-30",
+      "time": "UN diplomatic circulation",
+      "headline": "Pakistan formally disputes Indian parliamentary account",
+      "detail": "S/2025/494 transmits Pakistan spokesman's political rebuttal, including Operation Mahadev allegations and ceasefire framing.",
+      "sources": [
+        "S108"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T52",
       "date": "2025-08-04",
       "time": "MOD public release",
@@ -1639,6 +1795,17 @@
       "class": "reported"
     },
     {
+      "id": "T66",
+      "date": "2026-05-02",
+      "time": "Official launch",
+      "headline": "India launches mobile Cell Broadcast System for warnings",
+      "detail": "National government announces mobile geo-targeted CBS launch and testing; physical siren prototype is separate.",
+      "sources": [
+        "S110"
+      ],
+      "class": "established"
+    },
+    {
       "id": "T48",
       "date": "2026-05-06",
       "time": "published satellite review",
@@ -1646,6 +1813,17 @@
       "detail": "Media imagery investigation compares 2025 damage and structural repairs at several facilities into 2026.",
       "sources": [
         "S82"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T67",
+      "date": "2026-05-08",
+      "time": "Journalist field follow-up",
+      "headline": "Uri reconstruction hardship reported a year after shelling",
+      "detail": "Field report describes specific families and houses not yet rebuilt, one reported ₹1.5 lakh payment, and ~500 locality-wide affected houses.",
+      "sources": [
+        "S103"
       ],
       "class": "reported"
     },
@@ -1707,6 +1885,17 @@
       "class": "reported"
     },
     {
+      "id": "T68",
+      "date": "2026-10-08",
+      "time": "Civil defence trial",
+      "headline": "Mumbai pilot of centrally activated air-raid sirens",
+      "detail": "Reported pilot in Old Secretariat building Oct8-9 using cell broadcast and geo-fencing, following Rajasthan/Bihar tests.",
+      "sources": [
+        "S109"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T21",
       "date": "2026-10-15",
       "time": "Reuters report",
@@ -1714,6 +1903,17 @@
       "detail": "Reuters describes Pakistan airspace restrictions among several pressures on Air India; aggregate airline losses cannot be attributed to the conflict alone.",
       "sources": [
         "S30"
+      ],
+      "class": "reported"
+    },
+    {
+      "id": "T69",
+      "date": "2026-10-15",
+      "time": "Published investigation",
+      "headline": "National air raid siren standardization still being evaluated",
+      "detail": "Indian Express reports after Sindoor procurement irregularity and ongoing C-DOT/civil-defence prototype siren tests.",
+      "sources": [
+        "S109"
       ],
       "class": "reported"
     }
@@ -2907,6 +3107,127 @@
       "sources": [
         "S101"
       ]
+    },
+    {
+      "id": "C98",
+      "topic": "Humanitarian",
+      "claim": "India reported 325,000 evacuees from J&K border districts after May 2025 shelling.",
+      "finding": "Verified official reported number; person-level records not independently audited",
+      "confidence": "High on statement",
+      "assessment": "June9 MHA press release gives aggregate; shelter tally is subset, not proof other evacuees were homeless.",
+      "sources": [
+        "S102"
+      ]
+    },
+    {
+      "id": "C99",
+      "topic": "Humanitarian",
+      "claim": "India earmarked an additional ₹25 crore for 2,060 shelling-damaged houses, with supplemental 1–2 lakh rates.",
+      "finding": "Verified relief allocation announcement, not individual paid claims",
+      "confidence": "High on statement",
+      "assessment": "June9 MHA announcement says ₹1 lakh per partially and ₹2 lakh per fully damaged house, and ~2,060 homes; category split and bank-level disbursement unverified.",
+      "sources": [
+        "S102"
+      ]
+    },
+    {
+      "id": "C100",
+      "topic": "Humanitarian",
+      "claim": "Some Uri families had not rebuilt houses by May 2026 despite compensation.",
+      "finding": "Supported by published field reporting, not statewide estimate",
+      "confidence": "Medium-high",
+      "assessment": "New Indian Express interviews a family reporting ₹1.5 lakh was insufficient and local report estimates ~500 damaged houses. Local counts may overlap with national figure.",
+      "sources": [
+        "S103",
+        "S102"
+      ]
+    },
+    {
+      "id": "C101",
+      "topic": "Golden Temple",
+      "claim": "An Indian Army officer alleged that Pakistan attempted to target the Golden Temple May 7–8.",
+      "finding": "Verified as contemporaneous official allegation, intention disputed",
+      "confidence": "High on attribution",
+      "assessment": "Maj Gen Kartik C Seshadri made the claim at a May19 briefing, per contemporary reporting. No independently authenticated target coordinates/weapon programming found.",
+      "sources": [
+        "S106",
+        "S104",
+        "S107"
+      ]
+    },
+    {
+      "id": "C102",
+      "topic": "Golden Temple",
+      "claim": "Pakistan officially denied targeting the Golden Temple.",
+      "finding": "Verified original formal diplomatic denial, factual issue open",
+      "confidence": "High on attribution",
+      "assessment": "May20 Pakistan FO statement and same statements filed S/2025/315; denial not proof of different target.",
+      "sources": [
+        "S104",
+        "S107",
+        "S106"
+      ]
+    },
+    {
+      "id": "C103",
+      "topic": "Weapons",
+      "claim": "Pakistan denied using Shaheen missile during May 2025 counteroperation and alleged India deleted a misleading video.",
+      "finding": "Verified that denial/allegation was made; missile/video facts unconfirmed",
+      "confidence": "High on attribution",
+      "assessment": "Pakistan MOFA May19 and S/2025/315. No archived original Indian military social post/deletion metadata or missile fragment serial to establish either contested fact.",
+      "sources": [
+        "S104",
+        "S105"
+      ]
+    },
+    {
+      "id": "C104",
+      "topic": "Diplomacy",
+      "claim": "Pakistan's July 2025 rebuttal of Indian Operation Sindoor and Mahadev narratives was filed at the United Nations.",
+      "finding": "Verified filed government narrative, no UN endorsement",
+      "confidence": "High",
+      "assessment": "S/2025/494 formally transmits interested government press response. Repeated victory and non-attribution statements do not independently verify their contents.",
+      "sources": [
+        "S108"
+      ]
+    },
+    {
+      "id": "C105",
+      "topic": "Civil defence",
+      "claim": "India launched a national Cell Broadcast System for mobile disaster warning on 2 May 2026.",
+      "finding": "Verified government launch/testing announcement",
+      "confidence": "High",
+      "assessment": "PIB/C-DOT launch of mobile CBS alert network. Physical siren nationwide coverage is a distinct deployment question.",
+      "sources": [
+        "S110"
+      ]
+    },
+    {
+      "id": "C106",
+      "topic": "Civil defence",
+      "claim": "As of October 2026 geo-targeted central triggering of air raid sirens was in multi-state prototype trials.",
+      "finding": "Reported field tests, completion not established",
+      "confidence": "Medium-high",
+      "assessment": "Indian Express documents prototype/technical evaluations in Sept/Oct; distinguish completed mobile CBS from incomplete siren standard rollout.",
+      "sources": [
+        "S109",
+        "S110"
+      ]
+    },
+    {
+      "id": "C107",
+      "topic": "OHCHR",
+      "claim": "No public responses are linked in OHCHR case list rows for IND8/2025, IND10/2025 and PAK10/2025 as checked Oct19 2026.",
+      "finding": "Verified bounded portal observation; no global nonresponse conclusion",
+      "confidence": "High for webpage observation",
+      "assessment": "Two OHCHR public case views display blank replies column; private diplomatic and other official responses not comprehensively ruled out.",
+      "sources": [
+        "S111",
+        "S112",
+        "S97",
+        "S98",
+        "S99"
+      ]
     }
   ],
   "targets": [
@@ -3453,6 +3774,55 @@
       "sources": [
         "S99"
       ]
+    },
+    {
+      "id": "X35",
+      "title": "Relief announced for 2060 damaged homes versus May 2026 reconstruction hardship",
+      "sideA": "June2025 MHA announced special extra ₹25 crore and ₹1–2 lakh rates for 2060 homes.",
+      "sideB": "May2026 Uri reportage documents some families still displaced or unable to rebuild with receipts, and roughly 500 local homes damaged.",
+      "status": "Different units and geographic/time scopes, not mutually exclusive",
+      "required": "District-level unique property IDs, damage category, disbursement details, reconstruction certification and local geographical overlap.",
+      "sources": [
+        "S102",
+        "S103"
+      ]
+    },
+    {
+      "id": "X36",
+      "title": "Golden Temple targeting allegation and Pakistani denial",
+      "sideA": "Indian Army officer May19 alleged Pakistan intended to strike the Golden Temple in May7–8 wave.",
+      "sideB": "Pakistan Foreign Ministry May20 denied intention, formally transmitting statement to UNSC in S/2025/315.",
+      "status": "Genuine disputed intent, no independently resolved telemetry",
+      "required": "Authenticated intercepted projectile trajectories and targeted coordinates or independently corroborated weapons targeting evidence.",
+      "sources": [
+        "S106",
+        "S107",
+        "S104"
+      ]
+    },
+    {
+      "id": "X37",
+      "title": "Shaheen missile attribution versus Pakistan denial and video-deletion allegation",
+      "sideA": "Pakistan official statement says Indian military/social coverage alleged Shaheen missile use then deleted a clip.",
+      "sideB": "Pakistan denies use. Independent primary missile debris, original versioned clip and platform records have not been obtained.",
+      "status": "Proven provenance of denial; original military claim and deletion context under-tested",
+      "required": "Archived military post/video timestamps, missile component photos/geolocation and technical experts.",
+      "sources": [
+        "S105",
+        "S104"
+      ]
+    },
+    {
+      "id": "X38",
+      "title": "May2026 nationwide mobile CBS launch versus Oct2026 siren trials",
+      "sideA": "Government officially launched national cell-broadcast mobile alert infrastructure May2 2026.",
+      "sideB": "Oct Indian Express report says remotely triggered physical sirens remain in local technical trials.",
+      "status": "Distinct systems and maturity stages, no inherent contradiction",
+      "required": "Sirens procurement standards, reliability testing and actual district deployments separate from mobile CBS counts.",
+      "sources": [
+        "S110",
+        "S109"
+      ]
     }
   ],
   "openQuestions": [
@@ -3712,7 +4082,7 @@
       "id": "Q43",
       "priority": "high",
       "question": "What responses did India and Pakistan provide to OHCHR AL IND 8/2025, AL IND 10/2025 and AL PAK 10/2025?",
-      "next": "Find reply documents in OHCHR correspondence archive and government portals; blank portal field does not prove nonresponse."
+      "next": "Public OHCHR case rows checked Oct19 2026 show blank replies for all three. Continue separate official-diplomatic, government and OHCHR document searches; do not equate missing link with nonresponse."
     },
     {
       "id": "Q44",
@@ -3731,6 +4101,42 @@
       "priority": "medium",
       "question": "How many states facilitated cessation and how did their messages relate to the May10 DGMO call?",
       "next": "Obtain dated US, Pakistan, India and other involved government readouts, independently of same-government repeats."
+    },
+    {
+      "id": "Q47",
+      "priority": "critical",
+      "question": "How much of the ₹25 crore allocation for 2060 damaged homes was actually paid, and what reconstruction was completed by district at May2026?",
+      "next": "Seek official J&K/Punjab beneficiary-classified payment ledger, damage type and occupancy/restoration records; test Uri reported cases."
+    },
+    {
+      "id": "Q48",
+      "priority": "critical",
+      "question": "Can a unique location/date/victim ledger reconcile India’s evacuees and housing damage with both sides' civilian deaths/injuries?",
+      "next": "Separate evacuees, injury and fatalities; obtain government and hospital data and prevent district/cumulative double counting."
+    },
+    {
+      "id": "Q49",
+      "priority": "high",
+      "question": "What original interception evidence supports or refutes alleged Golden Temple target intention?",
+      "next": "Find May19 full military briefing, dated target track analysis and independent ex post evidence; distinguish local airspace paths from intentional targeting."
+    },
+    {
+      "id": "Q50",
+      "priority": "medium",
+      "question": "Is there an authenticated original Indian military clip claiming Shaheen missile use and subsequent deletion?",
+      "next": "Find archived original URL/post, media metadata, missile fragment analysis and contemporaneous corrections."
+    },
+    {
+      "id": "Q51",
+      "priority": "high",
+      "question": "What field test results, standards and rollout distinguish nationwide mobile CBS alerts from still-prototyped central air-raid sirens?",
+      "next": "Obtain DoT/C-DOT civil-defence procurement specs, test reports, state deployment inventory and dates."
+    },
+    {
+      "id": "Q52",
+      "priority": "medium",
+      "question": "What was the documentary and forensic basis for Pakistan's S/2025/494 rejection of Indian Operation Mahadev identifications?",
+      "next": "Compare July parliamentary and Pakistani original release with NIA filed forensic exhibits and later case orders; avoid adopting denial as disproval."
     }
   ],
   "casualties": [
