@@ -2,12 +2,13 @@
 
 An independently researched public-record investigation of the **Pahalgam attack of 22 April 2025**, **India–Pakistan hostilities of 7–10 May 2025**, subsequent investigations, competing official claims and long-term consequences.
 
-**Current edition:** Research checkpoint 03, evidence cutoff **19 October 2026**. This is **not a completed investigation**, and no continuous monitoring has been configured.
+**Current edition:** Research checkpoint 04, evidence cutoff **19 October 2026**. This is **not a completed investigation**, and no continuous monitoring has been configured.
 
 ## Read the investigation
 
 - [Editorial website](https://ashish-bhatia.github.io/Operation-Sindoor/) (available when GitHub Pages is enabled for `main`/`/`).
-- [Latest findings, checkpoint 03](research/checkpoint-03.md).
+- [Latest findings, checkpoint 04](research/checkpoint-04.md).
+- [Previous checkpoint 03](research/checkpoint-03.md).
 - [Pakistan counteroperation evidence brief](research/counteroperation-evidence-brief.md).
 - [International law assessment](research/international-law-assessment.md).
 - [10–19 May cessation and diplomacy chronology](research/cessation-and-diplomacy.md).
@@ -20,7 +21,7 @@ An independently researched public-record investigation of the **Pahalgam attack
 - [Machine-readable evidence and claims register](data/research.json).
 - [Raw editorial web application](index.html).
 
-## Evidence-led findings, checkpoints 02–03
+## Evidence-led findings, checkpoints 02–04
 
 - The 22 April Pahalgam attack killed 26 people, as recorded by the [UN Security Council](https://press.un.org/en/2025/sc16050.doc.htm).
 - India's [first contemporaneous release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2127370), timestamped 7 May at 01:44 IST, reported nine targeted sites and no Pakistani military facilities targeted in the opening action. This is verification of the **release**, not all its operational claims.
@@ -33,6 +34,11 @@ An independently researched public-record investigation of the **Pahalgam attack
 - In August 2025, India's air chief [claimed six Pakistani aircraft shot down](https://www.reuters.com/world/asia-pacific/india-shot-down-six-pakistani-military-aircraft-may-air-force-chief-says-2025-08-09/). Pakistan denied it; independent hull-by-hull verification is outstanding.
 - [Pakistan's 13 May military report](https://www.app.com.pk/national/40-civilians-11-troops-martyred-in-indian-aggression-ispr/) listed 40 civilians and 11 military personnel killed. [Reuters](https://www.reuters.com/world/asia-pacific/pakistan-says-clashes-with-neighbour-india-killed-more-than-50-2025-05-13/) attributed at least 16 civilians and five military killed to India's then-current statements. These are dated provisional official figures, not an independent total.
 - NIA subsequently announced chargesheets in [December 2025](https://nia.gov.in/nia-chargesheets-pak-based-lettrf-6-other-accused-pahalgam-terror-attack-case) and [July 2026](https://nia.gov.in/pak-based-lettrf-chief-hafiz-saeed-named-nia-supplementary-chargesheet-pahalgam-terror-attack). Prosecutorial allegations are not judicial findings of guilt.
+- A [25 November 2025 French Defence Ministry reply](https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6745) referred to the presumed loss of an Indian Rafale, but stated that the circumstances remained unclear and a claimed SPECTRA failure was undocumented.
+- A [June 2026 IAF 36-Rafale support RFP report](https://www.indiatoday.in/india/story/air-force-iaf-document-36-rafales-pakistan-operation-sindoor-loss-claims-2932499-2026-06-23) does not itself constitute a serial-numbered survival inventory.
+- [May](https://www.indiatoday.in/india/story/operation-sindoor-pakistan-airbase-repairs-still-unfinished-after-a-year-satellite-images-show-2907688-2026-05-06) and [September 2026](https://www.indiatoday.in/india/interactive/story/490-days-satellite-images-show-brahmos-crater-at-sargodha-reopened-for-repair-2997799-2026-09-18) satellite reporting documents repairs at damaged bases, not continuous inoperability or exact aircraft kills.
+- [UN report S/2025/482](https://www.ecoi.net/en/file/local/2127961/n2517600.pdf) describes five Pahalgam attackers, while later NIA prosecution refers to three principal gunmen. The discrepancy is not yet reconciled.
+- The [31 August 2026 Indus Waters award](https://pca.int/en/news/pca-press-release-pca-case-no-2023-01-the-indus-waters-western-rivers-arbitration-islamic-republic-of-pakistan-v-republic-of-india-6/) and [India's express rejection](https://eoibelgrade.gov.in/index.php/listview/NzE2) leave jurisdiction and implementation disputed.
 
 ## How to use the website
 
@@ -46,7 +52,7 @@ If GitHub Pages is not enabled, go to **Settings → Pages → Build and deploym
 
 ## Data standard
 
-Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains a 46-event chronology, 73 assessed claims, nine initial target-site records, 25 contradictions, 33 open questions, four dated cumulative casualty records and 79 source entries. Source URL repetitions are flagged and not counted as independent corroboration. It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
+Every item is attributed by source ID and categorized by **type**, **review status**, **classification**, **confidence** and/or **evidence gap** as applicable. The structured registry currently contains a 50-event chronology, 79 assessed claims, nine initial target-site records, 27 contradictions, 37 open questions, four dated cumulative casualty records and 84 source entries. Source URL repetitions are flagged and not counted as independent corroboration. It includes a deliberately marked repeated source reference; repeated references are **not** independent corroborations.
 
 Do not equate:
 - an official statement with independent confirmation of its substance,
@@ -65,6 +71,6 @@ Every substantive change should cite original evidence, identify the prior state
 
 This edition has **not** retrieved and independently reviewed complete NIA filed exhibits, confidential intelligence, original licensed imagery, comprehensive medical/casualty records, every military-briefing recording or the latest signed court orders. Comprehensive historical, treaty/legal, humanitarian and economic reconciliation remains incomplete.
 
-The latest October 2026 revision distinguishes combat effects from claims, no-expiry cessation terms and disputed legal justifications. An earlier revision compares the 7 May opening objectives and 8 May escalation claims with the July parliamentary account. It also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
+Checkpoint 04 adds French parliamentary records, Rafale procurement inference checks, 2026 airfield imagery, an UN/NIA attacker-count discrepancy and the August treaty-award dispute. The earlier October 2026 revision distinguishes combat effects from claims, no-expiry cessation terms and disputed legal justifications. An earlier revision compares the 7 May opening objectives and 8 May escalation claims with the July parliamentary account. It also covers the disputed August 2026 Indus Waters Treaty arbitral award and distinguishes Air India's conditional aviation-loss forecast from audited realized costs.
 
 The repository is independent and not affiliated with either government, armed forces, any media organization or OpenAI.
