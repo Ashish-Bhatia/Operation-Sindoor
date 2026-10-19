@@ -1,11 +1,11 @@
 {
   "metadata": {
     "title": "Operation Sindoor: Independent public-record investigation",
-    "edition": "Research checkpoint 05",
+    "edition": "Research checkpoint 06",
     "cutoff": "2026-10-19",
     "lastVerified": "2026-10-19",
     "methods": "Source-attributed analysis. An official statement verifies that it was made; it does not independently verify the underlying military assertion.",
-    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected."
+    "limits": "Not an exhaustive or completed inquiry. Court records, full chargesheets, licensed satellite images, and original flight-loss forensic evidence have not yet been independently reviewed. No automatic updating configured. Original NIA chargesheet exhibits and commercial satellite pixels remain uninspected. French parliamentary account has been read in original French. Casualty entries are date-stamped reports, not a validated aggregate. Checkpoint 03 assessed Pakistan's claimed 26 targets and the reciprocal counterstrike effects; satellite pixels and grid operations records still unexamined. The legal chapter describes issues and case law but not a court ruling on the conflict. Checkpoint 04 adds verified French ministry and UN original-source text, while procurement RFP annexures and underlying commercial satellite pixels remain unavailable. The UN/NIA attacker number disparity and post-strike downtime remain open. Checkpoint 05 corrects UN/NIA evidence-cutoff comparison, separates unrelated 2026 NIA property case, distinguishes a MOD-disavowed online report, and checks reproductions of PCA award/limited Ratle order. UN letters and original PCA PDFs remain uninspected. Checkpoint06 reviews Security Council primary-host indexed extracts (not full hashed files), originals of OHCHR paired experts' allegation letters and India's Dec2025 parliamentary answer. Pakistan's Article51 assertions are documented; timely/adequate reporting and India's reciprocal UN filing remain legally/documentarily open. New arrests numbers are allegations not verified official detained-person counts."
   },
   "sources": [
     {
@@ -905,8 +905,8 @@
       "date": "2025-05-06",
       "type": "primary",
       "url": "https://digitallibrary.un.org/record/4081956?ln=en",
-      "review": "Official UN record metadata read; full letter PDF inaccessible",
-      "note": "Concerns alleged May 6–7 strikes. Article 51 notification wording not confirmed from letter text."
+      "review": "Original UN-hosted PDF text discoverable from full-text indexed publication; core original passage read via indexed extract, full file locally uninspected",
+      "note": "Letter dated May 6 and distributed May 7, expressly reserves right under Charter Article 51 to respond to May 6–7 Indian strikes; prospective assertion, not assessment of legality."
     },
     {
       "id": "S91",
@@ -915,8 +915,8 @@
       "date": "2025-05-07",
       "type": "primary",
       "url": "https://digitallibrary.un.org/record/4082002?ln=en",
-      "review": "Official UN record metadata read; full letter PDF inaccessible",
-      "note": "Transmits press release regarding May strikes; no unsupported assertion of formal Article 51 letter."
+      "review": "Original hosted PDF annex indexed text examined; complete file locally uninspected",
+      "note": "7 May Pakistan NSC statement reserves Article 51 self-defence, claims five Indian fighters shot down, and contests Indian targeting. No aircraft forensic count established."
     },
     {
       "id": "S92",
@@ -925,8 +925,98 @@
       "date": "2025-05-08",
       "type": "primary",
       "url": "https://digitallibrary.un.org/record/4082024?ln=en",
-      "review": "Official UN record metadata read; full letter PDF inaccessible",
-      "note": "Transmits MOFA rebuttal of Indian media statements, not proven to be notification under Article 51."
+      "review": "Original UN-hosted PDF cover indexed text examined; complete annex not fully audited",
+      "note": "8 May Pakistan transmitted denial of Indian media reports of attacks on Pathankot, Jaisalmer and Srinagar. No independent outcome adjudication."
+    },
+    {
+      "id": "S93",
+      "title": "Pakistan UN letter S/2025/252 and Pahalgam statement annex",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-04-24",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4081204?ln=en",
+      "review": "Original UN catalogue metadata read; full annex not audited",
+      "note": "Pakistan pre-hostility formal communication concerning the Pahalgam terrorist attack; factual details not adopted."
+    },
+    {
+      "id": "S94",
+      "title": "Pakistan UN letter S/2025/263 dated 30 April 2025",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-04-30",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4081773?ln=en",
+      "review": "Original UN catalogue metadata read; annex not audited",
+      "note": "Transmits FM letter dated 29 April on pre-strike India Pakistan escalation."
+    },
+    {
+      "id": "S95",
+      "title": "Pakistan 13 May Security Council letter S/2025/305 on ceasefire",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-05-13",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4082311/files/S_2025_305-EN.pdf",
+      "review": "Search-indexed original hosted PDF annex text checked; full file not downloaded/hashed",
+      "note": "Pakistan claims several friendly countries conveyed de-escalation messages; official assertion, not independent mediation confirmation."
+    },
+    {
+      "id": "S96",
+      "title": "Pakistan Foreign Minister 16 May Security Council letter S/2025/308",
+      "publisher": "United Nations Digital Library",
+      "date": "2025-05-16",
+      "type": "primary",
+      "url": "https://digitallibrary.un.org/record/4082687/files/S_2025_308-EN.pdf",
+      "review": "Search-indexed primary UN-hosted PDF text checked, not local file hash",
+      "note": "Invokes Article 51 for completed Operation Bunyan-ul-Marsoos; claims 40 civilian fatalities/121 wounded, 7 women/15 children deaths; credits several friendly countries for ceasefire."
+    },
+    {
+      "id": "S97",
+      "title": "OHCHR joint allegation letter AL IND 10/2025",
+      "publisher": "OHCHR independent Special Procedures mandate-holders",
+      "date": "2025-10-16",
+      "type": "primary",
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30361",
+      "review": "Original 17-page OHCHR PDF text opened and numbered page/lines inspected",
+      "note": "Requests India clarify May strikes, non-notification of Article 51 as seen by experts, and treaty/human-rights consequences. Allegation inquiry, not judicial finding."
+    },
+    {
+      "id": "S98",
+      "title": "OHCHR joint allegation letter AL PAK 10/2025",
+      "publisher": "OHCHR independent Special Procedures mandate-holders",
+      "date": "2025-10-16",
+      "type": "primary",
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30432",
+      "review": "Original 10-page OHCHR PDF opened and page/line locations checked",
+      "note": "Acknowledges Pakistan Art51 notice; asks about IHL civilian harm and Simla/visa/trade/aviation measures. Allegations, not conclusive responsibility."
+    },
+    {
+      "id": "S99",
+      "title": "OHCHR joint allegation letter AL IND 8/2025 on post-Pahalgam arrests",
+      "publisher": "OHCHR independent Special Procedures mandate-holders",
+      "date": "2025-09-05",
+      "type": "primary",
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30287",
+      "review": "Original 20-page OHCHR PDF opened and page/line locations checked",
+      "note": "Reports allegations of around 2800 arrests and at least nine home demolitions; not verified underlying case-by-case outcomes."
+    },
+    {
+      "id": "S100",
+      "title": "India Rajya Sabha written answer 554 on 10 May ceasefire",
+      "publisher": "Ministry of External Affairs, Government of India (Sansad)",
+      "date": "2025-12-04",
+      "type": "primary",
+      "url": "https://sansad.in/getFile/annex/269/AU554_Fdrh9b.pdf?source=pqars",
+      "review": "Official Sansad PDF search-indexed answer checked; original file not independently hashed",
+      "note": "Government asserts cessation concluded directly by Pakistan/India DGMOs and 8 May all-party briefing took place; does not provide full global diplomatic contact record."
+    },
+    {
+      "id": "S101",
+      "title": "UN Security Council 5 May 2025 India/Pakistan closed consultation event",
+      "publisher": "United Nations Security Council",
+      "date": "2025-05-05",
+      "type": "primary",
+      "url": "https://main.un.org/securitycouncil/en/events/indiapakistan",
+      "review": "Original Security Council event calendar read; details via independent Council reporting",
+      "note": "Pakistan-requested closed consultations convened before 7 May strikes; no Council resolution authorizing subsequent force identified."
     }
   ],
   "timeline": [
@@ -965,6 +1055,17 @@
       "class": "official"
     },
     {
+      "id": "T53",
+      "date": "2025-04-24",
+      "time": "UN letter",
+      "headline": "Pakistan transmits post-Pahalgam statement to Security Council",
+      "detail": "S/2025/252 records Pakistan's early account of Pahalgam and related measures; document is a national statement, not independent attribution.",
+      "sources": [
+        "S93"
+      ],
+      "class": "established"
+    },
+    {
       "id": "T03",
       "date": "2025-04-25",
       "time": "unspecified",
@@ -987,6 +1088,17 @@
       "class": "established"
     },
     {
+      "id": "T54",
+      "date": "2025-04-30",
+      "time": "UN letters",
+      "headline": "Pakistan sends letters ahead of the May fighting",
+      "detail": "S/2025/263 transmits April29 ministerial letter to UN leadership on crisis developments.",
+      "sources": [
+        "S94"
+      ],
+      "class": "established"
+    },
+    {
       "id": "T18",
       "date": "2025-05-01",
       "time": "report publication",
@@ -996,6 +1108,17 @@
         "S29"
       ],
       "class": "reported"
+    },
+    {
+      "id": "T55",
+      "date": "2025-05-05",
+      "time": "closed consultation",
+      "headline": "UN Security Council meets on India-Pakistan",
+      "detail": "Pakistan requested closed consultations; no subsequent Council statement or mandate for interstate force was issued.",
+      "sources": [
+        "S101"
+      ],
+      "class": "established"
     },
     {
       "id": "T05",
@@ -1033,6 +1156,18 @@
         "S13"
       ],
       "class": "contested"
+    },
+    {
+      "id": "T56",
+      "date": "2025-05-07",
+      "time": "UN document distributed",
+      "headline": "Pakistan reports Indian strikes and reserves Article 51 right",
+      "detail": "S/2025/289 is dated May6 but distributed May7, and S/2025/290 annexed NSC Article51 right and five-fighter claim.",
+      "sources": [
+        "S90",
+        "S91"
+      ],
+      "class": "reported"
     },
     {
       "id": "T08",
@@ -1223,6 +1358,17 @@
       "class": "official"
     },
     {
+      "id": "T57",
+      "date": "2025-05-13",
+      "time": "UN letter",
+      "headline": "Pakistan credits several countries with ceasefire facilitation",
+      "detail": "S/2025/305 reports received de-escalation messages and disputes characterization that Pakistan sought cessation out of desperation.",
+      "sources": [
+        "S95"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T30",
       "date": "2025-05-14",
       "time": "Washington Post publication",
@@ -1243,6 +1389,17 @@
         "S45"
       ],
       "class": "official"
+    },
+    {
+      "id": "T58",
+      "date": "2025-05-16",
+      "time": "UN letter",
+      "headline": "Pakistan formally reports May10 counteroperation and casualty claims",
+      "detail": "S/2025/308 invokes Article51 for executed operation and alleges 40 civilian killed/121 injured. This is a government letter, not independently audited damages.",
+      "sources": [
+        "S96"
+      ],
+      "class": "reported"
     },
     {
       "id": "T36",
@@ -1404,6 +1561,17 @@
       "class": "contested"
     },
     {
+      "id": "T59",
+      "date": "2025-09-05",
+      "time": "OHCHR letter",
+      "headline": "UN independent experts question domestic post-Pahalgam measures",
+      "detail": "AL IND 8/2025 requests response to allegations of detentions, house demolitions and other human-rights concerns.",
+      "sources": [
+        "S99"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T39",
       "date": "2025-10-03",
       "time": "IAF Day press briefing",
@@ -1415,6 +1583,18 @@
       "class": "contested"
     },
     {
+      "id": "T60",
+      "date": "2025-10-16",
+      "time": "OHCHR paired letters",
+      "headline": "UN independent experts question Indian and Pakistani strike conduct",
+      "detail": "AL IND 10/2025 and AL PAK 10/2025 call for explanations of civilian impacts and legal bases; neither is a judgment.",
+      "sources": [
+        "S97",
+        "S98"
+      ],
+      "class": "reported"
+    },
+    {
       "id": "T47",
       "date": "2025-11-25",
       "time": "written response",
@@ -1424,6 +1604,17 @@
         "S80"
       ],
       "class": "reported"
+    },
+    {
+      "id": "T61",
+      "date": "2025-12-04",
+      "time": "written parliamentary answer",
+      "headline": "India confirms bilateral DGMO understanding to Parliament",
+      "detail": "Rajya Sabha answer AU554 reiterates direct DGMO agreement, and reports 8 May all-party briefing.",
+      "sources": [
+        "S100"
+      ],
+      "class": "established"
     },
     {
       "id": "T15",
@@ -2588,11 +2779,133 @@
       "claim": "Pakistan sent at least three Security Council letters numbered S/2025/289, S/2025/290 and S/2025/299 on the May 2025 crisis.",
       "finding": "Verified UN record metadata",
       "confidence": "High",
-      "assessment": "UN Digital Library identifies dated letters and short catalogue summaries. Full texts were inaccessible, so specific Article 51 notification content is still unknown.",
+      "assessment": "UN primary record and indexed PDF extracts show S/2025/289 expressly reserves Article 51 right, S/2025/290's NSC annex invokes Article 51 and claims five downed Indian aircraft, while S/2025/299 carries denial of particular Indian media allegations. S/2025/308 later reports completed counteroperation. Neither invocation nor reporting proves substantive legality.",
       "sources": [
         "S90",
         "S91",
-        "S92"
+        "S92",
+        "S96"
+      ]
+    },
+    {
+      "id": "C88",
+      "topic": "International law",
+      "claim": "Pakistan's 6–7 May UN submissions invoked Article 51 of the UN Charter.",
+      "finding": "Verified governmental invocation",
+      "confidence": "High",
+      "assessment": "S/2025/289 reserves future response as self-defence; S/2025/290 annex repeats the claim. Neither demonstrates necessity, proportionality, or completion of later measures.",
+      "sources": [
+        "S90",
+        "S91"
+      ]
+    },
+    {
+      "id": "C89",
+      "topic": "International law",
+      "claim": "Pakistan's 16 May UN letter reports completed Operation Bunyan-ul-Marsoos under Article 51.",
+      "finding": "Verified post-action diplomatic assertion",
+      "confidence": "High",
+      "assessment": "The foreign minister's annex in S/2025/308 expressly invokes Article 51 for the completed counteroperation. Whether timing and other legal requirements were satisfied still requires assessment.",
+      "sources": [
+        "S96",
+        "S90",
+        "S91"
+      ]
+    },
+    {
+      "id": "C90",
+      "topic": "Aircraft losses",
+      "claim": "By 7 May 2025 Pakistan's official NSC had claimed five Indian fighters destroyed.",
+      "finding": "Verified provenance of claim, not five actual kills",
+      "confidence": "High",
+      "assessment": "S/2025/290 publicly circulates the five-aircraft assertion. No unique independently authenticated five-aircraft crash ledger is furnished.",
+      "sources": [
+        "S91",
+        "S12"
+      ]
+    },
+    {
+      "id": "C91",
+      "topic": "Diplomacy",
+      "claim": "Pakistan's 13 May and 16 May UN letters credit several friendly countries with 10 May de-escalation.",
+      "finding": "Verified repeated claim from one government",
+      "confidence": "High",
+      "assessment": "S/2025/305 and S/2025/308 both use multi-country facilitation framing. Two letters from the same party are not independent diplomatic corroboration.",
+      "sources": [
+        "S95",
+        "S96"
+      ]
+    },
+    {
+      "id": "C92",
+      "topic": "Diplomacy",
+      "claim": "India told Parliament in December 2025 that the May 10 cessation understanding was reached directly between its and Pakistan's DGMOs.",
+      "finding": "Verified government parliamentary answer",
+      "confidence": "High",
+      "assessment": "Rajya Sabha AU554 states the final understanding was directly between DGMOs, and 8 May all-party meeting occurred. It does not exclude other countries relaying warnings or proposals.",
+      "sources": [
+        "S100",
+        "S95",
+        "S96"
+      ]
+    },
+    {
+      "id": "C93",
+      "topic": "International law",
+      "claim": "UN Special Procedures experts raised reciprocal concerns about potential unlawful India and Pakistan strikes in 2025.",
+      "finding": "Verified original expert correspondence, alleged violations not adjudicated",
+      "confidence": "High",
+      "assessment": "AL IND 10/2025 and AL PAK 10/2025 dated 16 Oct question use of force and civilian effects on both sides. Letters seek answers and contain conditional allegations, not binding UN court holdings.",
+      "sources": [
+        "S97",
+        "S98"
+      ]
+    },
+    {
+      "id": "C94",
+      "topic": "International law",
+      "claim": "UN Special Procedures experts had identified no Indian Article 51 notification by 16 October 2025.",
+      "finding": "Verified dated expert observation; universal absence not proven",
+      "confidence": "Medium-high",
+      "assessment": "AL IND 10/2025 states India did not notify the Security Council; exhaustive UN document catalog/reciprocal India filing review is still outstanding. It is not a final ICJ finding.",
+      "sources": [
+        "S97",
+        "S90",
+        "S96"
+      ]
+    },
+    {
+      "id": "C95",
+      "topic": "Post-attack rights",
+      "claim": "OHCHR experts reported that roughly 2,800 people were arrested in Kashmir after Pahalgam.",
+      "finding": "Verified as reported allegation only",
+      "confidence": "High on report, low on unverified count",
+      "assessment": "AL IND 8/2025 repeats a received allegation of 2,800 arrests and at least nine house demolitions in late April. No case-by-case legal or factual audit obtained; do not call 2,800 proven arbitrary detainees.",
+      "sources": [
+        "S99"
+      ]
+    },
+    {
+      "id": "C96",
+      "topic": "Casualties",
+      "claim": "Pakistan's 16 May Security Council letter officially alleged 40 civilian deaths and 121 injuries during Indian operations.",
+      "finding": "Verified dated claim, final independently audited toll unknown",
+      "confidence": "High on official letter, medium on reported totals",
+      "assessment": "S/2025/308 enumerates 40 dead including 7 women and 15 children, 121 wounded including 10 women and 27 children. Counts restate contemporaneous Pakistan report and must not be doubled.",
+      "sources": [
+        "S96",
+        "S44"
+      ]
+    },
+    {
+      "id": "C97",
+      "topic": "UN diplomacy",
+      "claim": "Pakistan requested an emergency Security Council consultation held on 5 May 2025.",
+      "finding": "Verified meeting, no operation-authorizing resolution",
+      "confidence": "High",
+      "assessment": "UN event calendar and contemporary Council analysis confirm May 5 closed consultations, not a statement/resolution legitimising force.",
+      "sources": [
+        "S101"
       ]
     }
   ],
@@ -3090,6 +3403,56 @@
         "S89",
         "S28"
       ]
+    },
+    {
+      "id": "X31",
+      "title": "Article 51 notification record: Pakistan correspondence versus Indian expert-observed absence",
+      "sideA": "Pakistan's UN S/2025/289/290 reserves Article 51 and S/2025/308 describes the completed May 10 military response.",
+      "sideB": "OHCHR AL IND 10/2025 says India had not notified the Council as of Oct 16. India publicly claimed defensive necessity, distinct from formal UN reporting.",
+      "status": "Documentary asymmetry documented; substantive legality and exhaustive India search unresolved",
+      "required": "Search Indian mission UN records, late communications, filing stamps, Article 51 timing and legal tests.",
+      "sources": [
+        "S90",
+        "S91",
+        "S96",
+        "S97"
+      ]
+    },
+    {
+      "id": "X32",
+      "title": "Multiple-country facilitation versus direct India-Pakistan DGMO agreement",
+      "sideA": "Pakistan S/2025/305 and S/2025/308 credit several friendly countries with facilitating May 10 cessation.",
+      "sideB": "India's Dec 4 Rajya Sabha written answer attributes the understanding directly to two DGMOs; foreign messages are not excluded by its wording.",
+      "status": "Different causal and procedural emphases, not proven contradiction",
+      "required": "Original foreign readouts, timing, DGMO logs and alternative diplomatic accounts.",
+      "sources": [
+        "S95",
+        "S96",
+        "S100"
+      ]
+    },
+    {
+      "id": "X33",
+      "title": "OHCHR reciprocal allegation letters versus supposed UN judgment of illegality",
+      "sideA": "Special Procedures letters to India and Pakistan raise conditional civilian-harm concerns and seek legal explanations.",
+      "sideB": "Neither is a binding Security Council resolution, court judgment or individual operational site investigation.",
+      "status": "Institutional-label distinction, do not conflate inquiry with adjudication",
+      "required": "Official replies, incident-specific fact records and any later legally dispositive findings.",
+      "sources": [
+        "S97",
+        "S98"
+      ]
+    },
+    {
+      "id": "X34",
+      "title": "Around 2,800 post-attack arrests alleged versus confirmed unlawful detention count",
+      "sideA": "AL IND 8/2025 recites around 2,800 arrests reported to experts.",
+      "sideB": "No verified identities, orders, releases, acquittals and legality assessments for all alleged individuals are established.",
+      "status": "Allegation authenticated, underlying quantity and legality open",
+      "required": "Anonymised detention/charge ledgers, orders, outcomes, replies and matched denominators.",
+      "sources": [
+        "S99"
+      ]
     }
   ],
   "openQuestions": [
@@ -3330,14 +3693,44 @@
     {
       "id": "Q40",
       "priority": "high",
-      "question": "Which of Pakistan's May 2025 UN Security Council letters expressly notify Article 51 self-defence?",
-      "next": "Retrieve original S/2025/289, S/2025/290, S/2025/299 PDF annexes and compare reciprocal India submissions."
+      "question": "Do Pakistan's 6–7 May prospective Article 51 assertions and 16 May notice of its completed counteroperation satisfy Article 51 reporting requirements, and what reciprocal notification did India submit?",
+      "next": "Primary wording confirmed for S/2025/289 and S/2025/290, and post-operation S/2025/308. Audit submission timestamps and legality, then find any Indian UN communication; do not confuse notifying with entitlement."
     },
     {
       "id": "Q41",
       "priority": "medium",
       "question": "Who created the Pahalgam suspect identity report disavowed by India's Defence Ministry on 4 August 2025?",
       "next": "Locate archived original report, publication/forwarding history, and any authenticated author response."
+    },
+    {
+      "id": "Q42",
+      "priority": "critical",
+      "question": "Did India file a formally identifiable Article 51 report regarding the May 2025 operation, and if so when?",
+      "next": "Search UN Digital Library by Indian permanent mission, author, document symbol, date and formal note, including OHCHR letter-response trail."
+    },
+    {
+      "id": "Q43",
+      "priority": "high",
+      "question": "What responses did India and Pakistan provide to OHCHR AL IND 8/2025, AL IND 10/2025 and AL PAK 10/2025?",
+      "next": "Find reply documents in OHCHR correspondence archive and government portals; blank portal field does not prove nonresponse."
+    },
+    {
+      "id": "Q44",
+      "priority": "high",
+      "question": "Do original court and detention records substantiate the alleged 2,800 Kashmir arrests and late April house demolitions?",
+      "next": "Acquire anonymised administrative and court registers, keep detention, charge, release and criminal guilt separate."
+    },
+    {
+      "id": "Q45",
+      "priority": "critical",
+      "question": "How do Pakistan's 40 civilian deaths and 121 injuries in S/2025/308 map to uniquely identified victims and locations?",
+      "next": "Deduplicate May13/May16 reports against independent hospital, civil registry and site-level evidence, by age/sex where safe and verified."
+    },
+    {
+      "id": "Q46",
+      "priority": "medium",
+      "question": "How many states facilitated cessation and how did their messages relate to the May10 DGMO call?",
+      "next": "Obtain dated US, Pakistan, India and other involved government readouts, independently of same-government repeats."
     }
   ],
   "casualties": [
